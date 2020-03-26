@@ -1,0 +1,2 @@
+# vanikk06
+NOMURA_PROJECT
