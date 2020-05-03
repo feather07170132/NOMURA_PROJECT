@@ -12,10 +12,13 @@
 
 ### GitHub 資料整理
 - Analysis：資料分析
+
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Analysis)
 
 - Strategy：策略
+
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Strategy)
 
 - Crawler：爬蟲
+   
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Crawler)
