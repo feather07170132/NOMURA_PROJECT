@@ -15,10 +15,12 @@
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Analysis)
 
+- Crawler：爬蟲 ＆ 原始資料
+   
+  [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Crawler)
+
 - Strategy：策略 ＆ 整理好的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Strategy)
 
-- Crawler：爬蟲 ＆ 原始資料
-   
-  [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Crawler)
+
