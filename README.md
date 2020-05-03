@@ -14,10 +14,19 @@
 - Analysis：資料分析 ＆ 處理後的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Analysis)
+  
+  - 量化&質化資料，基本處理
+  - 特徵工程
+  - 貼label  
 
 - Crawler：爬蟲 ＆ 原始資料
    
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Crawler)
+  
+  - 質化：
+      - 新聞：[CNBC](https://www.cnbc.com/world/?region=world)
+      - 論壇：
+      - 財報
 
 - Strategy：策略 ＆ 整理好的資料
 
