@@ -11,14 +11,14 @@
 - 目標：使用「量化資料」加上「質化資料」找出低檔加碼的時間點
 
 ### GitHub 資料整理
-- Analysis：資料分析
+- Analysis：資料分析 ＆ 處理後的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Analysis)
 
-- Strategy：策略
+- Strategy：策略 ＆ 整理好的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Strategy)
 
-- Crawler：爬蟲
+- Crawler：爬蟲 ＆ 原始資料
    
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Crawler)
