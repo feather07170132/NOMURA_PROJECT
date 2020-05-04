@@ -12,12 +12,12 @@
 
 ---
 
-### GitHub 資料整理
+### GitHub 檔案分類
 - Analysis：資料分析 ＆ 處理後的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Analysis)
   
-  - 量化&質化資料，基本處理
+  - 根據原始量化&質化資料，進行處理
   - 特徵工程
   - 貼label  
 
