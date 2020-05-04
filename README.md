@@ -33,5 +33,8 @@
 - Strategy：策略 ＆ 整理好的資料
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/tree/master/Strategy)
+  
+  - 策略設計
+  - 策略成效評估
 
 
