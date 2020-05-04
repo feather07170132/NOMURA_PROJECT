@@ -13,5 +13,5 @@
    [👉🏿DATA👈🏿](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Crawler/NGEF_underlying_asset_info.csv)
    
    - Code：[NGEF_Underlying_Asset_Crawler.ipynb](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Crawler/NGEF_Underlying_Asset_Crawler.ipynb)
-    > 感謝[Wyne_Jie](https://github.com/sefx5ever)提供
+      > 感謝[Wyne_Jie](https://github.com/sefx5ever)提供
   
