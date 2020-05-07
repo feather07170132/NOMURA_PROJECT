@@ -41,5 +41,15 @@
   - Output Data：[labeled_nomura.csv](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/labeled_nomura.csv)
 
 ### ML分類器
+> 【基金相關】
 
-- 
+> 【標的物相關】
+
+- Labeling：用基金相關的資料丟ML分類器，使用ANN，目前model訓練效果不佳
+  > 基金相關
+
+  [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/Labeling.ipynb)
+   
+   -可能原因：
+       1. 特徵工程沒做好，matrix不乾淨
+       2. 欄位太少
