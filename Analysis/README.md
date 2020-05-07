@@ -50,6 +50,6 @@
 
   [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/Labeling.ipynb)
    
-   -可能原因：
+   - 可能原因：
        1. 特徵工程沒做好，matrix不乾淨
        2. 欄位太少
