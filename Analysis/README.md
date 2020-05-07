@@ -45,10 +45,10 @@
 
 > 【標的物相關】
 
-- Labeling：用基金相關的資料丟ML分類器，使用ANN，目前model訓練效果不佳
+- Prediction model：用基金相關的資料丟ML分類器，使用ANN，目前model訓練效果不佳
   > 基金相關
 
-  [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/Labeling.ipynb)
+  [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/Prediction%20model.ipynb)
    
    - 可能原因：
        1. 特徵工程沒做好，matrix不乾淨
