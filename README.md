@@ -28,7 +28,7 @@
   - 質化：
       - 新聞：[CNBC](https://www.cnbc.com/world/?region=world)
       - 論壇：[Reddit](https://www.reddit.com/)
-      - 財報：[Rocket](https://www.rocketfinancial.com/)
+      - ~財報：[Rocket](https://www.rocketfinancial.com/)~
 
 - Strategy：策略 ＆ 整理好的資料
 
