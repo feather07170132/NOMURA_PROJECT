@@ -1,0 +1,1003 @@
+,created_utc,author,score,title,selftext
+0,2017-01-24,capaudaz,7,Is it too late to invest in Nvidia?,"I hear opinions that its overvalued and that most of it is hype, but I also hear that there are big prospects for it this year, what do you think?
+
+Do you think going half/half into Nvidia/AMD is a good idea?
+
+EDIT: Thanks everyone for your input. About the 50/50 I should have clarified its about what I want to invest in the GPU/AI space, not the entire portfolio."
+1,2017-01-19,ILoveSushi1337,258,Tesla Upgraded by Morgan Stanley - enjoy the short squeeze,"http://www.cnbc.com/2017/01/19/morgan-stanley-upgrades-tesla-giving-4-reasons.html
+
+Price target: $305 by Q4 2017. 
+
+Shares are up ~4% in pre-market on this news. 
+
+Morgan Stanley is the first investment bank to upgrade Tesla this year. I expect many banks to do the same as the Model 3 is launching by H2 2017. 
+
+Of course, there is the possibility that Tesla may delay the release of the Model 3, which may prevent it from reaching Morgan Stanley's current Q4 target price of $305. 
+
+However, I doubt that the Model 3 will be delayed any further than Q1 2018, and that is a conservative estimate. I really do think Tesla will get its act together and deliver the Model 3 on time (with a 5% margin of error which translates to +/- a few weeks). 
+
+In the extra long-term, I expect Tesla to reach $500+. It is a ""bubble stock"", and just like how investors played Amazon back a few years ago, I expect the same thing to happen to Tesla. 
+
+Tesla may look overpriced, but it's more than just an auto company. It is an energy solutions company that is transforming both the auto and energy industries all in one-shot. It's very different from investing in traditional auto companies like GM, which offer good value, a dividend but much lower potential growth. 
+
+GM may be rolling out electric cars, but it is years behind Tesla in terms of charging networks and AI. And before you say that other automakers are on-track to manufacture self-driving cars for cheaper with the same quality, remember Tesla is not just an auto company, it is a energy solutions company that is propagating the next revolution in TWO industries, not just one. 
+
+*EDIT:* The Tesla Model S and X are niche products. They are high-end, large sedan/SUV luxury vehicles, more expensive than most BMW, Lexus, Infiniti, etc models.
+
+The Model 3, while still relatively more expensive than your traditional value-for-money Korean/Japanese small-medium sedan, attracts a far, far greater amount of potential customers, which, in my opinion (and many experts' opinions), will lead to an explosion in TSLA's stock price through the $400 region, and potentially even $500~$600 (i.e. where Amazon was 2 years ago). 
+
+*EDIT 2:* TSLA stock is very much following the footsteps of AMZN stock. Look at AMZN's stock price between November 2013 to March 2015. It was mostly a sideways movement, with periodic uptrends and downtrends. The same thing has been happening to TSLA for the past 3 years. However, as a big change is coming to Tesla (i.e. the Model 3 launch and mass production of energy storage products), I expect this recent boom in the stock price to continue an uptrend for the next year, at the very least. And I expect TSLA's stock price to reach $400~$600 in this latest uptrend. Again, this is just my opinion, but I have been correct with many of my stock decisions in the past. This includes RSX and RSXJ, which I claimed earlier, in early December, that I saw limited gains in those Russian ETFs. And that actually happened. "
+2,2017-01-13,ILoveSushi1337,2,Investing in Tesla for the long term. TSLA's sideways movement may be over.,"TSLA has been trading sideways for the past 3 years. Typically, it would reach $140 or $180 and then peak out at between $240 and $280.
+
+It's up &gt;2% this morning. 
+
+However, seeing how Tesla is about to mark an important year with several new product announcements including a Tesla truck and bus, as well as production of hundreds of thousands of Model 3s, I think Tesla may go over $300, and potentially reach $500 by 2018. 
+
+The electric car industry isn't just about electric cars. It's about AI and Tesla is years ahead of the next biggest electric car maker, GM. I don't call Faraday Futures and some other obscure electric car startups as competitors as they have even worse balance sheets than Tesla or they're too small to compete realistically. 
+
+Driverless cars will replace conventional cars in the coming years, and will become mainstream by 2030. This may propagate Tesla's stock price to reach &gt;$500, although this is just me speculating at this point. 
+
+Discuss. "
+3,2017-01-10,Charuru,25,My thoughts on competition to NVDA in GPUs,"If you're interested in investing in NVDA check out my new subreddit /r/NVDA_Stock. It's shamelessly inspired by /r/AMD_Stock You can read and discuss this article here: https://www.reddit.com/r/NVDA_Stock/comments/5n6ohq/nvidias_gpu_revenue_is_secure_for_the_next_year
+
+
+**Nvidia's GPU revenue is secure for the next year, there is still no competition.**
+
+There are many bears that are concerned about competition from AMD's Vega in both gaming and deep learning. I took the time to learn about Vega and study the state of the competition seriously. My conclusion is that competition is **non-existent**.
+
+
+
+**Gaming**
+
+Polaris failed to make an impact as we saw last quarter with NVIDIA's record revenues and AMD's very weak revenues. Coming a full year later after the launch of Pascal, Vega is expected to hit around GP104 performance. This level of performance is probably too low. GP104 was top tier in 2016 but will be merely mid-tier in 2017. The 1080ti will replace the 1080 as the gaming flagship for NVIDIA and Vega will only work as mid-tier competition. NVIDIA should also launch their Pascal refresh or Volta cards by fall of this year. If that's the case, then GP104 will fall to mid-low tier, not mid tier, and Vega will only compete on the budget level. As a result NVIDIA will once again face no competition in most of the market for gamers. 
+
+
+
+**Deep learning**
+
+In deep learning competition is again non-existent. Many people have pointed to Google also offering AMD cards in their cloud as a sign of validation for AMD as a deep learning competitor. But this is untrue and a media scam, or worse yet, some kind of scheme to fool investors.
+
+https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html
+
+Read the google cloud announcement directly instead of reading an ignorant regurgitation from financial news outlets.
+
+&gt; Google Cloud will offer AMD FirePro S9300 x2 that supports powerful, GPU-based remote workstations. We'll also offer NVIDIA® Tesla® P100 and K80 GPUs for deep learning, AI and HPC applications that require powerful computation and analysis. GPUs are offered in passthrough mode to provide bare metal performance. Up to 8 GPU dies can be attached per VM instance including custom machine types.
+
+As we can see, only NVIDIA cards are being offered for deep learning. AMD cards are only used for remote workstations, an old and uninteresting usecase. AMD has no competition for deep learning as of yet. The FirePro cards are offered at extreme discounts to the NVIDIA equivalents, we're talking about prices that are only 1/2 to 1/4 as much. Yet Quadro and Tesla dominate the market vs FirePro. In any case, NVIDIA is not interested in engaging in a race to the bottom with AMD and the customer base for those products are generally not so price sensitive.
+
+AMD also announced a Vega based ""Instinct"" deep learning platform. Though 5 years late, AMD is hoping to start the catch up with the launch of Vega. There are 2 questions to think about with Instinct in respect to whether or not it'll be successful in deep learning.
+
+Question 1 is the hardware, is it competitive with P100? Question 2 is the software, can the CUDA moat of NVIDIA be breached?
+
+
+
+**THE HARDWARE**
+
+Reference article: http://www.anandtech.com/show/10905/amd-announces-radeon-instinct-deep-learning-2017
+
+Hardware-wise, NVIDIA has a feature advantage. NVIDIA's cards are optimized for ""deep learning operations"" while AMD is not. But let's be clear here, ""deep learning operations"" is marketing for INT8. Most deep learning today is done on FP16. P100 is ""10x"" faster than Maxwell partly based on improvements to FP16 deep learning operations and is today far ahead of any competition.
+
+In the future, AMD is advertising better support for FP16, bringing them up to parity with NVIDIA in that regard. But NVIDIA is moving ahead with support for INT8 operations, an even faster way of doing deep learning than FP16. INT8 is however useful only in some usecases.
+
+&gt; Deep learning research has found that trained deep neural networks can be applied to inference using reduced precision arithmetic, with minimal impact on accuracy. These instructions allow rapid computation on packed low-precision vectors. Tesla P4 is capable of a peak 21.8 INT8 TOP/s (Tera-Operations per second).
+
+Investors should be careful to note that this is only NVIDIA marketing, INT8's usefulness in the real world has not yet been proven. In this case, hardware for INT8 did not exist prior to Pascal and it will be with the expansion of Pascal into the market that real applications for INT8 will be written. However if NVIDIA is correct (and I think they are), INT8 represents yet another generationally important hardware feature that NVIDIA has over AMD.
+
+But let's ignore this for now and talk about competition in the more traditional FP16.
+
+AMD is offering a Polaris, Fiji, and Vega based solution. 
+
+Anandtech is politely saying that Polaris and Fiji are generally worse than the NVIDIA options.
+
+&gt; The MI6 and MI8 will be going up against NVIDIA’s P4 and P40 accelerators. AMD’s cards don’t directly line-up against the NVIDIA cards in power consumption or expected performance, so the competitive landscape is somewhat broad, but those are the cards AMD will need to dethrone in the inference landscape.
+
+I'll be more realistic and say right away that simply means AMD is completely non competitive for the Polaris and Fiji products, especially considering the relative price inelasticity of deep learning customers and NVIDIA's lead in CUDA (which I'll get to in section 2).
+
+More interesting is MI25, the upcoming Vega based product. It's got new architectural improvements of uncertain value. We simply don't know how it will compete against P100.
+
+&gt; As AMD’s sole training card, the MI25 will be going up against NVIDIA’s flagship accelerator, the Tesla P100. And as opposed to the inference cards, this has the potential to be a much closer fight. AMD has parity on packed instructions, with performance that on paper would exceed the P100. AMD has yet to fully unveil what Vega can do – we have no idea what “NCU” stands for or what AMD’s “high bandwidth cache and controller” are all about – but on the surface there’s the potential for the kind of knock-down fight at the top that makes for an interesting spectacle. And for AMD the stakes are huge; even if they can’t necessarily win, being able to price the MI25 even remotely close to the P100 would give them huge margins. More practically speaking, it means they could afford to significantly undercut NVIDIA in this space to capture market share while still making a tidy profit.
+
+Anandtech is full of optimism for the MI25. I look at it much more critically. Even if the MI25 is competitive on the hardware level it is probably too late. Like in the gaming market, it comes a full year after Pascal and Volta-based deep learning chips are probably going to be announced before their release. This year's GTC (GPU Technology Conference), the annual NVIDIA hosted conference should see the announcement of Volta based V100 for deep learning. Pascal was announced at last year's GTC.
+
+Based on this release cadence, AMD looks at least a year behind in technology even ignoring INT8. 
+
+
+**The Software, CUDA Moat.**
+
+A lot of investors have heard of CUDA and how important it is in deep learning. But it doesn't seem like its importance is sufficiently stressed seeing as how many bears are still out there talking about competition. CUDA has already won, there is no war, the war is over. NVIDIA's proprietary platform is as dominant as windows is over Linux. CUDA is easier to use, have a vastly bigger community, resources, tooling, love and support from everyone. There is basically no alternative. The idea of OpenCL winning vs CUDA in 2017 is as farcical as the idea of Linux winning over Windows on the desktop in 2017. So long as people love CUDA they will stick with NVIDIA.
+
+AMD is going to attempt to breach the CUDA moat with the Boltzmann Project. It's a project to poorly port CUDA code to AMD compatible OpenCL code. To me this sounds almost a bit delusional... but I'll talk about it anyway. Has any software platform ever won by creating an emulator / port layer for another platform's user apps? Doesn't such a thing just send the signal that the winning platform has, in fact, won?
+
+The Boltzmann Project is of dubious quality technology wise. I read in many places that the output is garbage. But just humoring it, we have to raise the question why anyone would want to port from a popular and great environment like CUDA to a crappy one like OpenCL in the first place. The only answer is, they don't want NVIDIA to get a monopoly on deep learning (it's too late NVDA already has a monopoly) and want to support AMD to help it become a competitor.
+
+The only problem is such logic is that computer scientists are not fanboys. People generally don't spend weeks of work time to help out a company for the purpose of charity. They want to get stuff done, make software, get their AIs to make recommendations, help translate languages, create machine music, make medical diagnosis, whatever it is that they're doing. 
+
+Is it possible for AMD to make ground in the CUDA moat? I can't dismiss it out of hand, if AMD makes an unrealistic, absurd amount of investment in that effort, I can see them making progress. [It's just extremely unlikely, and everyone knows it.](https://www.reddit.com/r/MachineLearning/comments/4m417z/amd_polaris/d3sholx/
+)
+
+In conclusion, there are no concerns about competition vis-a-vis AMD. But that doesn't mean there isn't a bear case for the NVDA stock. Stick around /r/NVDA_Stock and check out some other posts.
+
+
+"
+4,2017-02-28,TheRealArcher,0,"Looking for ETF's specialised in new upcoming players for automation, robotics and AI. Important factor is that they are not filled with all the obvious choices that i can easily invest in myself.","Preferably not filled too much with TSLA AAPL GOOGL ...
+I'm very interested in everything aquaponics, robotics such as boston dynamics, 3D printing, etc etc. But I lack the time to keep up."
+5,2017-02-27,ZnVja3JlZGRpdA,0,Best companies to invest in AI / Machine Learning ?,"It seems like a lot of strong companies utilizing ML are private, but looking at the public options, which do you feel are good bets for ML tech ?"
+6,2017-02-25,FCowperwood,4,Apple extending Seattle footprint with new offices dedicated to AI and machine learning,http://venturebeat.com/2017/02/24/apple-extending-seattle-footprint-with-new-offices-dedicated-to-ai-and-machine-learning/
+7,2017-02-17,erdt,3,AI &amp; Robotics,"Mark Cuban was on CNBC claiming AI/Robotics is poised to annihilate jobs over the next couple years. Incremental automation has been an obvious long term trend, but he was adamant about how significant a disruption it will be in the immediate future. He said it in a way that implied there must be a sudden jump in technology taking place.
+
+Isn't manufacturing much of the way down this road already? The only new major change I can foresee is automated customer service (in store checkouts,  call centers, etc) which seem more tied to changing customer acceptance than technology. Where are all these simple jobs that automation is poised to suddenly replace?"
+8,2017-02-11,FCowperwood,439,Ford to invest $1 billion in self-driving tech startup Argo AI,"http://venturebeat.com/2017/02/10/ford-to-invest-1-billion-in-self-driving-tech-startup-argo-ai/
+
+&gt;Implying that Ford is stronk"
+9,2017-02-02,scrascri,3,Tulip Mania/Sub prime mortgages,The world loves to obsess over certain aspects of the market. Undoubtedly most of us were affected by the Housing collapse in 2008. The DJIA is trading at astronomical levels that seem to be based on speculative trading. I propose that the current market bubble that is building is the AI/Tech/CPU bubble. So my question is what type of market bubble do you think we are currently in and what is the reason you believe it?
+10,2017-02-02,benstopics,3,"44 Stocks w/ PE &lt;= 20.0, PBV &lt;= 1.20, Dividend &gt;= 5%, Market Cap &lt;= $2B","Hello r/investing,
+
+I posted a similar thread in r/SecurityAnalysis with a stricter PE and more lenient dividend yield. [link](https://redd.it/5rlhff)
+
+This time I have raised the PE to 20.0, but also increased the dividend to at least 5% APY. The price/book value ratio should still represent a margin of safety, but maybe have a chance to include more growth stocks? I'm not very good at picking growth stocks... Some of the stocks in this list are also featured in my previous list.
+
+[XIN](https://finance.yahoo.com/quote/XIN) [NEWT](https://finance.yahoo.com/quote/NEWT) [EURN](https://finance.yahoo.com/quote/EURN) [IBKCP](https://finance.yahoo.com/quote/IBKCP) [IBKCO](https://finance.yahoo.com/quote/IBKCO) [FRO](https://finance.yahoo.com/quote/FRO) [CYS](https://finance.yahoo.com/quote/CYS) [CMRE](https://finance.yahoo.com/quote/CMRE) [OXBR](https://finance.yahoo.com/quote/OXBR) [AJX](https://finance.yahoo.com/quote/AJX) [WTFCM](https://finance.yahoo.com/quote/WTFCM) [TCBIP](https://finance.yahoo.com/quote/TCBIP) [SXCP](https://finance.yahoo.com/quote/SXCP) [HT](https://finance.yahoo.com/quote/HT) [ORC](https://finance.yahoo.com/quote/ORC) [RWT](https://finance.yahoo.com/quote/RWT) [ACRE](https://finance.yahoo.com/quote/ACRE) [MTGE](https://finance.yahoo.com/quote/MTGE) [NEWM](https://finance.yahoo.com/quote/NEWM) [MITT](https://finance.yahoo.com/quote/MITT) [KNOP](https://finance.yahoo.com/quote/KNOP) [NAP](https://finance.yahoo.com/quote/NAP) [MN](https://finance.yahoo.com/quote/MN) [CYD](https://finance.yahoo.com/quote/CYD) [EARN](https://finance.yahoo.com/quote/EARN) [BCRH](https://finance.yahoo.com/quote/BCRH) [BLX](https://finance.yahoo.com/quote/BLX) [NAT](https://finance.yahoo.com/quote/NAT) [JCAP](https://finance.yahoo.com/quote/JCAP) [ARI](https://finance.yahoo.com/quote/ARI) [SAR](https://finance.yahoo.com/quote/SAR) [SLD](https://finance.yahoo.com/quote/SLD) [ATAX](https://finance.yahoo.com/quote/ATAX) [ABR](https://finance.yahoo.com/quote/ABR) [HIFR](https://finance.yahoo.com/quote/HIFR) [CMO](https://finance.yahoo.com/quote/CMO) [NYMT](https://finance.yahoo.com/quote/NYMT) [ANH](https://finance.yahoo.com/quote/ANH) [LADR](https://finance.yahoo.com/quote/LADR) [ASC](https://finance.yahoo.com/quote/ASC) [CHMI](https://finance.yahoo.com/quote/CHMI) [GES](https://finance.yahoo.com/quote/GES) [CLNS](https://finance.yahoo.com/quote/CLNS) [AI](https://finance.yahoo.com/quote/AI)"
+11,2017-03-30,Frenchiie,1,Target retirement fund vs self managed index funds on a downward market?,"I'm a noob to investing and i just opened a Roth IRA with Vanguard. I'm currently debating whether to start a target retirement fund or self manage my ""three-fund portfolio"" myself according to my retirement needs over the next 30 years. 
+
+One question that i have is how reactive is the target retirement fund when the market spirals downward, leading to a potential recession? I've heard many horror stories of people losing a third of their retirement savings from the last recession. Sure the market bounces back but is there anything that a smart investor could have done to reduce the hurt? Does managing my own distribution of US stock index funds, International Stock index funds, and Bond index funds give me a better chance to react to a downward market? 
+
+Another question that i have is whether 1. there are software out there that does what a target retirement fund does in terms of guidance but without actually managing it. 2. whether there are AI software that does what the target retirement fund does but better and at a fraction of the price and hooks into the vanguard APIs?  "
+12,2017-03-30,FuckingMondays,0,Canada's Prime Minister to discuss AI Investment Strategy with North America's Largest Automotive Supplier,"http://www.cp24.com/news/trudeau-to-make-auto-announcement-highlight-ai-in-ontario-1.3347048
+
+Is now a buying opportunity for Magna International (TSE:MG)? Magna International's fundamentals are promising. How are international politics affecting companies in the automotive supply chain? "
+13,2017-03-30,baronl,1,AI stocks,[removed]
+14,2017-03-25,FCowperwood,6,China’s Baidu expands in Silicon Valley,"https://venturebeat.com/2017/03/24/chinas-baidu-expands-in-silicon-valley/
+
+For those , too lazy to click a link:
+
+&gt;
+
+Chinese search giant Baidu is expanding its Silicon Valley footprint with a new office in Sunnyvale that’s specifically for autonomous driving and AI research, the company announced today.
+
+With this expansion, company president and ex-Microsoft executive Ya-qin Zhang is taking on an additional title: chairman of Baidu USA.
+
+The company’s U.S. presence in part functions as a recruiting tool for computer scientists from top schools and startups. Baidu is so eager to bring AI talent to China that the company is reportedly offering scientists 15 percent raises to relocate there.
+
+However, Baidu’s research team was recently dealt a noteworthy blow; Andrew Ng, the company’s chief scientist who joined from Google in 2014, is leaving the company.
+"
+15,2017-03-22,FCowperwood,0,Casetext raises $12 million for legal research assistant CARA,"http://venturebeat.com/2017/03/22/casetext-raises-12-million-for-legal-research-assistant-cara/
+
+&gt;And last October, a group of **legal** and computer science professionals made an AI judge that was nearly 80 percent accurate in its assessment of cases heard by the European Court of Human Rights."
+16,2017-03-22,MyBit_DApp,1,[ANN] MyBit ✦Decentralized Asset Management w/ AI &amp; Smart Financing✦,[removed]
+17,2017-03-22,piqcyl,0,What is the future of ai and investing?,"Not that you guys know exactly what going to happen or anything. So my question is, what happens if trading is fully automated? What does that mean for financial markets? Is total automation even probable/desirable? 
+
+I know some ai can put preform hedge funds so what does that mean for future finance related jobs. 
+
+Sorry for having a lot of disorganized questions and improper terminology etc. I'm still in high school. I just have come across certain headlines about ai and am curious."
+18,2017-03-20,FCowperwood,0,"Samsung officially unveils Bixby, its new AI assistant for mobile and IoT","http://venturebeat.com/2017/03/20/samsung-officially-unveils-bixby-its-new-ai-assistant-for-mobile-devices-and-iot/
+
+Any thoughts?"
+19,2017-03-18,vmsmith,4,Artificial Intelligence Given Priority Development Status in China,"[AI Given Priority Development Status in China](http://www.scmp.com/sport/article/2077464/artificial-intelligence-given-priority-development-status)
+
+This is just one of the most recent news items about China's interest in AI, and the willingness to commit resources to develop it.
+
+So the questions that beg to be answered are: how does it get monetized, and what does one look for in terms of investment opportunities?
+
+"
+20,2017-03-17,mrtylerrr,17,How relevant is How to Make Money in Stocks: A Winning System in Good Times and Bad,Is chart reading still possible with the emergence of high-frequency and AI trading systems? Does that skew the volume beyond eligibility? 
+21,2017-03-12,fourhundredthecat,2,How to profit from the coming Machine Learning / AI revolution,"Let's assume that Machine Learning (or AI in general) will be the next big thing (ie, comparable to the internet revolution in the 1990s). What would be the best way to invest, to take advantage of this trend? 
+
+What stocks would be best investments, either directly or proxy.
+
+Seems to me, most companies active in ML are startups, that end up being bought by the tech titans (Google, FB, MS, Amazon, ...) before they go public.
+
+Besides, startups are notoriously unpredictable and risky.
+
+What other investments might benefit from ML/AI revolution ?"
+22,2017-03-03,pdeluc99,1,"If ai wanted to invest in satellites, would SpaceX be a reasonable choice if/when they go public?",
+23,2017-03-02,egsj,1,Kensho's AI For Investors Just Got Valued At Over $500 Million In Funding Round From Wall Street,"https://www.forbes.com/sites/antoinegara/2017/02/28/kensho-sp-500-million-valuation-jpmorgan-morgan-stanley/
+
+Anyone have first hand experience using their system? Is it really able to handle a broad range of investment related questions?"
+24,2017-04-19,SlowAppreciation,654,Berkshire Hathaway is Undervalued,"**INTRODUCTION**
+
+Berkshire Hathaway is a conservatively-run, well-capitalized business, managed by one of the greatest CEOs of all time. It uses minimal leverage, operates across many recession-resilient industries, and has grown earnings 20% per year since 1999. Businesses like this rarely trade for less than 20x earnings. Berkshire Hathaway trades for 7x.
+
+While the company is best known for being a collection of “Warren Buffett’s stock picks”, it now derives a significant—and growing—portion of its value from another source: earnings from the company’s wholly-owned subsidiaries. We argue that this latter group—whose earnings exceed those of Amazon, Google, Netflix, Tesla, Twitter, and Uber; combined—is being under-appreciated by the market.
+
+**BUSINESS HISTORY**
+
+In 1964, Warren Buffett took control of a struggling New England textile manufacturer, named Berkshire Hathaway. Its net worth was $22m at the time. Fifty years and $411b later, Berkshire Hathaway is now the fourth largest company in the US, with a reach so wide it makes money nearly every time:
+
+* a plane is flown
+* a car is sold
+* a house is built 
+* goods are transported to/from the West Coast
+* an iPhone is purchased
+* a lightbulb goes on in Nevada
+* someone drinks a Coke
+* a french fry is dipped in ketchup
+* [and the guy at DQ does this](http://shenzhenphotos.com/images/20101213144523_upside%20down%20blizzard.jpg)
+
+So how did Buffett grow a modest textile company into a sprawling conglomerate—one that now owns dozens of operating companies and a stock portfolio worth $150b?  
+
+In the decades after taking control of Berkshire, Buffett steered the company through three major—and lucrative—shifts. He began in the late 1960s by acquiring insurance companies. Then he started using the insurance premiums generated by their operations to buy shares of publicly traded companies. Finally, in the 1990s, he began buying large businesses outright. 
+
+**Phase I**: Buying Insurance Companies to Generate Float
+
+The first step took place in 1967, when Berkshire purchased a small Nebraskan insurance company called National Indemnity for $8.6m. Buffett was drawn to characteristics unique to the insurance business: cash—in the form of premiums—is collected years before claims are paid out. In the meantime, the insurance company is free to invest it. This money is commonly referred to as “float”. Buffett explains further:
+
+&gt; “Float is money we hold but don't own. In an insurance operation, float arises because premiums are received before losses are paid, an interval that sometimes extends over many years. During that time, the insurer invests the money. This pleasant activity typically carries with it a downside: The premiums that an insurer takes in usually do not cover the losses and expenses it eventually must pay. That leaves it running an ‘underwriting loss’, which is the cost of float. An insurance business has value if its cost of float over time is less than the cost the company would otherwise incur to obtain funds.”
+
+In other words: for most insurers, the combined cost of running their business and paying out claims usually exceeds the money they receive from premiums. Most insurers make up for these underwriting losses by profitably investing their float. If they just so happen to earn an underwriting profit—that is, if premiums ultimately exceed the cost of running the business plus the cost of claims—it’s simply a bonus. 
+
+Unlike most insurers, Berkshire consistently earns an underwriting profit. So not only does Berkshire get to invest the float, but it’s effectively paid to do so! Buffett says, “That’s like your taking out a loan and having the bank pay you interest.” 
+
+An insurer that consistently generates float and earns an underwriting profit is a great business. Still, Buffett saw more potential. Instead of investing the float in conservative and low-yielding bonds like a traditional insurance company does, Buffett took a new approach: he used the float to buy stock in other companies selling for reasonable prices.
+
+**Phase II**: Using Float to Buy Partial Ownership of Other Companies (i.e., Stocks)
+
+Throughout much of the 1970s and 1980s, Buffett used the proceeds from Berkshire’s insurance businesses to buy shares of a number of fantastic companies—such as Coca Cola, American Express, and The Washington Post—which were at the time selling for far less than their intrinsic values. By investing the borrowed money (i.e., float) that Berkshire was in effect being paid to hold, Buffett was able to lever his returns—earning Berkshire and its shareholders 20%+ per year. Even better, this leverage came from owned insurance operations rather than debt—which meant Berkshire reaped all the benefits of leverage without shouldering its traditional downside (such as interest expenses and an increase in risk).
+
+Until the early 1990s, Berkshire Hathaway was in essence a lightly-leveraged, publicly-traded stock portfolio, managed by an unusually prudent investor. But as Berkshire grew in size, it became increasingly difficult to find opportunities in publicly traded companies that were large enough to move the needle. So Buffett changed track for the third time: he began acquiring operating businesses outright.
+
+**Phase III**: Buying Full Ownership of Operating Businesses
+
+hough Buffett did buy a few operating businesses in the 1970s and 1980s, it wasn't until the 1990s that he started doing so in earnest. Present-day Berkshire fully owns dozens of businesses, including: GEICO, Burlington Northern Santa Fe Railroad, Dairy Queen, Benjamin Moore Paints, Clayton Homes, and ACME Brick. At first, the collective net worth of these businesses was dwarfed by Berkshire’s investment portfolio. And to this day it is the investment portfolio which remains the focus for most investors. But as Buffett continued to acquire simple, stable businesses that possessed what he deemed favorable long-term competitive advantages, their total value swelled. Today, they make up half of Berkshire’s intrinsic value.
+
+**PRESENT-DAY BUSINESS OVERVIEW**
+
+I. What is the Value of Berkshire’s Investment Portfolio (and Cash &amp; Bonds)?
+
+Included in this half of Berkshire’s value are its cash, bonds, and 5%-15% partial ownership stakes in companies such as American Express, Kraft Heinz, Apple, Coca Cola, IBM, Bank of America, and many others. Valuing Berkshire’s investment portfolio is simple. Since “cash is cash”, and the market prices the stocks and bonds every day, one needs only to look up the price and the number of shares owned by Berkshire to get an approximation of their worth:
+
+[Chart](http://i.imgur.com/ayoXqDS.png)
+
+An investor can then apply a premium or a discount, based on whether current market prices are under or overvalued.  An argument could be made that Berkshire’s stock portfolio warrants a slight premium in light of Buffett’s investing prowess, but for simplicity’s sake we are assigning no premium, and assume the market is pricing each company correctly. 
+
+After summing up available cash, stocks, bonds, and preferred shares, we get $257b worth of investments.
+
+ |Book Value|Per B Share
+:--:|:--:|:--:                               
+Cash|$66.3b|$27
+Stocks|$120.5b|$49
+Bonds|$23.8b|$10
+Preferred/Warrants|$17.3b|$7
+Kraft Heinz|$29.6b|$12
+**Total**|**$257.5b**|**$105**
+
+On a per share basis, this totals $105, or 64% of Berkshire's current $163/share price. 
+
+II. What is the Value of Berkshire’s Operating Businesses?
+
+The rest of Berkshire’s value comes from its operating businesses. After backing out the $105/share of investments from Berkshire’s current share price ($163), the remainder—or $58/share—is what the market believes the operating businesses are worth. 
+
+[Chart](http://i.imgur.com/KdpdCHX.png)
+
+Since the true value of its investment portfolio is more or less determined by the market, the question of whether or not Berkshire is properly valued at $163/share comes down to this: is $58/share a fair price to pay for Berkshire’s operating businesses? Considering these companies earned $8.56/share (pre-tax) in 2016, we feel that paying $58/share for this group—or 7x earnings—is a bargain.
+
+Let’s break this down. Berkshire’s group of wholly-owned operating businesses has grown20%/yr for nearly two decades, earning $21b ($8.56/share) in 2016. Broadly speaking, its businesses fall into one of five segments: insurance; Berkshire Hathaway Energy (BHE); Burlington Northern Santa Fe Railroad (BNSF); Manufacturing, Services, &amp; Retailing (MSR); and Finance &amp; Financial Products. 
+
+[Berkshire Segment Subsidiaries](http://i.imgur.com/GArlySE.png)
+
+**1. Insurance**
+
+*2016 earnings: $2.1b (10 % of total)
+*Companies: GEICO, General Re, National Indemnity, etc. 
+
+Since the purchase of National Indemnity in 1967, Berkshire’s insurance operations have become the largest and most profitable in the world. They have delivered 14 consecutive years of underwriting profits—a feat unheard of in the industry. 
+
+Aside from unusually consistent earnings, the insurance group provides Berkshire with an even greater benefit discussed earlier: float. At year end 2016, the company’s float—money that Berkshire holds but does not own—stood at over $100b. This free financing is available to Berkshire to acquire more businesses across a range of industries.
+
+**2. Finance and Financial Products**
+
+* 2016 earnings: $2.1b (10% of total)
+* Companies: Clayton Homes, XTRA, Marmon, CORT
+
+This is Berkshire’s smallest group, made up of companies that specialize in mobile home manufacturing/financing, furniture rentals, and equipment leasing. 
+
+**3. Berkshire Hathaway Energy (BHE)**
+
+* 2016 earnings: $2.7b (13% of total)
+* Companies: NV Energy, MidAmerican Energy, PacifiCorp, etc. 
+
+Berkshire Hathaway Energy is a group of regulated utilities, renewable power sources, and gas pipelines operating in Nevada, Utah, Iowa, Oregon, Canada, and the United Kingdom. Regulators allow these monopolies to exist, in exchange for a limit on how much they can earn. Even with these limits in place, this group of companies provides predictable and recession-proof earnings, with the important added benefit of allowing Berkshire to defer billions of dollars in taxes because of their large capital expenditure needs. 
+
+**4. Burlington Northern Sante Fe Railroad (BNSF)**
+
+* 2016 earnings: $5.7b (27% of total)
+* Companies: Burlington Northern Santa Fe Railroad
+
+Railroads play a vital role within the US economy; they ship goods from point A to point B more efficiently and cheaply than all other forms of transport. And because railroads require massive amounts of capital, land, equipment, and government cooperation, these companies are virtually impossible to duplicate—making disruption by a new competitor extremely unlikely. 
+
+The railroad industry is made up of regional duopolies, with BNSF and Union Pacific controlling the western US. While their earnings are cyclical and highly dependent on the health of the national economy, their long-term returns will almost assuredly be above average. Since acquiring BNSF in 2010 for $30b, the company has already earned a total of $24b, and is now the second largest contributor to Berkshire’s operating profit. Like the BHE group, BNSF requires large amounts of capital investment every year to maintain the infrastructure. And just like BHE, these capital outlays can be used to defer taxes at the parent-level for decades to come. Being able to “pay today’s taxes tomorrow” is another nice little form of float; one that lets Berkshire profitably—and tax-efficiently—reinvest billions of dollars back into both segments. 
+
+Said more simply: owning utilities is not a way to get rich; it’s a way to stay rich. And Berkshire intends on staying rich.
+
+**5. Manufacturing, Services, and Retailing**
+
+* 2016 earnings: $8.5b (40% of total)
+* Companies: See’s Candy, Lubrizol, Dairy Queen, Marmon, The Pampered Chef, etc. 
+
+This segment drives the lion’s share of Berkshire’s operating earnings. It is an eclectic collection of businesses, selling everything from Dilly Bars to partial ownership of private jets. As a whole, the group earns very respectable returns on capital—with almost no use of financial leverage. Furniture, ice cream, airplane parts, and underwear may not be the most trendy businesses in the world, but they’re safe, stable, and profitable, with many earning 15%-20%/year. 
+
+Together, these five groups earned $21b last year for Berkshire, or $8.56/share.
+
+ |Pre-Tax Earnings|Per B Share
+:--:|:--:|:--:                               
+Underwriting|$2.1b|$0.86
+BHE|$2.7b|$1.10
+BNSF|$5.7b|$2.31
+MSR|$8.5b|$3.43
+Financial Products|$2.1b|$0.85
+**Total**|**$21.1b**|**$8.56**
+
+**Are Berkshire’s Operating Businesses Being Fairly Valued by the Market?**
+
+Back to the question: Is $58/share a fair price to pay for Berkshire’s operating businesses? 
+
+For $58/share, investors are getting $8.56 of earnings generated by a group of stable companies that: earn solid returns on capital; have been vetted by an investor widely recognized as the greatest of all time; have grown earnings at 20%/yr since 1999; are unlikely to be disrupted by technological advances; and have long-term competitive advantages. 
+
+A standalone company with similar characteristics would probably trade above $170/share. Yet Berkshire’s operating business group trades for only $58. Perhaps if Berkshire renamed this part of their business Berkshire Hathaway AI Biotech Cloud Data Inc., it would it start trading at a more appropriate level. To put this in perspective, let’s imagine that certain popular tech companies started trading at a similar multiple to Berkshire’s operating businesses. Google’s share price would be $245 (versus actual $823); Netflix’s would be $4.50 (versus actual $142); and Amazon’s would be $64 (versus actual $884).
+
+So how many times earnings should an investor be willing to pay for Berkshire’s operating businesses? Each of the five groups has different economic characteristics, so one could apply specific multiples to each (for example, 10x for insurance, 12x for BHE, 15x for BNSF, 15x for MSR, and 10x for Financial Products are probably appropriate). Doing so may yield a more precise (and probably higher) assessment of Berkshire's worth. But with either approach, the message is clear: the market is undervaluing Berkshire.  
+
+We apply a simple—and rather conservative—10x multiple to Berkshire’s group of operating businesses, which yields $85/share in value. When combined with its $105/share of stocks, bonds, and cash, this puts Berkshire’s intrinsic value at somewhere around $190/share—a 15% premium to today’s price.
+
+**Conclusion**
+
+50 years ago, Berkshire Hathaway was a struggling New England textile manufacturer. The business—which required a lot of capital, was barely profitable, and had no long-term competitive advantages—was not a good one. But Warren Buffett decided to buy it anyway, thinking the company’s assets (e.g., machines, factories, accounts receivable, etc.) were worth more than the price he could could pay for the entire business. After assuming control, business steadily deteriorated, and it became apparent the market had been right—Berkshire was a dud. 
+
+Half a century later, Berkshire Hathaway is far from a dud. In fact, it’s probably one of the best companies in the world. While the textile business is long gone, what remains is an investment portfolio worth $105/share, and a collection steadily growing, well managed, and very profitable businesses, that together earned $8.56/share in 2016. A company like that should trade for 20x earnings. Berkshire is available for 1/3rd that."
+25,2017-04-18,8META8,0,"Anyone have a recommendation for a place to start learning about forex trading strategies, or good AI Forex bot?","Anyone have a recommendation for a place to start learning about forex trading strategies, or good AI Forex bot?
+
+I have been doing some forex trading with a bot and manually, and have learned a ton. However the bot I am looking into something different."
+26,2017-04-16,HeavenEdit,39,"What are things you can do to increase the likelihood of finding the next Google, Microsoft, Apple etc. ?","I (and probably many other people) like to daydream about having invested in some of these super popular companies or even in Bitcoin thinking about the humongous gains that could have been made. 
+
+However it's very likely that there will be new opportunities for very profitable investments that people might not even see yet. People are talking about big data, machine learning, artificial intelligence and are throwing all kinds of buzzwords around saying that they will be the next *big* thing. I think so too.
+
+For AI and self-driving cars there are lots of companies that one can invest in. Big players like Google are likely to have a big impact there. 
+
+However for *huge* returns you will need to spot an emerging super high growth market that not a lot of people see coming yet and a company perfectly suited for it.
+
+How would you go about making bets on such companies? Search through OTC / penny stocks and find something you think looks like a gem and **hold it for a couple of decades** (after you get through all of the scammers first) ? "
+27,2017-04-10,Bichael_Madley,44,"Cognitive and artificial intelligence spending expected to surge through 2020, says IDC","http://www.zdnet.com/article/cognitive-and-artificial-intelligence-spending-expected-to-surge-through-2020-says-idc/
+
+&gt; Revenue for cognitive and artificial intelligence systems will hit $12.5 billion in 2017, up 59.3 percent from a year ago, according to IDC. Through 2020, these AI systems will top $46 billion, up 54.4 percent on a compound annual growth rate.
+
+&gt;The biggest portion of that spending in 2017 will go to cognitive applications. IDC projects 2017 spending of $4.5 billion for the year. Cognitive and AI software platforms with tools to organize, access and analyze data will see spending of $2.5 billion.
+
+&gt;Meanwhile, services attached to rolling out cognitive and AI services will top $3.5 billion in 2017, said IDC, which also noted that $1.9 billion will be spent on hardware for these systems.
+
+&gt;As for use cases, quality management and recommendations, diagnosis and treatment, customer service, security and fraud investigations will lead. Those use cases will account for half of all AI system spending in 2017. Between 2015 and 2020, public safety and emergency response and pharmaceutical research and discovery will grow at the fastest clip.
+
+&gt;The U.S. will spend the most--nearly $9.7 billion--on AI in 2017 with EMEA No. 2. By 2020, Asia/Pacific will be No. 2, said IDC.
+
+Possible options to invest?"
+28,2017-04-10,AutisticTrader,0,Statistical analysis of Big Data for algo-trading feeding AI.,"I admit that I know *enough* but I am not a tech genius, but I was thinking:
+
+* there's historical data out there of the performance of all sorts of securities
+* there's enough computing power and statistical software out there  to analyze patterns
+
+I am not saying that it's easy, but for a couple of PhD's they could come up with a handful of patter recognition algorithms; then feed those into an AI program and deploy them with live data feeds to *learn* without actually trading.  
+
+As long as the volume is not crazy to make its own market, I believe it's
+
+1. Possible
+2. highly profitable
+
+Is something like this out there?  Where can I get more info?"
+29,2017-04-04,barefooter,0,Why I'm so incredibly bullish about Tesla,"I ended up making this long post below as a comment in one of the recent Tesla threads, but I figured it was deserving of its own post. Here's a summary of the reasons I'm super bullish on Tesla.
+
+&amp;nbsp;
+
+**Betting on Elon Musk**
+
+Betting on someone like Elon Musk is potentially incredibly profitable. To build a company that will succeed as I believe Tesla will, you need the boldest, most visionary, brilliant leader you can find, and no one compares to Elon Musk. I loved Steve Jobs, but I think Musk has a huge edge on even him. Literally every company he's run has destroyed its market. It's his track record of being able to foresee the future and build companies around dominating a future market, rather than the current market. Take his first venture Zip2 for example, that market didn't even exist at the time, and he built it from scratch. Then X.com, which later became paypal. Again, he built a company in a market that barely existed, he created the market, and paypal is enormous now.
+
+
+Again, with SpaceX, people laughed at him thinking he was doing the impossible, but look at what they're doing now. And for Tesla to come as far as it has in this amount of time, and for their cars to have gotten such high praise, it's just mind boggling. Elon Musk is the real deal, the kind of visionary with a coupled insane work ethic and ability to deliver on outlandish promises. If there's anyone to bet on, it's him.
+
+
+Because of Musk's cult like following, they can hire the brightest engineers, and work them exceptionally hard. Not too different from Apple here. People literally want to go work their asses off for this guy so they can build the future. I'm a software engineer, and I HATE working hard, but I tried very hard (and failed) to get a job at SpaceX, because I wanted to work my ass off and change the world.
+
+&amp;nbsp;
+
+**The SpaceX synergy**
+
+I think many investors overlook the SpaceX synergy with Tesla. Sure, they're building wildly different products, but they're still both manufacturing cutting edge technological machines. Lessons learned from either company can be transferred between the two. Also brilliant engineers can go between the two companies. This creates a serious multiplying force for both companies.
+
+&amp;nbsp;
+
+**Company Culture**
+
+Tesla's company culture is built from the ground up to be highly innovative, fast moving, and completely dominate the future market. Sure, GM, Ford, etc. can and will start making more EVs, but their companies are not built for the future. They're built for the past, and the old ways of doing things are quickly going to become a liability. Tesla is a manufacturing company, but they have learned a lot of lessons from Silicon Valley tech companies and employ similar strategies of flatter hierarchy, which boosts ground up innovation, and quick iterative engineering practices.
+
+&amp;nbsp;
+
+**Product Quality**
+
+It doesn't matter right now. They're reliable enough for early adopters, and early adopters don't care that much about reliability. This is evidenced in polls about owner satisfaction which rank very high. Building a car company from scratch, it takes many years to work out all the issues, and I have no doubt quality will be greatly improved on with the model 3 as production is greatly scaled up and they apply changes to manufacturing from lessons learned.
+
+&amp;nbsp;
+
+**But, but, but profits...**
+
+Telsa would have to be stupid to take profits now, or for that matter anytime in the next 10 years! They are not building a company for the current market, they are building a company for the future market, and that requires reinvesting 100% into growth and R&amp;D. This is why the other auto makers will not be able to keep up. Sure, they'll be making EVs, but they simply cannot commit even a fraction of the capital into growing into the future. Whereas this is Tesla's entire purpose.
+
+&amp;nbsp;
+
+**The iPhone moment**
+
+I, and many others, think Tesla is going to have an iPhone like moment, and potentially with the model 3. Where they release a car that is so compelling there would be no reason to buy another car in the same price range. This will spur huge interest into EVs from the general public, and Tesla will be poised to grow into that market, as they've been anticipating. Whereas other car makers will be left scrambling as they are barely making any EVs and will not be able to ramp production to meet demand.
+
+&amp;nbsp;
+
+**Optimizing Manufactoring**
+
+Did you watch the talk Elon Musk and JB Straubel gave at the gigafactory opening? It literally gave me chills. Musk was talking about how they designed the factory, how it's like a multilayer CPU, and all this stuff about how they're basically reinventing automated manufacturing. They are not beholden to doing things the way they have always been done, they are dropping all that technological debt and building things from the ground up to be as efficient and automated as possible.
+
+&amp;nbsp;
+
+**First principles thinking**
+
+Musk loves what he calls first principles thinking, where he breaks something down into the most basic physical properties, and tries to figure out what the floor of cost is for a product. SpaceX and Tesla are built around this way of thinking, and because of this, they can literally do the impossible. Musk thinks from the ground up. Rather than just making a slight improvement to something, he wants to figure out what are the limits of physics on producing a good. So if you're making a battery, you need X materials at Y mining cost, so the minimum cost is the raw materials, so how do you create a finished product for as close to this minimum as possible? It's literally striving for the impossible, but in this striving they are able to cut the price by a ridiculous margin. This is a big part of the SpaceX, Tesla secret sauce. Other manufactures might look at a product and say, well X company makes it for this price, lets produce it for 10% less and dominate the market. But Musk is literally going from the ground up, thinking if this was 100% optimized from mineral extraction to final sale, what would it cost, now lets work our asses off to get as close to that number as possible.
+
+&amp;nbsp;
+
+**Amazon was not just a book seller, Tesla is not just a car maker**
+
+Many ""smart"" investors missed the boat on making huge returns on amazon, because they labeled them a book seller, and tried to traditionally value the company as such. If you had paid attention to what Bezos was saying back then and the course he was plotting, it would have been clear that he was building a company to dominate the then emerging online marketplace. If you believed at the time those markets would be huge, it would have been a very smart investment. I think you can see the parallel with Tesla, they are not just another car company. They are building a company to dominate the emerging EV, solar, and electricity storage markets. If you think those markets will be huge, and think Tesla has a good chance to take a big chunk of the market, then it's a very wise investment.
+
+&amp;nbsp;
+
+**The future will be electric**
+
+In my mind, this is a done deal. You can look at the trends, solar prices have been plummeting for years, batteries are getting cheaper and better, etc. We are quickly nearing a tipping point. Sure, there are dinosaurs like Trump that want to bring back coal, but the market has spoken already and renewables are going to become so cost effective that agenda won't matter. So, if the future is destined to be electric, what is the valuation of a company that has vertical integration of the key products of this future, solar panels, batteries, and EVs?
+
+&amp;nbsp;
+
+**The future will be automated**
+
+Tesla has been criticized for putting out ""beta"" software for self driving, but this is a strategic part of their plan. The current trend in AI, and what's working very well in many disciplines (ie: deepmind) is getting massive datasets to train multi layer machine learning algorithms. This is Tesla's plan. They are getting immense amounts of data currently, while the other players sit on their hands and try to design the ultimate self driving car before releasing it. It's not possible, you need the millions of miles of training data, and Tesla alone will have this. This is why they are not using LIDAR, because they understand the training dataset is the real asset, and they can acquire that data much more quickly by getting as many cars on the road with cameras as quickly as possible. I expect the quality of the self driving AI will begin getting better at an exponential rate in the next year or two, and those other auto makers that are building AI behind closed doors will be left in the dust, maybe even wanting to license the tech from Tesla.
+
+&amp;nbsp;
+
+**TLDR**
+
+Yeah, I have a huge hard on for Elon Musk, Tesla and SpaceX, but it's justified because he's proven time and time again that he's capable of achieving the impossible. Tesla is designed to completely dominate the future car and energy markets, and the existing companies simply won't be able to keep pace because they were designed to dominate a market that will be antiquated within 10 years. The future will be electric, and Tesla is poised to take a large chunk of an immense industry, so future 1 trillion valuations are not outlandish. For all I know the stock price is overvalued right now and may drop a good deal, but I'm investing in the long term vision and would rather not take a chance on missing a dip that may never happen."
+30,2017-04-03,[deleted],7,Any good Robotics/AI ETF?,[deleted]
+31,2017-05-25,Anle-,13,Good times ahead for biotech,"I think biotech is gonna go slowly up in the next many years. Both in the medium and the long term. There will be a constant rising of it. Look at all the progress being made in AI that will help such companies, or bioinformatics, or Google researching smart contact lenses, or (Google again) fighting aging with Calico. The interest in the field is getting ridiculous. Also, in the very long term, companies which are now no-profits (like SENS, which works on longevity) could very well become huge. We have interesting times ahead of us. "
+32,2017-05-24,reddit1977,81,Is there AI today that is successful at day trading?,I've been watching videos about AI and this man Kai Fu Lee said something about deep learning where machines are used to pick stocks. Is that really what I think is happening?
+33,2017-05-10,isrly_eder,530,Cryptocurrencies and the circle of competence,"*A quick note to investors that believe the intrinsic value of bitcoin is 0 because they can't do a DCF on it: this isn't the place to argue with me about it. I suggest you read a bit more about what it actually is (hint: not a currency). I've defended its value in plenty of other posts on this sub. It's a $40+ billion market, so at least a few people agree with me. I welcome you to short the crypto of your choice if you think it's worth nothing. This is a post for folks that believe that cryptocurrencies have at least some discernible value and are considering investing in them.*
+
+***
+
+&gt; If we have a strength, it is in recognizing when we are operating well within our circle of competence and when we are approaching the perimeter.  – Warren Buffett
+
+Given the tripling of the cryptocurrency market cap in the last few months and the 3- to 10-fold increases in virtually every major altcoin, cryptocurrencies like Ethereum and of course Bitcoin have been getting a stunning amount of attention in the press and on this subreddit recently. 
+
+If you follow the cryptocurrency world closely, you know that there have been a huge amount of dubious ICOs (initial coin offerings) on the market recently. It's an explosive time in crypto. 
+
+It's also a frustrating time for many long term bitcoiners and crypto fans, because we're faced with a barrage of questions from outsiders who see the returns and want to buy in to the ""next big thing"" and make a quick buck. This is a warning to those people. 
+
+Everyone is a genius is a rising market. It's hard to go wrong these days in crypto. Even coins of dubious merit like Ripple, Dogecoin, Stellar, NEM were pumped 5 times without any fundamental change. Speculators/investors have thrown money at crypto indiscriminately and efficient markets have 100% broken down. The altcoin pump right now is roughly comparable to the Dot Com crisis of the early 2000s. 
+
+1. New tech promises to change the world
+2. Investors jump in on hype and promises
+3. A surge of IPOs (ICOs) occurs to capitalize on this
+4. ""Greater fool"" traders pile in, thinking they can make money even if the underlying is unsound
+5. Analysts claim ""this time is different"" while seasoned old hands refuse to participate
+6. Tech is proven not to be as developed as everyone thinks, market tanks 
+7. Select few decent companies survive, all the trash is destroyed
+8. Tech eventually fulfills expectations, 10 years later, but none of the investors from the early days make money on it
+
+However, canny (and skeptical) investors can still make money on crypto, as cryptocurrencies are inevitable, and will continue to expand and proliferate, even when the altcoin crash comes. 
+
+Something to realize first of all is that the crypto market is heterogeneous. It has straightforward cryptocurrencies (bitcoin, litecoin, dash, monero), smart-contract cryptos (ethereum, ethereum classic) and a whole bunch of crypto tokens that follow dedicated platforms (golem, augur, steem). Not mentioned are ripple and stellar because they aren't really cryptocurrencies at all.
+
+The investing theses for all of these categories is radically different. The measure of success for a currency or store of value is adoption, merchant use, low volatility, a large network, and real world acceptance as something worth owning. Bitcoin has this right now, which is why it's more than 50% of the ecosystem, and none of its competitors are even close. Monero, Zcash, and [Dash](https://www.reddit.com/r/investing/comments/69ez1b/7500_faceless_coders_paid_in_bitcoin_built_a/dh7ajya/) are a special case in that they try and make transactions anonymous and privacy, allowing for use cases on the darknet markets, for instance. 
+
+The tech underlying bitcoin is essentially sound, although it is having a scalability crisis, which you should read about. It can't right now serve as a currency which will buy you a cup of coffee - the transaction fees are too high. However if you want to send $200,000 from Mexico to Indonesia or China to the Philippines, you can do it within 20 minutes, and with fees of a few dollars. And if you want to store your wealth in a vault that is totally secure, and cannot be debased by a central bank, bitcoin is a good bet. This is highly relevant to folks in India that just had cash abolished, to Venezuelans, to Argentines, to Cypriots, to Nigerians, anywhere local currencies are weak and volatile. The potential value of a competing cryptocurrency lies in whether it can improve materially on bitcoin, whether it means incorporating off-chain scaling (segwit with litecoin), making it more private and fungible (monero), automating governance (decred), and so on. 
+
+Then there are cryptoassets that incorporate smart contracts. These – ethereum and its derivatives – exploded when the SEC denied the Bitcoin ETF back in march and bitcoiners got worried and started diversifying. This is the market segment that is highly risky, even by crypto standards, in my opinion. Ethereum is a protocol that allows contracts to self-enforce. Programming power to run the contracts is paid for with ethereum. Two parties agree to a contract, and it then self-executes. It's secured by a decentralized computing network of ethereum miners, so the contracts cannot be shut down by a government or corporation. It's pretty clever. Last year, a $150+ million contract was drawn up with ethereum, which would act like a venture capital fund, picking good investments just based on the votes of the token holders. This was called a Decentralized Autonomous Organization, and it was hacked before it could do anything. Well, it was exploited based on the code and so the exploit was totally ""fair"" given that the contract was meant to be inevitable, once agreed to. However, the creators of Ethereum didn't like the idea of losing $50 million, so they decided to collectively agree to amend the rules of the protocol itself (violating ""Code is Law""), and jump onto a new one, which they would also call Ethereum, although it was really Ethereum 2.0. Some people got upset by this, because they thought that immutability and not arbitrarily rolling back the code was more important than some investors losing money because of poorly written code. They created Ethereum Classic, which is the original Ethereum chain. This wasn't what the Ethereum 2.0 folks thought would happen, but it did happen, so there are two competing Ethereum chains now. 
+
+Eventually, lots of decentralized apps were funded, via tokensales. A development team would say: ""we're going to use ethereum to create a decentralized cloud computing/AI/prediction/gambling/timestamping/social media network."" And then investors would buy the tokens, expecting that eventually the dev team would deliver, and the tokens would be in demand, since they would be required to use the network. It's a bit like buying in-game-currency when the game is announced, anticipating that the game would be wildly popular and you'd be able to sell it on later at a profit or acquire it cheaply to buy in-game items later on. However, many of us think that the promises are a bit extravagant, and that investors in these ICOs are probably going to lose money. The incentives aren't well aligned. Founders can just not deliver and run off with the money, and there's no regulatory body to enforce that. And for Ethereum more broadly, many people are worried that the turing-completeness of the language will mean it will face serious threats and unforeseeable hacks, like with the DAO. Finally, Ethereum has increased from around $20 to $90 in a matter of months, which raises the question of whether a) the market realized its true value or b) it was pumped on speculation. There's a huge set of unknowns with a smart contract currency, and virtually none of the promised dapps are up and running right now, and the ones that are haven't really attracted large userbases or delivered. This is because the tech is in its infancy, and the developers are still learning how to use it properly. So we won't know if these sorts of decentralized networks are even possible to create on the timelines that investors are expecting. Therefore, ethereum investors buying it on the promise of the realization of this tech in the near future are almost guaranteed to be disappointed. Additionally, ethereum is making the switch to the largely untested Proof of Stake algorithm, which will change incentives that secure the network. This brings me to my key point: 
+
+**Stay within your circle of competence. You can grow your circle – slowly. Cryptoassets are almost impossibly complex to grasp with just a cursory look. Investing in them requires weeks of reading and a very skeptical view.**
+
+***
+
+The above was an introduction to cryptocurrencies, the different ones on offer, and why investing in ethereum is not the slam dunk everyone thinks it is. This portion of the post will tell you about the kind of due diligence you need to do if you want to invest, rather than speculate, in crypto. 
+
+The first thing to mention is that passive investing in crypto has [historically been a terrible strategy](http://woobull.com/crypto-currency-index-funds-the-simulations-have-surprising-results/). Just buying bitcoin almost always outperformed. This was due to the poor set of altcoins, and the size of bitcoin's almost insurmountable network effect. This sort of changed in March and April when bitcoin's dominance went from 80% to ~50%, and it remains to be seen if this will persist or not. But the point is, buying the index is usually an awful strategy in crypto, particularly because there are so many truly awful projects out there. 
+
+So what does it take to invest responsibly in cryptocurrencies? It requires at least a basic understanding of three disciplines: public-private key cryptography; programming, and how open-source projects function; and economics, particularly game theory and the quantity theory of money. This is why is is so difficult to apprehend easily: because very few people actually boast a sincere understanding of these three topics. I certainly don't. 
+
+You need to be able to determine whether the tech is actually going anywhere, and whether the task the developers have set themselves is possible or realistic. You need to know how open source networks are governed, and which models strike the best balance between efficiency of decision-making and fair consensus. You need to be able to measure the inflation schedule of the cryptocurrency, and see whether your coins are going to inflated away. You need to be able to make plausible guesses about the potential market for the crypto and estimate future values. Note that the payoff structure is not equity-like. It's more like early stage venture capital, or buying loss-making biotech companies. Here's my checklist of questions to answer, ordered by importance: 
+
+* Does the project offer a significant improvement over its nearest competitor, or a reasonable chance of success in its stated aim? Is there a demand for this project? Does it have a concise and reasonable goal? (Narrower goal: higher likelihood of success). 
+
+* Is the development team competent? Are they committed to the coin? What's their track record? Is is an active dev team? Do they have a roadmap for the future? Are they transparent about goals? 
+
+* How is the development team funded? Is the currency corporate-backed? Is the funding transparent? Was the coin significantly premined? (Usually bad) Are developers paid via iterative community project crowdfunding? (Usually good). 
+
+* What is the governance structure of the currency? Who holds ultimate control over decisionmaking? How are decisions made? Are they transparent? Are mining/developer incentives aligned? 
+
+* Does the asset have acceptance and use today? Does it have a functioning use case? If it doesn't, does it have a decent chance of being accepted? 
+
+* Has the asset's ""market cap"" tripled or quintupled in the last few months? Was this based on any fundamental changes (new software releases, etc) or just speculation? 
+
+* What are the transaction volumes like? (Hint: divide market cap by monthly averaged daily on-chain tx volume to find a consistent ratio) What's the ratio of on-chain transaction versus exchange speculation? Has price gone up independent of transaction volumes? 
+
+* How long has the asset been around? Think of the Lindy effect. Older is usually better. 
+
+* What's the community like? Is there censorship? Does it have an active subreddit? Do the developers answer questions? Are they accessible? How big is the github community? (Hint: you can divide market cap by github commits to find a comparable ratio). 
+
+* Are you psychologically able to hold this coin in a 90% downturn? Is this a high conviction thesis or are you betting on being able to sell it to a greater fool? 
+
+How long did it take you to learn about investing in equities? Reading balance sheets, running DCF and DRI models, figuring out how to value a stock based on comparables? Years? How many mistakes did you make before you figured out how to be responsible? 
+
+Cryptos are an [asset class](http://research.ark-invest.com/bitcoin-asset-class) that is both radically different from anything that has existed before. They are also incredibly heterogeneous, as I argued above. It also leads to cultism – so bitcoiners generally take a dim view of ethereum, and vice versa. Monero fans generally don't like dash, and so on. You have to keep your mind open to understand new opportunities as they arise, and to stop yourself becoming too mentally invested in your project of choice. The vast majority of projects will fail within 5 years, so becoming overly certain of the success of one will probably devastate you. If you can stay balanced, stay honest about your crypto's chances of success and adoption, not get tunnel vision, and not take overly risky positions, you have a good chance of not losing everything. Remember the payoff structure. Heavily rightward skewed. A ton of cryptos earn no return and a select few earn an absurd (1,000-10,000x) return. 
+
+None of this is necessary if you just want to invest randomly in one of the top ten cryptos. That's the strategy of 95% of investors today. Pick a coin and go. If it's not bitcoin, I can pretty much guarantee you'll lose money. The newer, the worse. 
+
+I've not made an effort to convince you that cryptos have intrinsic value. If you've made it this far, you probably think they're worth something at least. However, they're probably not worth as much as the market is pricing them at right now. Especially not those in the ethereum family. I'm not going to tell you what to invest in, because that would defeat the purpose of this post. I'm telling you to do your due diligence before blindly buying a crypto. And that due diligence on ethereum is as complex and difficult as Tesla or Amazon DD. And that your skills in equity valuation are pretty much useless in this asset class. My circle of competence doesn't extend to options or lean pork futures, so I don't touch those. I suggest that until you really feel comfortable in crypto, you don't buy randomly. 
+
+***
+
+Summative thoughts: 
+
+1. Investing in crypto is hard 
+2. 90% of people that invest at market peaks will lose money 
+3. You have to extremely skeptical and invest in high-conviction positions 
+4. Cryptos are exhibiting bubbly behavior right now, it's a pretty bad time to pick one out
+5. Cryptos are nothing like equities but they do have real value
+6. Cryptos are the future, but almost none of these coins will survive 10 years
+7. The older the better
+8. Governance is key
+9. These are speculative positions, only invest what you can tolerate losing
+10. You can make money investing in cryptos 
+11. Passively investing in cryptos doesn't work
+12. It's a winner takes most market, there won't be 1 crypto that wins. There will be different cryptos for different use cases. 
+
+
+edit: deleted chart with probabilities of success because of subjectivity and oversimplification. 
+
+edit2: I've been overwhelmed with PMs so bear with me. also, please forgive any spelling errors on this post. I wrote it in one frenzied sitting.
+
+edit3: I knew I would get a fair amount of resistance from ethereum investors (even though I attempted to keep my post as balanced as possible) but I was unprepared from the breathtaking volume of spam and diversity of attacks. One particular user has made 30 comments in this thread. I don't have a stake in ETC, period. The post is 3000 words long and most of it is about how to properly do your due diligence in a crypto. if ethereum fares poorly by standard due diligence metrics, then perhaps your issue is deeper than one post on /r/investing. 
+
+**final edit: there have been some broken-hearted ethereum fans very busy organizing [brigades](https://www.reddit.com/r/ethtrader/comments/6as0ag/etc_trolls_in_rinvesting_trying_to_confuse_new/) against this post, and attacking me personally, and so on. It's all very incovenient. I can tell that I struck a nerve. This post isn't really about ethereum - it's about how to do research in crypto, and why you can't expect to profit handsomely without that due diligence. I mentioned ethereum because there are 3 or 4 breathless posts on here a day about its stunning gains and whether it's worth investing in. My answer: read about it first, from a diverse set of sources. A final note: I do not own any ethereum classic, I have never owned ethereum classic. I brought it up because it is part of the ethereum story, and an example of what happens when you have a contested hard fork. I do hope that ethereum succeeds, I am just cautioning against over exuberance.**"
+34,2017-05-09,sthussey,47,NVDA reports 1Q17 earnings - Net Income up 144% YoY,"http://investor.nvidia.com/common/download/download.cfm?companyid=AMDA-1XAJD4&amp;fileid=941988&amp;filekey=2F463408-E92D-4B5D-8503-BA53B873B253&amp;filename=Q1FY18_CFO_Commentary.pdf
+
+Up 10% AH, possibly on 38% QoQ growth in datacenter GPU revenue (including AI)."
+35,2017-05-04,vegaseller,1,Applying Second Level Thinking,"""The first level thinker simply looks for the highest-quality company, the best product, the fastest earning growth or the lowest p/e ratio. He's ignorant of the very existence of a second level at which to think, and the need to pursue it. The second-level thinker goes through a much more complex process when thinking about buying an asset. Is it good? Do others think it's as good as I think it is? Is it really as good as I think it is? Is it as good as others think it is? How will it change? How do others think it will change? How is it priced given: its current condition; how I think its condition will change; how others think it will change; and how others think others think it will change? And that’s just the beginning.” - Howard Marks
+
+
+Lets discuss some second level thinking ideas. 
+
+My thoughts on Amazon vs Google:
+Google is valued higher than Amazon because Amazon perceived as a low margin business compared to Google and because people benchmark Amazon against other retailers like Walmart while Google is often thought of as this high growth high margin online ads business with even higher upside potential (say cure cancer or make a quantum computer). 
+
+But after looking at the success of Amazon Cloud (which is high margin) and the flop of various google projects from Google glass to google cars and even its horrendous lateness into the cloud game, I feel like the standard narrative that a engineering culture is best for a tech company is still not being challenged by investors. Amazon has been able to execute product by product because of the synergies of its flywheel model, while google has been flailing all over the place. I was reminded of a discussion I had with my engineer friend who worked at Microsoft about the future of AI, he was convinced that with Machine learning and improving graphics chips, we can do all sorts of things like household robots, dog walkers, etc. I then reminded him that specialization of labor was a thing and that it was infinitely more efficient to create an uber for maids and plumbers that integrates with some rudimentary smart sensors than it is to solve it with all robots as humans are good at doing small nuanced things very efficiently in uncontrolled environments and quickly and machines are better at doing big data analytics and precise things in controlled environments, so why bother with end-point automation? I also remember having a discussion with a Samsung project engineer who asked me what I thought the driver for Apple was. I said it was China growth and new product adoption/lock-in into the ecosystem but he was very convinced it was some super technical thing with the way the LED screens worked. I find technical people get very siloed in general and become clouded as to the big picture and that is probably what you see in Google. 
+
+As a result, the market is probably significantly overpricing engineering staff welfare and feel good optics instead of actually getting stuff done. These are just some initial thoughts.   
+
+"
+36,2017-05-02,HowieHubler,0,Buy $AAPL,"Let's be honest, only virgins still use androids. Apple has a P/E ratio of 17.55 and more importantly a forward P/E of 14.26. The S&amp;P 500 average is 25, and the P/E ratio of similar large cap firms such as $AMZN (193) and $GOOG (32) shows that premiums are to be paid for solid companies with a large grasp of market share. We all know Wall Street primarily focuses on growth, which could explain why Apple is comparatively priced so low, but Apple has room to grow. The iPhone 8 is coming out soon and even though the 7 was garbage the stock flew on positive sales beating expectations. I believe the same will happen with the 8, but even more. Apple is going to be a leader in AI going forward, and Elon Musk has said in the past that Apple is going to be the biggest competitor in self driving cars to Tesla. Also, with Trump's plans for repatriation Apple could benefit greatly as they currently have billions overseas. Last but not least, Apple has over 23B in free cash flow, and Tim Cook is one of the best CEO's in the entire world. They will make the right, smart decisions going forward and now is the time to get in prior to earnings. Unless you have no girth, then wait until after earnings and hop aboard the Apple train. Apple (as well as AMZN) has high customer satisfaction and customer service, which I believe is not priced in. Overall, this company has way too much going for them to be priced so cheaply."
+37,2017-05-01,PM_ME_BOOBPIX,0,Companies that are changing the world as we know it.,"I am trying to put together a list of companies that are changing the world as we know it.  Companies that are creating the Future by inventing new categories, or improving existing products/services by order of magnitude.
+
+Of course I am looking for publicly traded companies to put together an investment portfolio for myself.
+
+So far this is my list:
+
+* $TSLA
+* $GOOGL/$AMAZN: a bit late, but.. there's still lots of innovation in the pipeline
+*  $FB (oculus)
+* CRISPR: $EDIT, $NTLA, CRSP
+* ROBOTICS: $IRBT, ??????
+* AI: $NVDA, ??????
+* BLOCKCHAIN: ????
+
+Care to add more to this list? 
+
+"
+38,2017-06-30,vmsmith,0,Chipmaker AMD Makes a Big Bet on Brand New Tech,"[Fortune: Chipmaker AMD Makes a Big Bet on Brand New Tech](http://fortune.com/2017/06/28/amd-ai-chips-comeback/)
+
+This is not something I've been following too closely, but I have observed out of the corner of my eye that there are some strong feelings about AMD with respect to being competitive with Intel and Nvidia, and whether there's any 2016-like growth left in it.
+
+Does the information in this article change anyone's outlooks on the stock over the next few years?"
+39,2017-06-26,BlindingLT,2,What's the best way to profit from the AI revolution ?,"Assuming the scenario comes true 
+--that AI will soon replace millions of humans in the job market, what strategy would one take to maximize profit?
+
+Essentially, I think, it would be investing in those that provide AI as a service and those companies that adopt AI with the promise of radically increasing efficiency. Anything else?
+
+Also, if this comes to pass and results in mass unemployment, would there be any ancillary effects that would require tweaking of an investing strategy?"
+40,2017-06-23,justinbro430,10,Does anybody else disagree with the popular narrative that NVDA is at all revenue reliant the crypto currency wave?,"I've heard just about every mainstream finance website and news source talk about the increased demand due to bitcoin / etherium mining. Most people who want to own bitcoin don't need an advanced processing unit to do it, they can just buy it online like any other stock. I mean how many people do they really think are mining these things that weren't already doing it. For a company that has so many significantly lucrative streams of revenue in front of them (computers, video games / wii U, self driving cars, other AI, just about anything that uses a chip), it seems delusional that people are taking this tiny crypto currency mining market to be relevant to the stock price, much less a buy/sell indicator. 
+
+Edit: Title should be ""Does anybody else disagree with the popular narrative that NVDA is at all revenue reliant *on* the crypto currency wave?"" but I'm not gonna resubmit "
+41,2017-06-20,SillySausage87,16,AMZN's Growth Outlook,"So, Amazon has grown around 2500% in the last 10 years.
+
+But now that it's so big, do you think it can keep it up? Bearing in mind it is entering markets, like AI, that are huge in relation to Amazon's current size and therefor could offer similar growth as it has had in the past 10 years. If Amazon wasn't entering these markets, and just sticking with ecommerce,    I would expect its growth to slow down considerably.
+
+Are we just looking at 20-30% gains going forward or what? I understand that's not to be sniffed at, but there are much smaller quality companies in hyper-growth mode at the moment (and therefor potentially better places to invest money).
+
+I am just starting to doubt my investment thesis in Amazon, which was hinged on putting what little money I have in quality companies offering the highest growth possible. I am starting to think there may be better places to put my cash.
+
+Have you guys considered AMZN might start slowing down?"
+42,2017-06-16,vegaseller,54,What is stopping Amazon from global domination?,"2017 - buy Wholefoods               
+2018 - Build out the ERP/checkout backend and logistics for grocery stores and restaurants.                 
+2020 - Spin those out to service every brick and mortar, each of those businesses are easily 100 billion.           
+2021 - have enough density to kill UPS and USPS and forced them into peak load areas while you capture the high density profitable routes, that is another 100-150 billion businesses.             
+2022 - Alexa starts tapping into every home device and the AI gets smarter and smarter. You eventually kill google, netflix and spotify because people are too lazy to type.            
+2023 - Alexa is smart enough to integrate with smart stores and take over management functions, it can now give orders to employees and assess their performance.             
+2025 - Embed Alexa into smart store package into every brick and mortar. Everyone is forced to buy it less they become inefficient and go out of business           
+2028 - Amazon blimps and drones start showing up in skies across major cities granting 30 minutes delivery to most locations.          
+2030 - Alexa starts managing more and more jobs, starts handling government functions. Rating system developed for employees. Most jobs are now contractor positions with peak demand handling routed by Alexa like Uber.       
+2040 - 50% of the jobs assessment and routing are handled by Alexa. You can get your drivers license renewed in 5 minutes through amazon's website. Government is now massively more efficient and amazon enjoys strong voter support.                     
+2050 - Amazon merges with Tesla to create orbital factories, giant orbital solar generators and space elevators. Amazon teslas are orbital dropped into nearby service stations and self driven to your home within 24 hours. A fleet of robots are being incorporated into servicing everything from street cleaning and building construction. Bezos announces a universal income in the form of amazon credits automatically deposited into accounts of prime holders.           
+2060 - Amazon and Space X merge to create generational ships for mars colony transport as well as travel beyond the solar system.         
+2100 - Waste Allocation Load Lifter Earth class robots are deployed to take care of those who choose to stay on earth."
+43,2017-06-08,pewpsprinkler,4,Nvidia is now officially a Tesla-level hype stock,"- **irrational exuberance.** Nvidia was at 104 before earnings literally 1 month ago. It is up 50% since then. The earnings were good, but not that good. There has been no news or new basis to support Nvidia's gains except reference back to the month-old earnings report. The p/e is over 50, and more than double the industry average.
+
+- **stronger competition will break Nvidia's monopoly on certain segments.** AMD aka Nvidia's competition, is up this week on actual news, including its contract to provide GPUs for Apple's iMac lineup, as well as AMD graphics cards being sold out everywhere thanks to the crypto miner boom. AMD's new Vega cards will be a real contender against Nvidia that will cut into Nvidia's profit margins and market share. Gaming graphics is still a large part of both companies. Gaming was more than half Nvidia's revenue in the last quarter. AMD is making a datacenter play, too. 
+
+- AI is not going to be a large market this year, and there will be plenty of time for Google to take over the AI market if it wants to. Google has already taken steps in that direction. Pricing an AI monopoly projected out for several years into the stock is irrational. 
+
+I would short Nvidia, except that I now see Nvidia exactly like Tesla. It has become a reservoir for the hopes and dreams of sci-fi nerds. That is why it, like Tesla, has become so detached from the underlying values. Nvidia is basically a ""Tesla lite"" where people pouring money into it tell themselves it is NOT Tesla and they are NOT investing in it out of gayness for Elon Musk, but instead because of the good numbers. The same good numbers that led to pullbacks in the 130s recently. 125-140 was a range I could believe was justified based on earnings. 156 is not. Irrational exuberance has taken over. The bubble has begun to inflate.
+
+Welcome to the new Tesla. Welcome to Tesla lite."
+44,2017-06-06,PM_ME_BOOBPIX,0,Let's harness the Wisdom of this Crowd and speculate: where is AAPL going next with all that cash? AI? Cars? Home Automation? Something completely new?,"It's old news that:
+
+* AAPL has a lot cash in its balance sheet, unused
+* AAPL is been eyeing the auto industry
+* AAPL is playing with AI (Siri)
+
+I am long on APPL but I can't help trying to figure out what will AAPL do with all that cash.  From a strategic point of view makes no sense to just keep it there. Corporate Finance 101 would dictate to return it to the shareholders in the form of a special dividend or - better - a share buyback (I know that either way there are corporate tax issues re-impatriating that cash).
+
+I have watched yesterday's keynote and I have seen some hints of integrating AAPL products into cars and into Home Automation, but I don't see it as a huge potential to deploy that much cash.
+
+I am smart, but I believe that the people at AAPL are smarterer than I am, so is the crowd in here.  Care to share with me and everyone else where you see AAPL going forward or make a wild speculation of where it might go?"
+45,2017-06-03,ImTriggled,9,Best Way To Capitalize on AI/Automation?,"So a lot is still unknown about the potential, timing, development, and scope of various AI technologies and their ultimate returns. Personally though, I'm very bullish.
+
+There are multiple good tech ETFs like VGT, which seems more market cap weighted, and BOTZ, which targets robotics, AI and automation firms more deliberately.
+
+I'm curious what others think is the best way to invest in AI in general. Should I just buy the funds that invest in big tech players like Google, Apple, Nvidia, Microsoft, IBM... or are there better funds or individual stocks you'd recommend? At the moment, I plan on picking up VGT and BOTZ both."
+46,2017-06-02,[deleted],1,Any recommendations for VR/AI related stocks to hold 10+ years?,[deleted]
+47,2017-07-26,usacashoutsma,1,Healthcare and Tech Sectors,"Most everyone these days is saying that future growth is mainly going to come from healthcare and technology.  It certainly makes sense with the most innovation occurring in these fields, an aging US population, and faster and better computing power and advanced AI.  Perhaps the other are that will see large growth is emerging markets.  
+
+Is there a reason it would be a bad investment strategy to focus solely on these 2-3 areas?"
+48,2017-07-26,ThEe__MaNS,6,Best semiconductor stock,Semiconductor business seems to be doing well right now and the demand seems like it should only keep on increasing with more moves to ai and different automated services. Teradyne has hit a high and continues to go up but I'm thinking I waited to long to jump on that stock any opinions? Also thinking about investing in IXYS if that is the case 
+49,2017-07-25,skipeaks,1,Stocks that Deal with AI/3D Printing,"I was wondering if anyone has stocks/companies that they follow that are investing in AI or solely AI based. Also looking into companies/stocks that deal with 3-D printing. 
+
+Looking to create a watch to follow some of these. "
+50,2017-07-24,stockman45,10,"How will global warming, automation and AI affect the economy in the coming decades? Which stocks would be good to hold long-term or short?","### Climate Change
+
+Global warming leads to more extreme weather events, and ServiceMaster (SERV) helps companies to prepare for and clean up after natural disasters. They will have a lot more business in the coming decades, but I don't know if their stock price will go up that much. Maybe.
+
+Bad weather also causes shortages of clean water, so could look at holding some water companies, such as American Water Works (AWK).
+
+There's already a move towards renewable energy, but I think there will be a tipping point when the general public starts to take it seriously. A huge percentage of people either don't believe in global warming or don't care about it, but I think that will eventually change, and it might happen suddenly. If it does, then there could be a big increase in solar installation, and people buying more electric vehicles. I think companies like First Solar (FSLR) should be good to hold long-term. People talk about Tesla too much, and I think they're already way overvalued, but they'll continue to go up anyway. Would also be interesting to look for smaller car companies that will go under when people stop using petrol. But I'm really interested in predicting the point in time when global warming becomes a fact instead of a political view. It would be great to catch this early and buy a lot of cheap options for these companies.
+
+### Automation / AI
+
+Google (GOOG) is the leader in machine learning and AI, so they would be a good stock to hold long-term. Also the chip companies, such as NVDA and AMD. Are there any companies that should be shorted? I would like to find some small-cap companies that are old and slow, and rely on humans for tasks that might be easily automated in the near future. Small companies don't have a big moat or any budget for R&amp;D, so they might tank quickly when a competitor comes along and destroys them with AI. It could be anything, such as accounting, law, insurance, marketing, construction, etc. etc.
+
+On the other hand, there are probably many companies that could just fire their staff and automate everything. For example, a small shipping company that employs a lot of truck drivers could just buy self-driving trucks and fire all their drivers. It's also hard to see why a company would want to sell self-driving trucks, instead of just building their own trucks and starting their own global delivery company. Maybe Tesla will work with Amazon directly and they'll just cut out all of the other shipping companies.
+
+If you want to go long on something, many of these companies probably don't exist yet. I think we just have to watch out for IPOs in the coming years, and some of those crowdfunding platforms for startups (99% of those startups are shitty, but there might one or two good ones.) Even better if you are an accredited investor, then you can invest much earlier.
+
+I'm also interested in stocks such as McDonald's (MCD), Burger King (BKW), and Starbucks (SBUX). They're well on their way to being automated (McDonald's has already started to introduce self-service kiosks), but I don't know about the timeframe. Also I heard that people are starting to eat less fast-food, so there are a lot of factors.
+
+What are your ideas? I'd also be interested in book recommendations."
+51,2017-07-24,braveheartandsoul,0,"Which companies stand to gain most from workforce automation (AI, robotics)? Which of those companies are investing in the tech?",
+52,2017-07-17,135136,2,"Does anyone know where I can download a file (csv, etc.) containing mutual funds/stocks?","I'm looking to build a program that automatically builds users investment portfolios, configurations of mutual funds/stocks. The idea essentially is that it would be framed as a constraint satisfaction problem (AI technique) and users will get a portfolio that matches their investment goals.
+
+Now the problem I'm having is simply getting the data in the first place. Does anyone know where I can get a list (ideally in an easy to parse format) of mutual funds or stock data (with attributes) that I can use? Most sites I've tried require a paid subscription just to download (even for historical data)."
+53,2017-07-14,dimradgrad,0,i think NVIDIA is going back to $20-40..what is best option play,"I have no idea why this stock is up so much aside from news about AI chips, which seems like a lot of hype. It reminds me of the hype about 3-D printing in 2013. I think it goes back to $20-40 quickly, what would be a good option strategy for this? "
+54,2017-07-14,tellmetheworld,12,Thoughts on Volkswagen (VKLAY)?,They were hit pretty hard by the diesel scandal but Audi is really making huge leaps in AI with stage three automated driving. And they've always been leaders. 
+55,2017-07-14,ValueBuyout,0,"What do you guys think about stock analysts getting replaced by AI in the future? What are some alternatives to hedge funds, if they end up dying?","Traders have pretty much been replaced completely, do you think stock analysts will be replaced by AI in the future? "
+56,2017-07-12,Ilovedonutss,0,Investing and Speculating,"http://i.imgur.com/l9LGu3m.jpg
+
+I made this myself with ai(adobe illustrator). I have read the inteligent investor and this image is how I viewed speculating and investing. This idea actually came from a biology lesson on school a long time ago. It had a person leaning on one side of the balance, making both the same value. While the evidence was clearly different. I remembered that, and decided to make this.
+
+"
+57,2017-07-11,Yupfinance,1,I just cant decide between $BOTZ or $ROBO. HELP,"I've been on this decision for weeks now and I cant choose one. I want to get into this space, and these are the prospects I feel are good. I believe AI is something of the future, so I want to get in.
+
+I compared the expense ratios, volume, price, charts, YTD returns, did some research on the top holdings of both and still cant decide which one would be better.
+
+$BOTZ has as a considerably lower expense ratio... but isnt as diverisified as $ROBO is. $ROBO also has higher volume traded. 
+
+I want to hold this for 5-10 years. What should I do? Thoughts? HELP D:"
+58,2017-08-30,guyquant,0,Let's discuss Robo Advisors,"I did a little project on FinTech and I got fascinated by the idea of AI and Roboadvising platforms. For those not familiar Robo-Advisors is not something as cool as it sounds, it's basically a software where you put all your details and it will make a recommendation on what assets you should buy according to your profile. Betterment is a Robo-Advisor platform that with minimal effort it places a low cost, low tax, diversified portfolio. So far I like it, it's been 7 months and I think I'm going to reach an 11% this year. What are your thoughts on Robo Advisor? what experience have you had in this platform? or others?
+
+
+This is not my only investing platforms, I have a portfolio in Vanguard, Charles Schwab, and in crypto currency websites "
+59,2017-08-22,BABARAGA,0,$BOX Is Breaking Out of It's (Range-traded) Box,"Earnings announce on Aug 30 expected to beat.
+
+
+Announced a partnership with Google Cloud to provide image recognition capabilities on the billions of digital images enterprise users have stored in their cloud.
+
+
+Potential acquisition target for $MSFT as they extend cloud and Infrastructure as a Service reach.
+
+
+Technicals: above 50-day EMA, looking to test $20 level ahead of earnings...
+
+
+Box Continues to Enrich AI Platform, Partners Google Cloud
+
+
+[https://www.zacks.com/stock/news/272648/box-continues-to-enrich-ai-platform-partners-google-cloud?cid=CS-NASDAQ-FT-272648#ampshare=http://www.zacks.com/stock/news/272648/box-continues-to-enrich-ai-platform-partners-google-cloud?cid%3DCS-NASDAQ-FT-272648](https://www.zacks.com/stock/news/272648/box-continues-to-enrich-ai-platform-partners-google-cloud?cid=CS-NASDAQ-FT-272648#ampshare=http://www.zacks.com/stock/news/272648/box-continues-to-enrich-ai-platform-partners-google-cloud?cid%3DCS-NASDAQ-FT-272648)"
+60,2017-08-10,mInvesting,1,Look for ETF funds for marijuana and AI. I'm a newish investor and don't know where to start looking. Any information would be helpful., I'm a newish investor and don't know where to start looking.  Any information would be helpful.  Any mutual fund suggestions would be welcome also.  
+61,2017-08-08,StockPollsEnterprise,0,Good Morning You Boring Dividend Investor. Nice Play Today. $NVDA,"1. CryptoCurrency. (I Think Nvidia has to have a ethereum mining juggernaut.)
+2. Nintendo Switch.
+3. AI
+4. Toyota.
+5. GUIDANCE!
+That is all.
+Pussy level buy at 3:59pm 
+Big Boss Level Buy at 930am"
+62,2017-08-01,The9Great3Patsby,14,What emerging markets are you currently looking at?,"AI, VR, autonomous driving, eSports, Venezuelan Real Estate perhaps? Let's hear i
+
+EDIT ""Growing industries"" not ""Emerging Markets"""
+63,2017-09-26,RossFromBritain,3,Does anyone know much about Robotic Process Automation?,"I live in the UK and will be starting work in this industry soon hopefully.  The guys I'll be working for believe that this industry is about to blow up and become worth something like £20b.
+
+for those who don't know, RPA basically boils down to developing very simple 'Ai' that can perform mundane and repetitive tasks much faster than humans, allowing them to work on other more complex jobs (or just removing the need for them).  This might be something like extracting data from an invoice and filing it into a spreadsheet.
+
+It seems like a nobrainer for managers since they can pay X amount for a bot that works non-stop and much faster than a human, and doesn't take sick days, but obviously I'm sure that 20b figure is pure guesswork.
+
+does anyone know about it?  Will anyone be investing?"
+64,2017-09-23,trolllface,30,This is why I'm investing in veritone,"https://finance.yahoo.com/r/1caaba10-11ab-3099-9890-46bdf79cd190/recent-ipo-veritone-rises-ad-placement-firm-eyes-ai-software?src=A00220&amp;yptr=yahoo&amp;.tsrc=rss 
+
+https://finance.yahoo.com/news/quantum-veritone-artificial-intelligence-solution-201500043.html?.tsrc=rss
+
+https://finance.yahoo.com/news/dalet-veritone-collaborate-further-media-153000263.html?.tsrc=rss
+
+https://finance.yahoo.com/news/wazee-digital-veritone-partner-transform-131500827.html?.tsrc=rss
+
+https://www.veritone.com/
+
+https://youtu.be/nAP-3SMRHak
+
+https://youtu.be/RsliAdZpo00
+
+https://youtu.be/i9BuJyPF8sY
+
+""The biggest problem we face in selling our services is that most people are too stupid to understand what we do."""
+65,2017-09-21,cyclonepsycho,7,What's going on with Veritone? (VERI),"So I've been watching tech sector stocks lately, and Veritone has been booming lately. It seems their work with AI has caught the attention of companies for it's data processing power, but I'm struggling to find much information out there. I'm just curious if anyone else knows anything that they'd be willing to share"
+66,2017-09-20,vlc_seller,893,Tesla is working with AMD to develop its own A.I. chip for self-driving cars,https://www.cnbc.com/2017/09/20/tesla-building-an-ai-chip-for-its-cars-with-amd-globalfoundries.html
+67,2017-09-20,sirloinfurr,37,Amazon is working on smart glasses to house Alexa AI,https://techcrunch.com/2017/09/20/amazon-is-working-on-smart-glasses-to-house-alexa-ai-says-ft/
+68,2017-09-20,shearsy13,5,Why is Veritone (VERI) growing so quickly?,"About 3 months ago I stumbled upon a stock that I decided to keep my eye on it. ( I do not invest at moment being a fresh graduate with no money to throw around so I just analyze stock from day to day to get practice).
+
+The company veritone (VERI) went public starting at $14 per share (found it around $11.30). Dropped down to $7.80 and all of the sudden over the span of a month it has risen to $46.00 per share. 
+
+Is is because of the speculation of their AI tech that their market is rising so much and those with Big money are investing a lot into the company? 
+
+The company was quite a bit in the negative last quarter about -12% on their total revenue. Honestly, if someone can explain a bit whats going on, I would absolutely appreciate it. 
+
+"
+69,2017-09-15,dvdmovie1,283,Nvidia price target raised to $250 by Evercore.,"Before anyone asks why NVDA is flying. Extremely enthusiastic and saying that the market is underestimating the potential of NVDA in AI, as well as discussing the size of NVDA's lead/first mover advantage in its fields. Also, Softbank probably up quite nicely on their stake in NVDA (from May: https://www.bloomberg.com/news/articles/2017-05-24/softbank-said-to-take-4-billion-stake-in-u-s-chipmaker-nvidia)"
+70,2017-09-14,chromevideo,0,The bodega that supposed to replace your bodega,"You can't just place vending machines in offices, schools, elsewhere and say hey look at my invention and hope everything turns out great....or can you ?
+
+
+Bodega may not have to pay rent for physical stores or employ store workers. But Bodega doesn't eliminate the complicated costly logistics of a convenience store or a vending machine.  
+
+""Just like a vending machine or a store chain, Bodega staff or contractors will still need to buy a bunch of products and drive to stock them in many different locations. Maybe -- maybe! -- AI software can tailor inventory to each location, but it will be many many years before robots can pick up cans, chip bags and little Advil boxes, walk them into an office or store, unlock the Bodega cabinets and place the items on shelves.""
+
+https://www.bloomberg.com/gadfly/articles/2017-09-14/bodega-bust-shows-intelligence-can-be-truly-artificial"
+71,2017-09-06,BrainDamageLDN,0,"I'm new to this, and would really appreciate help from you guys","As the title says, I'm completely new to investing. I literally don't know where to start, and have read the guide on the sidebar.
+
+Essentially, I'm looking to buy some stocks in TESLA and some kind of fund that tracks AI companies.
+
+I want to ensure that like bitcoin, if I own it - I own it (private keys etc). Ie, do I get some kind of authenticated share certificate?
+
+Are there any slack groups for noobs like me?
+
+Many thanks in advance."
+72,2017-10-30,contezpablinos,0,Would anyone be interested in an AI stock alert app?,[removed]
+73,2017-10-30,anticontenttime,2,Apple: What fingers in what pies?,"Quick clarification: I can picture an insane growth potential for Google over the next 10 years as they're invested in AI, Autonomous Cars, Space shenanigans, VR, Smartphones, etc.
+
+What would be Apple's equivalent projects in terms of potential growth? I'm not really sure what they're up to apart from more iPhones, Macs and the obligatory VR."
+74,2017-10-27,[deleted],0,Thoughts on $AIEQ. AI Traded ETF.,[deleted]
+75,2017-10-25,whiskey_idealist,0,Thoughts on a long position on AMD?,"I'm a big believer in AI, self-driving cars, automation. I believe it's the future, and I don't believe there is anything humans can do that they can't eventually get AI to do. So it should be obvious why I'm looking at AMD. 
+
+I'm considering putting a big position on it, and while I understand everything we say is speculation, I'm wondering what people think. I know their margins are fairly low now relative to their competitors, but I see that they are working with Tesla to build an AI chip and I like what Su has been doing so far. Also their GPUs are being geared to ML stuff, and while I think the console market will fall in the future, I wonder if they can easily transition their custom services to other markets. Custom chips might be a bigger deal in the upcoming AI revolution. 
+
+
+Barclay downgraded, but I've never been a big believer in the prediction abilities of large institutions. What I'm predicting is a year or two of low margins to gain market share, then a higher growth later on. 
+
+Thoughts?"
+76,2017-10-21,wsace,28,Dividend growth strategy - questions,"So I started stockpicking about a year ago. My strategy was to buy companies that had been consistently growing their dividends since at least a decade or if not a decade they should exceptionally good companies. I bought  most of the stocks when I saw that the companies have some temporary troubles which had a negative impact on the share price. 
+
+Here is the list I have bought so far:
+
+BA -  2016 Sept at earnings release $140 - now at $264
+
+FLO - 2016 Empolyee scandal, company was sued $15 - now at $18.70
+
+Nestle - child labour scandal - 69 CHF sold at 80 CHF
+
+COR - 2017 January  $78 now at $113
+
+GWW - 2017 July Amazon Panic $163 - sold at $210
+
+JNJ - 2017 January Actelion uncertanities  $116 - now at $142
+
+TD - 2016 Sept 56 CAD - now at 71 CAD
+
+QCOM - 2017 Sept - Apple Panic $52 - now $52
+
+
+I did not expect such a great increase in the prices of these stocks. I bought them because they seemed recession resistant (except BA). I am thinking now whether it is worth keeping them just because they are paying growing dividends and they are really shareholder friendly companies. 
+
+Currently I am about 30% Cash, waiting for a pullback on the market or on a dividend growth stock. Do you guys think the strategy I am doing is viable on the long term? Or should I also consider non dividend paying stocks? 
+
+The biggest pros I see with dividend growth stocks:
+ - Even if the market tanks I can generate cashflow from my investments
+ - Dividend growth with a reasonable payout ratio means that the company is doing good in general
+
+I bought the ETF BOTS recently just to ride the AI/Robotics hype and to have something that is not paying dividend. 
+
+I would also add that my situation is a bit special as I live in Switzerland where you do not pay any taxes on capital gains , but you pay 30% tax on dividends (from which you can get back an extra 15% during tax declaration). 
+
+Some questions to start the conversation:
+Also which of the above stocks would you sell if you were me? For example FLO sells bread but bread consumption is trending downwards currently in the U.S.
+What do you think of my strategy? Do you see any issues with it long term?
+So do you have any suggestions what companies to look for if I am afraid of a general pullback on the markets? Are there any companies which have some temporary troubles but are well managed and should recover in the future? "
+77,2017-10-19,skulman7,140,$AIEQ New ETF first ever to use AI to choose portfolio,"[Bloomberg Article](https://www.bloomberg.com/news/articles/2017-10-17/ibm-s-watson-is-key-to-new-artificial-intelligence-powered-etf)  
+
+&gt;The fund, which is being run in partnership with ETF Managers Group of Summit, New Jersey, will use AI and machine learning to scan more than 6,000 U.S. publicly traded companies each day to create a diversified fund, Amador said. The program will parse regulatory filings, more than a million news stories, company management profiles, sentiment gauges and financial models to establish a portfolio of 30 to 70 stocks.  
+
+&gt;Once the stocks are chosen, a team of human managers at ETF Managers Group will rebalance the portfolio based on the selections -- theoretically, every day if the computer proposes changes.   
+
+Just launched yesterday.  AI powered by IBM's Watson.  Will be really interesting to see which companies the AI chooses and how it competes/compares to other ETFs.   
+
+&amp;nbsp;  
+
+**EDIT**  [List of Current Holdings](http://www.equbotetf.com/fund/#holdings)  thanks /u/FinanceAnalyst"
+78,2017-10-18,anticontenttime,16,Ways to ride the AI wave?,"Taking into account the large scale AI is being incorporated across all industries, and the fact that its clear it's only going to play an increasingly large part in our society, which companies would you consider as investments with potentially high growth prospects?
+
+I'm disregarding the obvious ones (Google, Facebook) who are giant enough already. I'm asking more about companies that specialize in specific sectors of the market, or that have some high potential of integrating into one in future.
+
+I know Nvidia have a horse in this race for example, but I'm always afraid to invest in them for the same reasons I'm always afraid of investing in bitcoin.
+
+
+&lt;&lt;EDIT&gt;&gt; I understand that ""WHO SELLS THE AIs?!"" is a dumb question, so maybe a better way to describe this would be: If in the 90's you realized the internet was going to be everywhere and invested in Google, what would be today's parallel for the world of AI?
+
+Cheers guys!"
+79,2017-10-12,jbar2728,136,BlackRock CEO Commits to AI Stock Selecting as They Look to the Future,[removed]
+80,2017-10-12,[deleted],1,BlackRock CEO Commits to AI Stock Selecting as They Look to the Future,[deleted]
+81,2017-10-11,InterestingNews1,63,Why is Micron trading on a PE of less than 10?,"I know the SP has risen 150% over the past year and it's a cyclical business.  But as far as I can see MU is more than a commodity stock and the current cycle with AI, cloud and autonomous vehicles looks like the beginning of a supercycle.
+
+This is a genuine question - all help appreciated."
+82,2017-10-10,[deleted],0,SoftBank leads $93 million investment in Petuum’s AI platform,[deleted]
+83,2017-10-09,sylee11lgc,3,Why we should invest in South Korea.,"I have moved to Seoul, South Korea 5 years ago. And I have gaining more and more confidence in investing in South Korea. English is not my first language and I am sorry about that. 
+
+First of all, Korea is undervalued due to NK threats. Much of the worries in the western world is overblown by the media. From the western perspective, it looks like South Koreans are about to have massive evacuation but the reality is that Seoul is one of largest and fastest growing tourist and expat destinations in the world. 
+
+Secondly, South Korea has strong economical ties with China. South Korea is currently one of top investors even with recent THAAD dispute. Their economic ties are too big to fail and ensures positive outcome from possible regional conflict. 
+
+Thirdly, Korea has good nation branding through its dedication to cultural assets called hallyu. This phenomenon which rarely portrayed in western media has been steadily growing for last 15 years. Hallyu now has major impact to Asian countries dominating in pop culture scene. Twice a Korean pop song group has taken over Japanese teens and young adults and Japanese analyists call this third (or fourth) wave of hallyu.
+
+Fourth, Korea is heavily investing to its children. Some analyze the fast recovery of war torn Korea is due to its culture of heavy emphasis on education. After 60 years after Korean war, that culture has not disappeared but rather strengthend more than ever. Korea is preparing next generation that will make impact in next decades. It is a viable indicator of future growth. 
+
+Last but not least, is their obsession with technology. Korea is already heavily wired country if not the most, and from the experience living here, Koreans are still not satisfied and wants more technological advancement. Even though Korea is one of worlds economic powerhouse, they acknowlege themselves as least in 5 eastern powers; China, Japan, Russia, and The US. And the AlphaGo shock, the fear of AI, made a lasting trauma to their consciousness, driving them even further seeking tech development. "
+84,2017-10-04,wsace,12,BOTZ: Is it still worth to jump in?,"So the ETF BOTZ (NASDAQ:BOTZ) is already up 50% since it started so at first I thought it is too late to buy now. But then I checked the  iShares Nasdaq Biotechnology ETF and saw that it went up already 6x since issued in 2010.
+Why I compare it to a Biotech ETF? Because I think that BOTZ will receive similar level of attention and the whole sector will be in sort of a bubble in some years just like Biotech which probably already peaked as can be seen: https://finance.google.com/finance?q=BMV%3AIBB&amp;ei=GCzVWdmbCY6wsgG3koWoCA 
+
+I assume the next bubble which might come will Robotics / AI and BOTZ seems well diversified in my eyes:
+https://www.globalxfunds.com/funds/botz/?download_full_holdings=true
+
+I would gladly hold this ETF for 5-7 years.
+
+Another great thing about this ETF is its name. You might think now why would the name of an ETF matter. Check this:
+https://www.princeton.edu/news/2006/05/29/study-stock-performance-tied-ease-pronouncing-companys-name
+
+So who is already in BOTZ? When are you planning to sell it? And most importantly: Why should we not invest into this ETF?"
+85,2017-11-28,Garrison_Forrdd,28,JPMorgan's research team shared its top AI stock ideas in a note to clients Monday.,"JPMorgan's research team shared its top AI stock ideas in a note to clients Monday.
+
+https://www.cnbc.com/2017/11/28/here-are-jpmorgans-favorite-stock-picks-to-ride-the-a-i-revolution.html
+
+1) Facebook (FB)
+
+2) Oracle (ORCL)
+
+3) Palo Alto Networks (PANW)
+
+4) Workday (WDAY)
+
+5) Twilio (TWLO)"
+86,2017-11-21,contezpablinos,7,What ai/robotics stocks has everyone been interested in?,"Mine are Blue Prism, trading in the UK
+
+• Market Cap - 1bn.
+
+• Share price has risen 1500% since 2016
+
+They are basically workplace assassins, that improve processes by automating everyone out of a job..
+
+
+...and Nvidia
+
+
+• Owns 10,000 patents
+
+• Owns high performance computers, e.g. ai virtual reality and autonomous cars..
+
+• Leader in video game graphics semi-conductors, a growth market in which it is the leader
+
+• Counts TESLA as a customer, as well as other leaders in the electric cars space
+"
+87,2017-11-21,[deleted],1,"Does any have ideas for ai/robotics stocks, or mutual funds?",[deleted]
+88,2017-11-16,Middy97,0,Need info about an AI ETFs trading habits,So I’ve been looking at the BUZ etf and wanted to know if there was any way to find out how frequently it trades. I️ compared the quarterly fact sheets and tried to read some other info provided but couldn’t find specifics on if it attempts to trade often or not.
+89,2017-11-15,aSofterSin,0,AI / Automation ETF:s,"Hi!
+
+I started looking around for some ETFs focusing within the AI sector and found the Global X Robotics &amp; Artificial Intelligence ETF.
+
+But I weren't too impressed by their holdings except for $NVDA. Im not saying the YTD at 59% is bad at all it's great. I'm just looking too see what's out there and see if you have any tips.
+
+
+What's your take on the ETFs available within AI? Have you found any other ETFs within this sector that might be interesting?
+
+
+Thanks in advance!
+
+
+"
+90,2017-11-09,grindtashine,4,Top ai ETFs?,I'm currently in botz and I'm aware of robo.  Who else is a big player in this arena?  
+91,2017-11-08,Ismoketomuch,0,ETF’s ROBO and BOTZ,"Dont have much free capital to invest, was thinking of buying some leap call options ITM on these two ETF’s. 
+
+Im convinced AI and Robotics is going to dominate 90% of Labor and Manufacturing in the near future, 10-20 years.
+
+So I think these types of ETFs are in line with my beliefs. I dont have thousands of dollars to buy the stocks outright so I think I should just buy some 2018 leap calls with an ITM strike. 
+
+Maybe 2-3 contracts of each. 
+
+Any thoughts? 
+
+Currently going to school, have 60k in mutual funds that I don’t manage but just watch them grow each month. 
+
+"
+92,2017-11-07,hab3ba,10,AI Powered ETF $AIEQ - Any Interest?,"http://www.equbotetf.com
+
+I've been following since inception and haven't  found much additional news / information."
+93,2017-11-06,jokesandgains,4,How long can BOTZ keep up this growth?,"I invested into 50 shares of BOTZ ( a robotics and AI ETF) around May at $18. In that time, it has gone up to almost $24/share, and almost 57% on the year! I was wondering, in your guys opinion, what can be attributed to this huge growth. Is it the natural growth of the robotics and AI industry, or are these guys doing something special? And, more importantly, how long do you see this rate of growth being sustained?"
+94,2017-11-02,blackdragon1299,23,What are 3 stocks your watching/buying in November?,"I'd like to hear what 3 stocks you guys are looking to buy/watch in November. Many of us here swing trade, and hold a stock sometimes for a month or two, some of us hold it for longer, and some of us day trade... but what I'm interested to see is do you plan ahead to watch particular stocks every month? I personally have a few stocks that I buy for long term every month, so I'll list them out here. Would love to hear stocks you're buying!
+
+* Apple $AAPL: iPhone X is finally on sale, and demand has been incredible. I think this will be the best selling phone ever for Apple, and their profits will also increase significantly because the iPhone X is priced over $1000 (and I'm sure it doesn't cost them that much more compared to the iPhone 8). Fundamentals are strong, they are releasing more products to enter more markets (Home Pod to compete with Google Home and Amazon Echo), and I expect strong earnings from them as well tonight.
+
+
+* Alibaba $BABA: As we saw, strong earnings were released this morning. And this will only continue in my mind. The chinese economy is healthy and is growing Q over Q, and we are now entering the holiday season - which means even more shopping. Also, the fact that they are investing heavily in AI ($15B investment) and one of the co-owners is supposedly buying a 49% stake in the New York Nets hints that they want to have a bigger presence in North America - and this maybe means going head to head with eBay and Amazon.
+
+
+* Shopify $SHOP: Strong earnings, and it's down big because of the Citron report. I still stand by the fact that the report was complete BS - there was so much speculation, and no real proof to support the accusations. The biggest argument was that they claim that anyone can become a millionaire - which Citron says is a scam. However, I disagree - because if you use Shopify platform and have a good product, it gives you the ability to sell your product worldwide, with minimal effort, and you do have potential to drive millions in sales - thus resulting in eventually becoming a ""millionaire"". They reported strong numbers (again) and once again, we're going into the holiday season, so we should see a lot more sales here through Shopify merchants. They are also competing with Square now - they still have a ways to go to compete head to head with Square, but I think with their disciple with the business, they can do this.
+
+
+So that's my insight. I did make a more detailed video on this to cover in more detail, so PM me if you'd like to see it (not going to post links here). This post is pretty much the bulk of the reasoning behind each one of these 3 stocks. Share with us the stocks you are watching during November, why you're watching it, and what entry point you're looking for!"
+95,2017-12-25,NomadicWayfarer,32,BOTZ Outlook for the next 5 months?,Strong believer in AI and bought a few Call options for June 2018. What are your thoughts on the ETF and price target for the next 5-6 months.
+96,2017-12-23,evaslaari,27,"Investing on robots and automation, which ETF to use?","I want to invest on the big megatrend of robotics, automation, AI and so forth. I have picked up two interesting ETF:s that I can invest, living in the Nordic countries:
+
+iShares Automation &amp; Robotics UCITS ETF
+Morningstar:
+http://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P00018NHV
+
+ROBO Global Robotics and Automation GO UCITS ETF
+Morningstar:
+http://www.morningstar.co.uk/uk/etf/snapshot/snapshot.aspx?id=0P000157DT
+
+Both are physical ETF:s, re-invest the profits and are sold in EU area. Last one is important, because after MiFid II directive many ETF:s on the USA market are not sold in the Nordic countries (the info brocures need to be in your native languace and the Nordic countries are too small for US companies to give a damn). iShares TER is 0,20% and the latter, ROBO TER is 0,80%.
+
+My question is this: Is there any point to invest in both of these ETF:s? From my investigating I would say yes, since they include different companies on the Top10 list, but am I missing something?"
+97,2017-12-20,Jhionehandclap,15,Is NVDA a good investment in this current market?,"I've been looking to add some tech to my portfolio and since the recent price correction I've been thinking about jumping in to NVDA, purely because I think what they are doing is incredible (Driverless cars, AI, top-of-the-line GPUs). However, there are current concerns that the company is experiencing insider selling, and may also be vulnerable if the crypto market has a contraction/crash - and lets face it, that market is looking frothy to say the least! I'm wondering how much you think NVDAs growth over the past couple of years has been down to miners using its machines. Or do you think these concerns are over-stated? I would love to hear what other people think. Thanks!"
+98,2017-12-13,ElephantElmer,1,Is Renaissance Medallion not proof that AI can already outperform humans?,
+99,2017-12-10,kolt54321,0,What Financial Ratios would you use in an Nvidia analysis?,"Obviously P/E comes to mind, being higher than the rest of the sector, and ratios with R&amp;D can be helpful in seeing how it can sustain future growth in AI and deep learning markets (as they are new fields), but what else would you look at? It doesn't have much competition in any of the markets it's currently in, so I'm at a bit of a loss."
+100,2017-12-06,Craino,2,Anyone using AI/Neural Net/Back propagation to generate investment opportunities.,"I started my career as a programmer.  While decades of employment has taken me in different directions, I still work generally in technology.  I've watched with great interest the rise of AI and machine learning, and just the other day discovered [TensorFlow](https://www.tensorflow.org/), Google's open source machine learning framework.
+
+Thinking through how neural networks work, it doesn't strike me as too hard to construct one to identify potential high growth investment opportunities.  I would imagine there are data element-rich market databases as input, which could be used.  One could first use the historical data to look for the subset of stocks that have increased X% over some short time period.  Let's say stocks that have increased 25% or more within 18 months.  Then we use that as the model dataset, and backpropogate over all the historical market data points to identify if there is a set of indicators that ""predict"" those stocks.
+
+Sadly, I have not kept up with my programming skills so can't try this out myself.  TensorFlow is based on Python, which as a pretty simple syntax, but still out of my skill set.  So - just wondering if anyone out there might be already working on it and if you are willing to share results.
+
+If not - anyone with programming skills want to partner up and give this a whirl?  ;)"
+101,2017-12-04,JCvalentyne,1,Discussion about smart and emerging markets to invest into.,"Hi everyone,
+
+So obviously we all want to make the smartest investment and everyone already in, wants to give some exposure.
+
+A good emerging market is AI and Tech stocks like Amazon or nVidia. Another good emerging market is Cryptocurrencies (bit of conflict in this sub about this market). But strong cryptocurrencies like Ethereum are a good bet to put a small % of your portfoio into.
+
+ Are there are other good stocks or industries to get into?"
+102,2017-12-04,Skythee,26,I'm looking into investing in artificial intelligence. Does anyone have any AI ETFs they would recommend?,Any advice about investing in AI is welcome as well.
