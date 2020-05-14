@@ -1,0 +1,613 @@
+,created_utc,author,score,title,selftext
+0,2017-01-10,Charuru,25,My thoughts on competition to NVDA in GPUs,"If you're interested in investing in NVDA check out my new subreddit /r/NVDA_Stock. It's shamelessly inspired by /r/AMD_Stock You can read and discuss this article here: https://www.reddit.com/r/NVDA_Stock/comments/5n6ohq/nvidias_gpu_revenue_is_secure_for_the_next_year
+
+
+**Nvidia's GPU revenue is secure for the next year, there is still no competition.**
+
+There are many bears that are concerned about competition from AMD's Vega in both gaming and deep learning. I took the time to learn about Vega and study the state of the competition seriously. My conclusion is that competition is **non-existent**.
+
+
+
+**Gaming**
+
+Polaris failed to make an impact as we saw last quarter with NVIDIA's record revenues and AMD's very weak revenues. Coming a full year later after the launch of Pascal, Vega is expected to hit around GP104 performance. This level of performance is probably too low. GP104 was top tier in 2016 but will be merely mid-tier in 2017. The 1080ti will replace the 1080 as the gaming flagship for NVIDIA and Vega will only work as mid-tier competition. NVIDIA should also launch their Pascal refresh or Volta cards by fall of this year. If that's the case, then GP104 will fall to mid-low tier, not mid tier, and Vega will only compete on the budget level. As a result NVIDIA will once again face no competition in most of the market for gamers. 
+
+
+
+**Deep learning**
+
+In deep learning competition is again non-existent. Many people have pointed to Google also offering AMD cards in their cloud as a sign of validation for AMD as a deep learning competitor. But this is untrue and a media scam, or worse yet, some kind of scheme to fool investors.
+
+https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html
+
+Read the google cloud announcement directly instead of reading an ignorant regurgitation from financial news outlets.
+
+&gt; Google Cloud will offer AMD FirePro S9300 x2 that supports powerful, GPU-based remote workstations. We'll also offer NVIDIA® Tesla® P100 and K80 GPUs for deep learning, AI and HPC applications that require powerful computation and analysis. GPUs are offered in passthrough mode to provide bare metal performance. Up to 8 GPU dies can be attached per VM instance including custom machine types.
+
+As we can see, only NVIDIA cards are being offered for deep learning. AMD cards are only used for remote workstations, an old and uninteresting usecase. AMD has no competition for deep learning as of yet. The FirePro cards are offered at extreme discounts to the NVIDIA equivalents, we're talking about prices that are only 1/2 to 1/4 as much. Yet Quadro and Tesla dominate the market vs FirePro. In any case, NVIDIA is not interested in engaging in a race to the bottom with AMD and the customer base for those products are generally not so price sensitive.
+
+AMD also announced a Vega based ""Instinct"" deep learning platform. Though 5 years late, AMD is hoping to start the catch up with the launch of Vega. There are 2 questions to think about with Instinct in respect to whether or not it'll be successful in deep learning.
+
+Question 1 is the hardware, is it competitive with P100? Question 2 is the software, can the CUDA moat of NVIDIA be breached?
+
+
+
+**THE HARDWARE**
+
+Reference article: http://www.anandtech.com/show/10905/amd-announces-radeon-instinct-deep-learning-2017
+
+Hardware-wise, NVIDIA has a feature advantage. NVIDIA's cards are optimized for ""deep learning operations"" while AMD is not. But let's be clear here, ""deep learning operations"" is marketing for INT8. Most deep learning today is done on FP16. P100 is ""10x"" faster than Maxwell partly based on improvements to FP16 deep learning operations and is today far ahead of any competition.
+
+In the future, AMD is advertising better support for FP16, bringing them up to parity with NVIDIA in that regard. But NVIDIA is moving ahead with support for INT8 operations, an even faster way of doing deep learning than FP16. INT8 is however useful only in some usecases.
+
+&gt; Deep learning research has found that trained deep neural networks can be applied to inference using reduced precision arithmetic, with minimal impact on accuracy. These instructions allow rapid computation on packed low-precision vectors. Tesla P4 is capable of a peak 21.8 INT8 TOP/s (Tera-Operations per second).
+
+Investors should be careful to note that this is only NVIDIA marketing, INT8's usefulness in the real world has not yet been proven. In this case, hardware for INT8 did not exist prior to Pascal and it will be with the expansion of Pascal into the market that real applications for INT8 will be written. However if NVIDIA is correct (and I think they are), INT8 represents yet another generationally important hardware feature that NVIDIA has over AMD.
+
+But let's ignore this for now and talk about competition in the more traditional FP16.
+
+AMD is offering a Polaris, Fiji, and Vega based solution. 
+
+Anandtech is politely saying that Polaris and Fiji are generally worse than the NVIDIA options.
+
+&gt; The MI6 and MI8 will be going up against NVIDIA’s P4 and P40 accelerators. AMD’s cards don’t directly line-up against the NVIDIA cards in power consumption or expected performance, so the competitive landscape is somewhat broad, but those are the cards AMD will need to dethrone in the inference landscape.
+
+I'll be more realistic and say right away that simply means AMD is completely non competitive for the Polaris and Fiji products, especially considering the relative price inelasticity of deep learning customers and NVIDIA's lead in CUDA (which I'll get to in section 2).
+
+More interesting is MI25, the upcoming Vega based product. It's got new architectural improvements of uncertain value. We simply don't know how it will compete against P100.
+
+&gt; As AMD’s sole training card, the MI25 will be going up against NVIDIA’s flagship accelerator, the Tesla P100. And as opposed to the inference cards, this has the potential to be a much closer fight. AMD has parity on packed instructions, with performance that on paper would exceed the P100. AMD has yet to fully unveil what Vega can do – we have no idea what “NCU” stands for or what AMD’s “high bandwidth cache and controller” are all about – but on the surface there’s the potential for the kind of knock-down fight at the top that makes for an interesting spectacle. And for AMD the stakes are huge; even if they can’t necessarily win, being able to price the MI25 even remotely close to the P100 would give them huge margins. More practically speaking, it means they could afford to significantly undercut NVIDIA in this space to capture market share while still making a tidy profit.
+
+Anandtech is full of optimism for the MI25. I look at it much more critically. Even if the MI25 is competitive on the hardware level it is probably too late. Like in the gaming market, it comes a full year after Pascal and Volta-based deep learning chips are probably going to be announced before their release. This year's GTC (GPU Technology Conference), the annual NVIDIA hosted conference should see the announcement of Volta based V100 for deep learning. Pascal was announced at last year's GTC.
+
+Based on this release cadence, AMD looks at least a year behind in technology even ignoring INT8. 
+
+
+**The Software, CUDA Moat.**
+
+A lot of investors have heard of CUDA and how important it is in deep learning. But it doesn't seem like its importance is sufficiently stressed seeing as how many bears are still out there talking about competition. CUDA has already won, there is no war, the war is over. NVIDIA's proprietary platform is as dominant as windows is over Linux. CUDA is easier to use, have a vastly bigger community, resources, tooling, love and support from everyone. There is basically no alternative. The idea of OpenCL winning vs CUDA in 2017 is as farcical as the idea of Linux winning over Windows on the desktop in 2017. So long as people love CUDA they will stick with NVIDIA.
+
+AMD is going to attempt to breach the CUDA moat with the Boltzmann Project. It's a project to poorly port CUDA code to AMD compatible OpenCL code. To me this sounds almost a bit delusional... but I'll talk about it anyway. Has any software platform ever won by creating an emulator / port layer for another platform's user apps? Doesn't such a thing just send the signal that the winning platform has, in fact, won?
+
+The Boltzmann Project is of dubious quality technology wise. I read in many places that the output is garbage. But just humoring it, we have to raise the question why anyone would want to port from a popular and great environment like CUDA to a crappy one like OpenCL in the first place. The only answer is, they don't want NVIDIA to get a monopoly on deep learning (it's too late NVDA already has a monopoly) and want to support AMD to help it become a competitor.
+
+The only problem is such logic is that computer scientists are not fanboys. People generally don't spend weeks of work time to help out a company for the purpose of charity. They want to get stuff done, make software, get their AIs to make recommendations, help translate languages, create machine music, make medical diagnosis, whatever it is that they're doing. 
+
+Is it possible for AMD to make ground in the CUDA moat? I can't dismiss it out of hand, if AMD makes an unrealistic, absurd amount of investment in that effort, I can see them making progress. [It's just extremely unlikely, and everyone knows it.](https://www.reddit.com/r/MachineLearning/comments/4m417z/amd_polaris/d3sholx/
+)
+
+In conclusion, there are no concerns about competition vis-a-vis AMD. But that doesn't mean there isn't a bear case for the NVDA stock. Stick around /r/NVDA_Stock and check out some other posts.
+
+
+"
+1,2017-01-02,goneman,459,Anyone Interested in Machine Learning?,[removed]
+2,2017-02-27,ZnVja3JlZGRpdA,0,Best companies to invest in AI / Machine Learning ?,"It seems like a lot of strong companies utilizing ML are private, but looking at the public options, which do you feel are good bets for ML tech ?"
+3,2017-02-25,FCowperwood,4,Apple extending Seattle footprint with new offices dedicated to AI and machine learning,http://venturebeat.com/2017/02/24/apple-extending-seattle-footprint-with-new-offices-dedicated-to-ai-and-machine-learning/
+4,2017-02-02,talyen42,16,Convince me TSLA and NVDA aren't overpriced,"I'm as big an Elon Musk / Machine Learning fan as anyone, but will someone please convince me that TSLA and NVDA aren't heavily overpriced from a fundamental value perspective? What's the pitch? Current price seems to indicate that they're both going to 10x revenue in the next 5 years...
+
+TSLA
+
+Market Cap	40.43B
+
+Revenue (ttm)	5.93B
+
+Trailing P/E	-39.75
+
+Forward P/E	-230.58
+
+PEG Ratio (5 yr expected)	-3.12
+
+Price/Sales (ttm)	6.82
+
+Price/Book (mrq)	14.05
+
+Enterprise Value/Revenue	6.32
+
+Enterprise Value/EBITDA	363.86
+
+
+NVDA
+
+Market Cap	61.58B
+
+Revenue (ttm)	6.14B
+
+Trailing P/E	75.07
+
+Forward P/E	42.16
+
+PEG Ratio (5 yr expected)	1.59
+
+Price/Sales (ttm)	10.03
+
+Price/Book (mrq)	13.64
+
+Enterprise Value/Revenue	9.41
+
+Enterprise Value/EBITDA	32.89"
+5,2017-03-23,dewise,0,What is your opinion on machine-learning driven funds like pit.ai?,"First, I will introduce their approach (from the article https://techcrunch.com/2017/03/21/aihedgefund/):
+
+&gt;Yves-Laurent explains that this strategy falls short in a financial context because it means that learning how to trade requires one to model returns for each decision in each state of the market. Financial markets are incredibly complex systems, so the math goes from science to art to pseudoscience quite rapidly. Instead, Pit.ai evaluates trading strategies themselves, taking into account metrics like Sharpe ratios and maximum drawdown — financial tools for evaluating risk. Utilizing this strategy, Pit hopes to best industry stalwarts by not only delivering above average returns, but breaking the traditional two and twenty fee structure of the hedge fund industry. Without the need for large analyst teams to search for macro-economic trends and data to exploit, Pit can stay lean and drop management fees altogether, instead opting only to collect carry from its limited partners.
+
+First, I don't understand how they will be able to live without management fees: yes, they have automatic tools to somehow evaluate strategies, but then they still will need experts to make sure algorithms are working properly and the output is not a random garbage. In fact, they need both people and computing power! 
+
+Second, I do not understand their approach to evaluating trading strategies: you have already all the math to estimate the volatility, so what are they bringing to the table in this particular area? Are they claiming they can estimate volatility better that, for example,  Heston model  or something like that?  
+
+I'm not an expert in machine learning or volatility estimations, so please bear with my silly questions (and poor grammar)."
+6,2017-03-21,born92,2,What attributes are relevant when analyzing an IPO?,"I'm curious what attributes people think are relevant to gauging the success of an IPO.
+
+IMO, the key components are industry, company size, funding, price point, revenue.  I suppose year of the month and other consumer trends also come into play?
+
+I'm working on building a machine learning model to predict IPO outcomes, but would like some input before I begin.  Here's what I have so far: https://ipknow.info"
+7,2017-03-12,fourhundredthecat,2,How to profit from the coming Machine Learning / AI revolution,"Let's assume that Machine Learning (or AI in general) will be the next big thing (ie, comparable to the internet revolution in the 1990s). What would be the best way to invest, to take advantage of this trend? 
+
+What stocks would be best investments, either directly or proxy.
+
+Seems to me, most companies active in ML are startups, that end up being bought by the tech titans (Google, FB, MS, Amazon, ...) before they go public.
+
+Besides, startups are notoriously unpredictable and risky.
+
+What other investments might benefit from ML/AI revolution ?"
+8,2017-03-11,trenteady,10,Tesla's long-term potential for growth as a self-driving taxi company,"Hi, I'm looking for feedback on my Tesla long thesis. I would really appreciate your insight and respectful criticism. This is a re-post of a Seeking Alpha [blog post](http://seekingalpha.com/instablog/48129566-trent-eady/4965614-teslas-long-term-potential-growth-self-driving-taxi-company), which I did not get paid for. 
+
+**Summary**
+
+* Tesla is a leader in self-driving, thanks to its large advantage in driving data.
+
+* Tesla is therefore well-positioned to take a significant share of the self-driving taxi market.
+
+* Using an estimate from ARK, we can calculate that if Tesla captures just 5% of the self-driving taxi market, its market cap will increase at least 5 times by 2022.
+
+Tesla (TSLA) is establishing itself as a leader in self-driving, thanks to its unique position as both a car manufacturer and a technology company. Competitors like Waymo and GM are one or the other, forcing them to resort to the less seamless approaches of partnerships and acquisitions. This made it possible for Tesla to put 14,000 to [22,000](http://ir.tesla.com/releasedetail.cfm?releaseid=1006161) cars with its [self-driving sensor suite](https://www.tesla.com/en_CA/blog/all-tesla-cars-being-produced-now-have-full-self-driving-hardware) on public roads in Q4 2016, with an [anticipated](http://files.shareholder.com/downloads/ABEA-4CW8X0/3811540223x8295715x929284/22C29259-6C19-41AC-9CAB-899D148F323D/TSLA_Update_Letter_2016_4Q.pdf) 47,000 to 50,000 more to roll out in the first half of 2017. Waymo only has a few hundred, as far as we know. GM has something like [40](http://fortune.com/2016/12/15/gm-self-driving-cars-michigan/).
+
+Driving data is the main competitive advantage in self-driving because data is the main competitive advantage in machine learning, as evidenced by Google open-sourcing its machine learning software TensorFlow in a bid to collect more data, according to analyst [Ben Thompson](https://stratechery.com/2015/tensorflow-and-monetizing-intellectual-property/). A version of TensorFlow may even be used in Waymo's self-driving cars. The only advantage Waymo might have over Tesla is its use of LIDAR, which has been passed over by Tesla in favour of cameras, radar, and ultrasonic sensors. In the second half of 2017 and in 2018, we'll see how far Tesla gets with this approach. My guess is that Tesla will prove LIDAR is unnecessary.
+
+[ARK](https://ark-invest.com/research/self-driving-cars) estimates that in 2022 the total market cap of self-driving taxi companies will be $4 trillion. If the forthcoming [Tesla Network](https://electrek.co/2016/10/26/tesla-network-revenue-to-owners-tesla-versus-uber-people/) captures just 5% of the self-driving taxi market in 2022, then on this estimate Tesla's market cap will be at least $200 billion, 5 times higher than its current $40 billion. That's not counting growth in Tesla Energy or other businesses.
+
+As we increase Tesla's hypothetical market share, the numbers become astonishing. At 10% market share, Tesla's market cap will increase by 10 times to $400 billion. At 20%, its market cap will increase 20 times to $800 billion, higher than Apple's today. At 30% market share, Tesla's market cap will hit $1.2 trillion, a 30-fold increase. This is all, hypothetically, in 2022, just 5 years from now.
+
+These numbers are entirely contingent on the correctness of ARK's estimate for the self-driving taxi industry in 2022. Therefore how much credence you should put in Tesla's potential for growth as a self-driving taxi company depends on how much credence you put in ARK's estimate, and of course how much confidence you have in Tesla to thrive as a company and emerge as a leader in self-driving.
+
+**Disclosure:** I am long TSLA."
+9,2017-04-16,HeavenEdit,39,"What are things you can do to increase the likelihood of finding the next Google, Microsoft, Apple etc. ?","I (and probably many other people) like to daydream about having invested in some of these super popular companies or even in Bitcoin thinking about the humongous gains that could have been made. 
+
+However it's very likely that there will be new opportunities for very profitable investments that people might not even see yet. People are talking about big data, machine learning, artificial intelligence and are throwing all kinds of buzzwords around saying that they will be the next *big* thing. I think so too.
+
+For AI and self-driving cars there are lots of companies that one can invest in. Big players like Google are likely to have a big impact there. 
+
+However for *huge* returns you will need to spot an emerging super high growth market that not a lot of people see coming yet and a company perfectly suited for it.
+
+How would you go about making bets on such companies? Search through OTC / penny stocks and find something you think looks like a gem and **hold it for a couple of decades** (after you get through all of the scammers first) ? "
+10,2017-04-12,lagerbaer,19,"Amazon's Jeff Bezos: Shareholder letter, touching on startup mentality, machine learning, customer focus","http://www.businessinsider.com/read-amazon-ceo-jeff-bezos-2016-letter-to-shareholders-2017-4
+
+Find the full text there. Always good to hear from the people running the companies you own shares of.
+
+Some memorable quotes:
+
+&gt; If you wait for 90%, in most cases, you're probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you're good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.
+
+"
+11,2017-04-05,CapitalDragons,6,Computer Stock Analysis: Is there any money in it for a home investor?,"I have a natural interest in machine learning and was thinking about applying it to the stock market. However, I feel like the other algorithms I will be competing with on the open market will be too good just based on the fact that they were made by people with more time.
+
+For example, if there were any stock with some sort of regular pattern a better faster computer managing a hedge fund would find and trade that pattern into dust before I my algorithm even saw it. 
+
+Has anyone had any success with computer programs or are the other dogs just too big?"
+12,2017-04-04,barefooter,0,Why I'm so incredibly bullish about Tesla,"I ended up making this long post below as a comment in one of the recent Tesla threads, but I figured it was deserving of its own post. Here's a summary of the reasons I'm super bullish on Tesla.
+
+&amp;nbsp;
+
+**Betting on Elon Musk**
+
+Betting on someone like Elon Musk is potentially incredibly profitable. To build a company that will succeed as I believe Tesla will, you need the boldest, most visionary, brilliant leader you can find, and no one compares to Elon Musk. I loved Steve Jobs, but I think Musk has a huge edge on even him. Literally every company he's run has destroyed its market. It's his track record of being able to foresee the future and build companies around dominating a future market, rather than the current market. Take his first venture Zip2 for example, that market didn't even exist at the time, and he built it from scratch. Then X.com, which later became paypal. Again, he built a company in a market that barely existed, he created the market, and paypal is enormous now.
+
+
+Again, with SpaceX, people laughed at him thinking he was doing the impossible, but look at what they're doing now. And for Tesla to come as far as it has in this amount of time, and for their cars to have gotten such high praise, it's just mind boggling. Elon Musk is the real deal, the kind of visionary with a coupled insane work ethic and ability to deliver on outlandish promises. If there's anyone to bet on, it's him.
+
+
+Because of Musk's cult like following, they can hire the brightest engineers, and work them exceptionally hard. Not too different from Apple here. People literally want to go work their asses off for this guy so they can build the future. I'm a software engineer, and I HATE working hard, but I tried very hard (and failed) to get a job at SpaceX, because I wanted to work my ass off and change the world.
+
+&amp;nbsp;
+
+**The SpaceX synergy**
+
+I think many investors overlook the SpaceX synergy with Tesla. Sure, they're building wildly different products, but they're still both manufacturing cutting edge technological machines. Lessons learned from either company can be transferred between the two. Also brilliant engineers can go between the two companies. This creates a serious multiplying force for both companies.
+
+&amp;nbsp;
+
+**Company Culture**
+
+Tesla's company culture is built from the ground up to be highly innovative, fast moving, and completely dominate the future market. Sure, GM, Ford, etc. can and will start making more EVs, but their companies are not built for the future. They're built for the past, and the old ways of doing things are quickly going to become a liability. Tesla is a manufacturing company, but they have learned a lot of lessons from Silicon Valley tech companies and employ similar strategies of flatter hierarchy, which boosts ground up innovation, and quick iterative engineering practices.
+
+&amp;nbsp;
+
+**Product Quality**
+
+It doesn't matter right now. They're reliable enough for early adopters, and early adopters don't care that much about reliability. This is evidenced in polls about owner satisfaction which rank very high. Building a car company from scratch, it takes many years to work out all the issues, and I have no doubt quality will be greatly improved on with the model 3 as production is greatly scaled up and they apply changes to manufacturing from lessons learned.
+
+&amp;nbsp;
+
+**But, but, but profits...**
+
+Telsa would have to be stupid to take profits now, or for that matter anytime in the next 10 years! They are not building a company for the current market, they are building a company for the future market, and that requires reinvesting 100% into growth and R&amp;D. This is why the other auto makers will not be able to keep up. Sure, they'll be making EVs, but they simply cannot commit even a fraction of the capital into growing into the future. Whereas this is Tesla's entire purpose.
+
+&amp;nbsp;
+
+**The iPhone moment**
+
+I, and many others, think Tesla is going to have an iPhone like moment, and potentially with the model 3. Where they release a car that is so compelling there would be no reason to buy another car in the same price range. This will spur huge interest into EVs from the general public, and Tesla will be poised to grow into that market, as they've been anticipating. Whereas other car makers will be left scrambling as they are barely making any EVs and will not be able to ramp production to meet demand.
+
+&amp;nbsp;
+
+**Optimizing Manufactoring**
+
+Did you watch the talk Elon Musk and JB Straubel gave at the gigafactory opening? It literally gave me chills. Musk was talking about how they designed the factory, how it's like a multilayer CPU, and all this stuff about how they're basically reinventing automated manufacturing. They are not beholden to doing things the way they have always been done, they are dropping all that technological debt and building things from the ground up to be as efficient and automated as possible.
+
+&amp;nbsp;
+
+**First principles thinking**
+
+Musk loves what he calls first principles thinking, where he breaks something down into the most basic physical properties, and tries to figure out what the floor of cost is for a product. SpaceX and Tesla are built around this way of thinking, and because of this, they can literally do the impossible. Musk thinks from the ground up. Rather than just making a slight improvement to something, he wants to figure out what are the limits of physics on producing a good. So if you're making a battery, you need X materials at Y mining cost, so the minimum cost is the raw materials, so how do you create a finished product for as close to this minimum as possible? It's literally striving for the impossible, but in this striving they are able to cut the price by a ridiculous margin. This is a big part of the SpaceX, Tesla secret sauce. Other manufactures might look at a product and say, well X company makes it for this price, lets produce it for 10% less and dominate the market. But Musk is literally going from the ground up, thinking if this was 100% optimized from mineral extraction to final sale, what would it cost, now lets work our asses off to get as close to that number as possible.
+
+&amp;nbsp;
+
+**Amazon was not just a book seller, Tesla is not just a car maker**
+
+Many ""smart"" investors missed the boat on making huge returns on amazon, because they labeled them a book seller, and tried to traditionally value the company as such. If you had paid attention to what Bezos was saying back then and the course he was plotting, it would have been clear that he was building a company to dominate the then emerging online marketplace. If you believed at the time those markets would be huge, it would have been a very smart investment. I think you can see the parallel with Tesla, they are not just another car company. They are building a company to dominate the emerging EV, solar, and electricity storage markets. If you think those markets will be huge, and think Tesla has a good chance to take a big chunk of the market, then it's a very wise investment.
+
+&amp;nbsp;
+
+**The future will be electric**
+
+In my mind, this is a done deal. You can look at the trends, solar prices have been plummeting for years, batteries are getting cheaper and better, etc. We are quickly nearing a tipping point. Sure, there are dinosaurs like Trump that want to bring back coal, but the market has spoken already and renewables are going to become so cost effective that agenda won't matter. So, if the future is destined to be electric, what is the valuation of a company that has vertical integration of the key products of this future, solar panels, batteries, and EVs?
+
+&amp;nbsp;
+
+**The future will be automated**
+
+Tesla has been criticized for putting out ""beta"" software for self driving, but this is a strategic part of their plan. The current trend in AI, and what's working very well in many disciplines (ie: deepmind) is getting massive datasets to train multi layer machine learning algorithms. This is Tesla's plan. They are getting immense amounts of data currently, while the other players sit on their hands and try to design the ultimate self driving car before releasing it. It's not possible, you need the millions of miles of training data, and Tesla alone will have this. This is why they are not using LIDAR, because they understand the training dataset is the real asset, and they can acquire that data much more quickly by getting as many cars on the road with cameras as quickly as possible. I expect the quality of the self driving AI will begin getting better at an exponential rate in the next year or two, and those other auto makers that are building AI behind closed doors will be left in the dust, maybe even wanting to license the tech from Tesla.
+
+&amp;nbsp;
+
+**TLDR**
+
+Yeah, I have a huge hard on for Elon Musk, Tesla and SpaceX, but it's justified because he's proven time and time again that he's capable of achieving the impossible. Tesla is designed to completely dominate the future car and energy markets, and the existing companies simply won't be able to keep pace because they were designed to dominate a market that will be antiquated within 10 years. The future will be electric, and Tesla is poised to take a large chunk of an immense industry, so future 1 trillion valuations are not outlandish. For all I know the stock price is overvalued right now and may drop a good deal, but I'm investing in the long term vision and would rather not take a chance on missing a dip that may never happen."
+13,2017-04-01,PM_ME_BOOBPIX,1,"Apple drops clues about self-driving car program, confirms work with Bosch","That is quite an interesting development.  I haven't heard anything recently about AAPL+car projects.
+
+&gt; “The company is investing heavily in the study of machine learning and automation, and is excited about the potential of automated systems in many areas, including transportation,” the comment states.
+
+I doubt that AAPL will actually manufacture cars, but it seems clear that they want to be part of it, I wonder if they are readying for some acquisitions.
+
+In a sci-fi movie they will acquire $TSLA.
+
+http://www.autonews.com/article/20170331/MOBILITY/170339955/apple-drops-clues-about-self-driving-car-program-confirms-work-with 
+
+Disclaimer: I have a big long position on $TSLA, a small long position on $AAPL, and calls on $AAPL."
+14,2017-05-29,urbanachiever77,8,Big data as the next battleground for investing,"The following is an article from BI. Anyone else knowledgeable on the subject? 
+
+(See original article for some coinciding charts: From here: http://www.businessinsider.com/this-is-the-future-of-investing-and-you-probably-cant-afford-it-2017-5)
+
+Big money investors have always sought an edge. Everything from star traders to fast computers to unique analysis can give a big hedge fund an advantage over competitors. The latest battleground is data.
+
+Investors are vying for new data sets that their competitors don't have, or haven't thought of using. These can range from the basic credit-card sales information to satellite data that tracks shipping routes, and parsing this kind of data for trading signals has been called ""the future of investing.""
+
+The industry providing this to the funds has sprung up amid an explosion in obtainable data over the past decade. The bad news for the regular investor: the cost of data, and the complexity associated with turning it into investment insights, means it will probably only be available to the biggest and most sophisticated funds. 
+
+At JPMorgan's macro quantitative and derivatives conference on May 19, the bank surveyed 237 investors, and asked them about Big Data and Machine Learning. It found that 70% thought that the importance of these tools will gradually grow for all investors. A further 23% said they expected a revolution, with rapid changes to the investment landscape. 
+
+""There was widespread agreement that Big Data and Machine Learning is transforming the investment landscape across different trading frequencies, with more than 80% of participants expecting a reduction in relevance of traditional data sources,"" JPMorgan said in a note. 
+
+To be specific, 52% of investors felt big data was already rendering traditional data sources (like financial statements and economic releases) ineffective. In other words, the quarterly reports that many regular investors rely on are already becoming less relevant. 
+
+The rise of so-called alternative data has created a cottage industry of firms that source, process and consult on various data sources. The market for this data is expected to double in the next five years in the US, from $200 million today to $400 million, according to a recent TABB Group report.
+
+More than half (51%) of investors surveyed said they expected to buy semi-processed data, while 29% said they wanted to fully process in-house by consuming raw data. 
+
+Respondents to the survey were particularly interested in credit card and transactional data. Investors are able to use anonymous data gleaned from credit card statements, and the rise of online shopping, and the digital receipts we get in our email, is a also boon. That's because emailed receipts are usually itemized, giving investors greater detail into what people are buying.
+
+The biggest impediment? Cost. While a lack of expertise and management buy-in were cited by respondents as challenges, the most frequently cited impediment was high-fixed costs.
+
+That finding is striking, given JPMorgan's event attracted big money investors like BlackRock and AQR, with sizeable budgets to spend on the data, expertise and processing power.
+
+If they find it expensive, the regular investor has no chance. "
+15,2017-05-19,godredditsucks,452,Is IBM's Watson just an ad campaign to cover lackluster business performance?,"I see Watson being heavily advertised on a lot of media platforms as a technological panacea. I haven't heard of any large scale deployments with meaningful success. I studied neural nets and machine learning as an undergrad in ECE, and I believe companies like NVDA are getting us to the point that we may start to see some real practical applications. But the advertising for Watson is all over the map in terms of its applicability and it strains IBM's credibility in my mind.
+
+Can anyone with more knowledge in the field and specifically with knowledge of the Watson product shed some light on if this is advertising hype or something that will result in actual revenues long term? I don't see how a company having difficulty maintaining its traditional business can successfully execute on something so radical, even if there is some merit to some of its applications, and I have a hard time believing they have any special sauce that would make the tool more generally applicable save for perhaps better access to certain datasets than competitors. 
+
+I currently have no position in the company fwiw."
+16,2017-05-14,cbfreder,263,"Engineer here: Why does the investment community think that ""deep learning"" (whatever that is) is such a game changer?","I have a Ph.D.; some people might call me a data scientist; and I work in a field where we occasionally consider using convolutional neural networks.
+
+Machine learning has been around a long time, and there have only been the typical, incremental improvements. The only thing that's really changed in the past 10 years is that the hardware has gotten faster, allowing people to tackle slightly more complex problems.
+
+What makes this such area so ripe for investment all of the sudden?
+
+**edit:** Engineers, I don't need you to tell me why machine learning is useful or why I'm wrong about incremental change. I want to know what the investors think. That's why I asked the question here."
+17,2017-05-05,classyshepard,44,"7,500 Faceless Coders Paid in Bitcoin Built a Hedge Fund’s Brain","https://www.wired.com/2016/12/7500-faceless-coders-paid-bitcoin-built-hedge-funds-brain/
+
+Ran across this fund while listening to a podcast. It's an interesting take on investing and leveraging crowd sourcing with machine learning. How can an investor compete?!"
+18,2017-05-04,vegaseller,1,Applying Second Level Thinking,"""The first level thinker simply looks for the highest-quality company, the best product, the fastest earning growth or the lowest p/e ratio. He's ignorant of the very existence of a second level at which to think, and the need to pursue it. The second-level thinker goes through a much more complex process when thinking about buying an asset. Is it good? Do others think it's as good as I think it is? Is it really as good as I think it is? Is it as good as others think it is? How will it change? How do others think it will change? How is it priced given: its current condition; how I think its condition will change; how others think it will change; and how others think others think it will change? And that’s just the beginning.” - Howard Marks
+
+
+Lets discuss some second level thinking ideas. 
+
+My thoughts on Amazon vs Google:
+Google is valued higher than Amazon because Amazon perceived as a low margin business compared to Google and because people benchmark Amazon against other retailers like Walmart while Google is often thought of as this high growth high margin online ads business with even higher upside potential (say cure cancer or make a quantum computer). 
+
+But after looking at the success of Amazon Cloud (which is high margin) and the flop of various google projects from Google glass to google cars and even its horrendous lateness into the cloud game, I feel like the standard narrative that a engineering culture is best for a tech company is still not being challenged by investors. Amazon has been able to execute product by product because of the synergies of its flywheel model, while google has been flailing all over the place. I was reminded of a discussion I had with my engineer friend who worked at Microsoft about the future of AI, he was convinced that with Machine learning and improving graphics chips, we can do all sorts of things like household robots, dog walkers, etc. I then reminded him that specialization of labor was a thing and that it was infinitely more efficient to create an uber for maids and plumbers that integrates with some rudimentary smart sensors than it is to solve it with all robots as humans are good at doing small nuanced things very efficiently in uncontrolled environments and quickly and machines are better at doing big data analytics and precise things in controlled environments, so why bother with end-point automation? I also remember having a discussion with a Samsung project engineer who asked me what I thought the driver for Apple was. I said it was China growth and new product adoption/lock-in into the ecosystem but he was very convinced it was some super technical thing with the way the LED screens worked. I find technical people get very siloed in general and become clouded as to the big picture and that is probably what you see in Google. 
+
+As a result, the market is probably significantly overpricing engineering staff welfare and feel good optics instead of actually getting stuff done. These are just some initial thoughts.   
+
+"
+19,2017-06-15,ahminus,49,Lending Club doesn't verify income on the majority of loans on it's platform,"https://finance.yahoo.com/news/lendingclub-doesnt-verify-income-data-202142929.html
+
+I'm a software engineer by training, and I don't see how any ""machine learning"" algorithm is supposed to figure out how any given loan being processed on their platform is going to figure out if the loan recipient has the income they stated.  That's just fucking impossible.
+"
+20,2017-06-07,hfutrell,1,thoughts on recent AR/VR Apple announcements?,"1. Apple is now selling a VR development kit through their developer program. The $599 platform consists of a Thunderbolt 3 (USB-C) external GPU chasis, a AMD Radeon RX 580 GPU, and a $100 discount to purchase an HTC Vive VR headset.
+
+2. MacOS High Sierra will support external GPUs, potentially making all current Macs VR capable at minimal cost. Nvidia has already released beta drivers for their GPUs that unlock this use case, and as I mentioned the development kit uses an AMD GPU.
+
+3. Steam VR is coming to Mac
+
+4. Apple has announced ARKit for iOS, an augmented reality framework to simplify development of augmented reality apps.
+
+5. Apple has announced VisionKit for iOS, a computer vision framework that uses machine learning on-device. In developer sessions they demonstrated an augmented reality app that could label the dominant element in a scene in real time (""you're looking at a banana"", ""now you're looking at a microwave"", etc)
+
+6. Apple has announced an update to its 3D graphics API, Metal, to support VR and external GPUs.
+
+So what do we make of this? In particular I'm interested in the ramifications of external GPUs. Does the fact that Mac users will not need to buy a new machine to support VR make them a wider market than PCs? I am a Mac / iOS expert and professional developer, but I am not an expert on PCs or VR, so I'm interested in people's thoughts."
+21,2017-06-06,shane_stockflare,37,stockAday: Any inside Intel? $INTC,"In the post-PC world, has Intel an eye on the future?
+
+# Key Stats for Intel Corporation
+
+|Ticker|[INTC](https://stockflare.com/stock/intc.o)
+|:---:|:---:|
+Sector | Other Semiconductors
+Latest price | $36.34
+Value | $171,125M
+Daily vol | $566M
+Date | 06 June 2017
+Links | [Yahoo Finance](http://finance.yahoo.com/quote/intc), [SEC Edgar](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=intc&amp;type=10&amp;dateb=&amp;owner=include&amp;count=10), [www.intel.com](http://www.intel.com)
+
+# 1. What do thay do? 
+
+Semiconductor chips. mainly!
+
+If you are under 30 you may have missed the *Intel Inside* logos that came with every PC in the 80s and 90s. There was an axis called Wintel where Microsoft and Intel dominated, Microsoft Windows was the software, Intel the semi-conductors, and some ""dumb"" manufacturer put it all together into a box... then the smartphone hit. 
+
+Has it hurt them? Hardly from a cashflow perspective, though it has killed off growth.
+
+Metric|2016A|2015A|2014A|2013A|2012A|
+|:---|:---:|:---:|:---:|:---:|:---:|
+|Revenue | $59bn | $55bn | $56bn | $53bn | $53bn|
+|EPS | $2.12 | $2.33 | $2.31 | $1.89 | $2.13|
+
+When they describe their business, there are six exciting division names: Client Computing Group, Data Center Group, Internet of Things Group, Non-Volatile Memory Solutions Group, the Security Group, Programmable Solutions Group, and the New Technology Group. But the business is still driven by the old chips for PCs, etc business (55% of sales) and the data center / communications unit (29% of sales) with none of the other 4 divisions clocking more than 5% of sales. 
+
+But having missed the smartphone race, which was *won* by ARM, Intel is now betting big on autonomous cars. In April they agreed to spend $15bn to buy Mobileye, a ""global leader in the development of computer vision and machine learning, data analysis, localization and mapping for advanced driver assistance systems and autonomous driving.""
+
+Will it work? Hard to tell. And Google, Tesla, Uber and a rake more folks are also playing in this space.
+
+But let's look at the forecasts 2 years out, we can see they are starting to pick up!
+
+Metric|2016A|2017E|2018E|
+|:---|:---:|:---:|:---:|
+|Revenue | $59bn | $60bn | $62bn | 
+|EPS | $2.12 | $2.86 | $2.97 | 
+
+And if you are worried about INTC spending $15bn on Mobileye, note they currently have only $8bn of net debt, i.e. 0.4x it's latest operating profit. Plus they are selling their Security unit for $4bn. So it's balance sheet isn't stressed post deal. Therefore I can't see any reason to doubt their ability to keep paying nice divies and keep on buying back stock.
+
+# 2. How do they compare?
+
+Compared to the *old enemy* AMD they continue to dominate, in sales, margins and returns... but that's missing the point, as the semiconductor world has moved on. 
+
+Versus the rest of the sector their margins look reasonable, but clearly they aren't best in class. 
+
+|Companies|Latest Sales|Operating Profit|Return on Equity|
+|---------|:------------:|:----------------:|:----------------:|
+Intel Corporation | $60,481M | 39% | 18%
+Advanced Micro Devices, Inc. | $4,424M | -7% | N/A
+Broadcom Ltd | $15,608M | 30% | -15%
+NVIDIA Corporation | $7,542M | 32% | 38%
+Taiwan Semiconductor Mfg. Co. Ltd. (ADR) | $32,534M | 64% | 26%
+Texas Instruments Incorporated | $13,764M | 46% | 38%
+Micron Technology, Inc. | $14,733M | 32% | 5%
+Analog Devices, Inc. | $4,006M | 35% | 11%
+Skyworks Solutions Inc | $3,353M | 41% | 25%
+
+But the margin doesn't seem to be the factor to watch... it's the fear of low growth. They are the only single-digit grower in the pack. 
+
+Peers |Valuation|Forecast PE|Long-term Growth|Dividend Yield|FCF Yield|
+|:--------|:---------:|:-----------:|:----------------:|:--------------:|:---------:|
+INTC.O | $171,125M | 13x | 8% | 3% | 13%
+AMD.O | $10,622M | 144x | N/A | 0% | -3%
+AVGO.O | $101,228M | 16x | N/A | 2% | 3%
+NVDA.O | $88,066M | 48x | 12% | 0% | 3%
+TSM | $182,724M | 16x | 10% | 3% | 13%
+TXN.O | $81,584M | 21x | 10% | 2% | 8%
+MU.O | $34,528M | 7x | N/A | 0% | 12%
+ADI.O | $28,902M | 18x | 16% | 2% | 7%
+SWKS.O | $19,956M | 17x | 16% | 1% | 7%
+
+Can INTC re-ignite their cash-flows? Maintain the cashflows in the *legacy* business, and find new engines of growth? 
+
+# 3. What's Wall Street thinks?
+
+Despite INTC under performing the S&amp;P for the last few years, the brokers still like the stock and say *Buy*. Though their price target at $40 is only 10% above the current price.
+
+Back in February management outlined a 3 year plan that focuses on efficiency, growth, better capital allocation and shareholder returns. All sensible stuff. So it's surprising that Wall Street isn't more excited, surely?
+
+Note: the stock's traded between 11 and 16 times forecast earnings over the last year, so it's not feeling toppy at the moment. And management haven't missed earnings in over 3 years. 
+
+# 4. Inside Intel?
+
+How often is a cash cow, like Intel trading on 13x times? A cashcow where management has one eye on the next big thing, autonomous cars, and the other eye of increasing shareholder returns.
+
+To me it seems like Wall Street isn't cutting them any slack. And unloved quality stocks are ones that tempt me! Sure, it may take 2 years for the success / failure to crystalize... but if I wait, surely I'll miss it?
+
+***
+
+View the archive of Stock a Day posts at r/stockaday.
+
+***
+
+**Disclosure**: 
+
+I have no position in any of the stocks mentioned. However I may initiate a position within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article. 
+
+Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk.
+
+***
+Author notes: u/shane_stockflare is a Chartered Financial Analyst.
+"
+22,2017-06-02,that1celebrity,7,Here's what hedge fund managers are investing in,"[A satirical article about the SALT conference.](http://theconcourse.deadspin.com/hell-is-empty-and-all-the-hedge-fund-managers-are-at-th-1795429824)  It does provide something interesting:
+
+&gt;Do you want to know what the world’s most high-priced investment talent is betting on now? Here, I can tell you: The end of the retail industry as we know it. The decline of shopping malls. Machine learning in every industry. Neural networks. A headlong rush into the roboticization of everything. Artificial intelligence. Self-driving cars. Commercial real estate is overpriced. Moderate macroeconomic growth continuing for the foreseeable future. Selling portions of the broadcast spectrum. Short Tesla. Long Sarepta Therapeutics. And buy the HMMJ ETF to capture a good portion of the marijuana market in Canada, though recreational weed in America is considered too risky of an investment for this crowd. At least one thing is still left for the little guy. For the moment."
+23,2017-07-30,moomin100,27,Which chip manufacturer do you think has the best long term competitive advantage?,"NVidea's retrospective genius was to notice that having *lots of processors* on their chips meant that the *physical distance* between any given chunk of memory and a processor is much smaller. Getting memory to and from a processor quickly, more than offsets the slower processing speeds. Thus NVidea chips tend to outperform Intel chips *even for sequential tasks* (for optimised code).
+
+Is unsupervised machine learning going to be the be all and end all of tomorrow's programming?
+Is OpenAcc etc. going to reach a stage where no one needs to learn CUDA and everyone can just expect a compiler to GPU optimise everything?
+Is Intel going to make their own incredible GPUs?
+Are GPUs overegged, maybe we're always going to use CPUs for bottleneck tasks?
+
+Which company would feel more comfortable buying and holding for 30 years?
+"
+24,2017-07-24,stockman45,10,"How will global warming, automation and AI affect the economy in the coming decades? Which stocks would be good to hold long-term or short?","### Climate Change
+
+Global warming leads to more extreme weather events, and ServiceMaster (SERV) helps companies to prepare for and clean up after natural disasters. They will have a lot more business in the coming decades, but I don't know if their stock price will go up that much. Maybe.
+
+Bad weather also causes shortages of clean water, so could look at holding some water companies, such as American Water Works (AWK).
+
+There's already a move towards renewable energy, but I think there will be a tipping point when the general public starts to take it seriously. A huge percentage of people either don't believe in global warming or don't care about it, but I think that will eventually change, and it might happen suddenly. If it does, then there could be a big increase in solar installation, and people buying more electric vehicles. I think companies like First Solar (FSLR) should be good to hold long-term. People talk about Tesla too much, and I think they're already way overvalued, but they'll continue to go up anyway. Would also be interesting to look for smaller car companies that will go under when people stop using petrol. But I'm really interested in predicting the point in time when global warming becomes a fact instead of a political view. It would be great to catch this early and buy a lot of cheap options for these companies.
+
+### Automation / AI
+
+Google (GOOG) is the leader in machine learning and AI, so they would be a good stock to hold long-term. Also the chip companies, such as NVDA and AMD. Are there any companies that should be shorted? I would like to find some small-cap companies that are old and slow, and rely on humans for tasks that might be easily automated in the near future. Small companies don't have a big moat or any budget for R&amp;D, so they might tank quickly when a competitor comes along and destroys them with AI. It could be anything, such as accounting, law, insurance, marketing, construction, etc. etc.
+
+On the other hand, there are probably many companies that could just fire their staff and automate everything. For example, a small shipping company that employs a lot of truck drivers could just buy self-driving trucks and fire all their drivers. It's also hard to see why a company would want to sell self-driving trucks, instead of just building their own trucks and starting their own global delivery company. Maybe Tesla will work with Amazon directly and they'll just cut out all of the other shipping companies.
+
+If you want to go long on something, many of these companies probably don't exist yet. I think we just have to watch out for IPOs in the coming years, and some of those crowdfunding platforms for startups (99% of those startups are shitty, but there might one or two good ones.) Even better if you are an accredited investor, then you can invest much earlier.
+
+I'm also interested in stocks such as McDonald's (MCD), Burger King (BKW), and Starbucks (SBUX). They're well on their way to being automated (McDonald's has already started to introduce self-service kiosks), but I don't know about the timeframe. Also I heard that people are starting to eat less fast-food, so there are a lot of factors.
+
+What are your ideas? I'd also be interested in book recommendations."
+25,2017-10-19,skulman7,140,$AIEQ New ETF first ever to use AI to choose portfolio,"[Bloomberg Article](https://www.bloomberg.com/news/articles/2017-10-17/ibm-s-watson-is-key-to-new-artificial-intelligence-powered-etf)  
+
+&gt;The fund, which is being run in partnership with ETF Managers Group of Summit, New Jersey, will use AI and machine learning to scan more than 6,000 U.S. publicly traded companies each day to create a diversified fund, Amador said. The program will parse regulatory filings, more than a million news stories, company management profiles, sentiment gauges and financial models to establish a portfolio of 30 to 70 stocks.  
+
+&gt;Once the stocks are chosen, a team of human managers at ETF Managers Group will rebalance the portfolio based on the selections -- theoretically, every day if the computer proposes changes.   
+
+Just launched yesterday.  AI powered by IBM's Watson.  Will be really interesting to see which companies the AI chooses and how it competes/compares to other ETFs.   
+
+&amp;nbsp;  
+
+**EDIT**  [List of Current Holdings](http://www.equbotetf.com/fund/#holdings)  thanks /u/FinanceAnalyst"
+26,2017-10-04,quantumqed,1,Machine learning helps investors to read SEC 10-K Filings quickly,[removed]
+27,2017-11-07,azzazaz,4,I have noticed a MASSIVE takeover of shelf space in large grocery chains like Kroger for their own low cost food brands outselling and now displacing major name brands completely. Expected effect on General Mills and other large brand name foods profits?,"This has happened massively in the last year.
+
+More so in the last 5 or 6 months.
+
+Campbells soups now half their specific choices gone as kroger brandss take over half of their former shelf space.
+
+Planters nuts choices almost completely replaced by low cost kroger nuts.
+
+Real lemon brand lemon juice now completely gone as kroger brand takes over.
+
+Cereal aisle devasted as kroger raisin bran sell for $1.xx vs $2 or 4 for Post and Kellogs etc. And every major cereal type being replaced. Cheerios, frosted miniwheats, cocoa puffs..all have replacement kroger brand which are clealry outselling the old names (often sold out). Half of shelf now gone to kroger brands. Now noticing major brands lower prices so also losing margin on the shelf space they still have.
+
+This is throughout every shelf in the store.
+
+I dont know of this has shown up yet in quarterly reports.
+
+Its got to be devasting.
+
+What do people think?
+
+Who is vulenrable.
+
+I know many kroger brands are packaged/manufactured by big food packers/manufacturers  that do the name brands so they may or may not be affected but certainly the brand name is.
+
+This is the biggest challenge to major food name brands i have ever seen.
+
+Literally the grocery store shelves are cut in half or actually to about 1/4 for major brands and now they are also depricing their name brands to try to compete with the shelf space they have left.
+
+And based on what i see sold out and conversations with store employees stocking shelves this is a huge sea change.
+
+Editm
+
+Other shelves affected for example with about half of shelf space now taken over by lower cost kroger brands
+
+Canned beans   baked beans
+
+Canned meats  ie tuna veinna sausages corned beef hash etc
+
+
+Colas. Bye bye most of shelf space for coca cola and pepsi cola. Literally lessthan hakf of shelf space now as kroger has no name version of every variety cola and moujtizn dew including diet and diet cherry and diet black cherry. At $0.77 per 2 liter bottle people are buying so much diet kroger cola that they cant keep it stocked.
+
+Of course vitamins have had this for some time.
+
+
+Clealry kroger has made thestrategic change to make a larger more or higher vume sales of their own lower cost food products than relyon margin and shelf payments from large name brands as kroger is now directly competing with their former partenrs/retail food sjppliers like generzl mills.
+
+Only way out i see for giant food brands is an attempted take over of a grocery chain to ensure their products survival at current levels.
+
+The question is who is bigger and can the smaller one do a leveraged buyou5?
+
+Also Kroger owns Ralphs.
+
+
+what i see is with walmart and now mazon/whole foods in a price race for marketshare there is no more room in the grocery store market share battle for high prices name brand grocery products that consumers no longer are forced to buy.
+
+it hurts kroger margins and same store sales now but in the end the losers are the giant name brands that used to be able to command premium consumer prices that will no longer have many places to sell their high priced goods that consumers no longer want.
+
+proof is staring toshow 
+
+https://www.usatoday.com/story/money/2017/09/20/general-mills-first-quarter-earnings/684218001/
+&gt;Slumping yogurt, cereal sales spoil General Mills' performance
+Nathan Bomey, USA TODAY Published 8:18 a.m. ET Sept. 20, 2017 | Updated 2:23 p.m. ET Sept. 20, 2017
+
+Plummeting yogurt sales continued to spoil the performance of General Mills, which is also reeling from declining interest in cereal and snacks.
+
+As consumer tastes shift away from packaged foods and toward more natural products, General Mills sales are suffering despite the company's efforts to freshen its image with younger consumers by removing artificial colors and flavors from its products.
+
+General Mills saw a decline in the ""double-digits"" for U.S. sales of yogurt, including decreases for the Yoplait Light brand.
+U.S. cereal sales also fell 7%, as Americans are increasingly giving up the former breakfast staple.
+
+
+yeah i suspect its a lot more than yogurt and no they arent giving up cereal. just overpriced cereal.
+
+
+edit:
+
+looks like they are implementing machine learningAI to change their shelf spaces
+
+yeah 8 ft per category is about what it looks like in the stores
+
+http://beetfusion.com/blogs/keith-scovell/machine-learning-kroger-connects-shopper-and-supply-chain
+Machine Learning: Kroger Connects the Shopper and Supply Chain
+By Keith Scovell October 31, 2017 0 Comments 1292
+
+For consumer goods manufacturers and retailers, machine learning can be a powerful ally.
+
+Just ask Kroger. The supermarket giant’s sweeping “Restock” initiative is a perfect case study in how to put data science to use. Kroger is doubling down on this initiative and increasing capital expenditures over the next three years to over $3 billion. The “Restock” strategic initiative calls for integrating machine learning with other technology components to deliver a seamless personal experience and optimize space at the store level. Kroger’s plans call for touching 20% to 30% of Kroger’s 2,800+ stores in 2018 and upwards to 75% of in-store categories changing on average 8 feet of shelving per category all while reducing cost of in-store operations.
+
+"
+28,2017-11-02,301Kelvin,0,I'm working on a stock robo trader,"I've been working on a stock trading robot for a bit, and have some API's working and downloading live data. 
+
+Could I get experiences trader's opinions on what I should actually make the robot do? 
+
+My current idea is to use machine learning to study charts and get the robot to auto day-trade for me. 
+
+Does anyone have better ideas on what I could make it do? Or any good strategies that I could implement on it ? "
+29,2017-12-12,ScottyDntKnow,2,"With AMD and NVDA showing slowed growth, how can profit off a possible transition to ASIC?","So AMD and NVDA arent by any means going away (I am long on both from late 2016/early 2017), but I am seeing more and more about ASIC (Application Specific Integrated Circuits) being the next step for things such as Crypto mining and Neural Nets/Machine Learning applications, all of which has helped NVDA/AMD's share prices in recent years. 
+
+I strongly believe Crypto/Machine Learning to be a massively profitable sector in upcoming years, but would like to diversify in case GPUs get phased out.  As there are different routes to the same destination, and some are better than others. 
+
+Does anyone know a way to make a play on ASIC manufactures on US exchanges?  I am struggling to find a single company as there seems to be such a broad range of ASIC.  I could look for ones that produce specific Crypto or NN/ML type circuits, or maybe focus on the physical hardware that requires production, but want to avoid getting too close to anything easily commoditized.
+
+More insight would be greatly appreciated from people with more knowledge on the topic."
+30,2017-12-06,Craino,2,Anyone using AI/Neural Net/Back propagation to generate investment opportunities.,"I started my career as a programmer.  While decades of employment has taken me in different directions, I still work generally in technology.  I've watched with great interest the rise of AI and machine learning, and just the other day discovered [TensorFlow](https://www.tensorflow.org/), Google's open source machine learning framework.
+
+Thinking through how neural networks work, it doesn't strike me as too hard to construct one to identify potential high growth investment opportunities.  I would imagine there are data element-rich market databases as input, which could be used.  One could first use the historical data to look for the subset of stocks that have increased X% over some short time period.  Let's say stocks that have increased 25% or more within 18 months.  Then we use that as the model dataset, and backpropogate over all the historical market data points to identify if there is a set of indicators that ""predict"" those stocks.
+
+Sadly, I have not kept up with my programming skills so can't try this out myself.  TensorFlow is based on Python, which as a pretty simple syntax, but still out of my skill set.  So - just wondering if anyone out there might be already working on it and if you are willing to share results.
+
+If not - anyone with programming skills want to partner up and give this a whirl?  ;)"

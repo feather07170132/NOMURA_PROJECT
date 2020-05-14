@@ -1,0 +1,557 @@
+,created_utc,author,score,title,selftext
+0,2018-01-14,jsther,1,Simple conservative strategy for a beginner in option selling,"Hey guys!
+
+So I have saved up $10,000 and have been learning options for a while now. I am paper trading right now and have made up quite a few ""paper"" bucks on the way.
+
+I just don't want to step in right now with my real money but don't want my hard earned money to just sit there. 
+
+So, I have been looking for a conservative options strategy to begin trading right now. Below are the following two options I have found.
+
+1) Poor Man's Covered Call (MSFT and WMT) (Long Call : Deep ITM with delta 80+, Short Call with delta -20  )
+
+2) Selling naked puts on SPY (Prob OTM = 80+)
+
+My maximum risk is $500. Is there is someting better out there for me other than the above two? Do you have any tips for me?
+
+Thanks in advance! "
+1,2018-02-22,bertgrozhen,0,A framework for Investment/Trading as a mid-20-yo,"Hi Everyone, 
+
+Brand new to reddit here (not sure how I escaped this deep deep black hole of internet for so long). I hope this is the right place. 
+
+First, I am here to distil what I have learned over the years of being a fool of the market. I’ll then try to piece together the checks and balances I have decided necessary to maintain long term success in investment management and trading. I will break it into two distinct product lines: Cash Equities and CFDs (index/forex) via FXCM/IG etc, as well as a General Risk Management section. 
+
+I have read extensively, like the usual Jack DSchwagger series, Stock Operator etc. If you haven’t read these I suggest you start there first. 
+
+**General Risk Management and Setup:** 
+
+*Positioning/Size*
+I cannot tell you how often I have been burned with poor position management across either cash equities or CFDs. I distinctly recall putting on a massive “no brainer” trade against the EUR/USD in 2014 December. Entry 1.224. I got stopped out and lost 50% of my trading capital in 4 hours due to a margin call. I wasn’t even trying to scalp, I just wanted to get very, very rich. (I would’ve too if it weren’t for those meddling kids).
+The other side of this is that I express my cash equities portfolios in the form of “high conviction” trades/investments. Take A2M.AX. Average Entry of 6.XX through averaging up. It currently sits at more than 70% of my portfolio, even though I have a 12month timeframe. I have a higher conviction on Cash Equities with a far longer time frame than I do CFDs. Hence I position heavier. 
+
+There is a 2% rule floating out there that I semi-agree with. I’d like to hear your thoughts on this, as I would describe myself as much more of a risk taker and less systematic than I would like. 
+I understand also there are more schools of thought, mechanical, pure TA etc etc. But no matter what fire you choose to play with, **I think positioning has been the reason why I have lost money over 90% of the time**, even if *directionally I am 75% right within my time frame*. 
+
+How do you guys balance your portfolio for maximum returns? Thoughts on 3-4 stock portfolios? Thoughts on CFD margin/position sizing for TA/discretionary? ( I know it will vary by style but would love to hear).
+
+*Trading Diary* 
+When I first waded into CFDs, I knew I wanted to keep a record of all my trades, in the hopes that I can reflect on what technical/fundamental ideas I opened and closed my trades in.
+A trading diary and reflection on those trades is huge in order for you to stop repeating really stupid mistakes. 
+
+Until recently I never had the mindset of actually sorting through the wins and losses of my past trades. YOU MUST HAVE A SYSTEM of going through the past days/weeks worth of trades. Reflection and reinforcement is key.
+
+I think starting a blog for yourself is not a bad idea. It may not have readership, but it carries the important function of reflection and learning. Just as I am doing this very moment..
+
+
+**Research/Information Funnel**
+The Economist. Period. *infinity. Start here. (Especially relevant for macro)
+
+When I first started in Cash Equities I made the novice error of joining forums. Granted there is some great content that someone else more experienced has found and analysed, thus cutting down your research time. Right? Wrong. 
+
+I think it actually causes a shift in your behaviour to trust and rely on their primary opinion. If they’re right even once, you will now face a bias and think of them as a beacon of truth. Read *Thinking Fast, Thinking Slow*. As humans we’re inherently very lazy. Don’t let it make you take shortcuts. 
+
+I put this in general risk because information and bias is a HUGE risk to how you formulate your trading or investment thesis. 
+
+Even I noticed that the majority of my information sources including twitter liked to preach the “melt up” of the spooz etc. **Confirmation Bias exists, especially in Investing**. These guys had been talking of a market that was too strong for at least 2 years. Even though it finally semi-happened, they were still wrong for two years! 
+Do you believe it would be valuable to find a peer group IRL as an additional source of information/debate?
+
+**Timeframe**
+This closely relates to position/sizing. Timeframe goes hand in hand with positioning and how we wish to express risk. 
+A low beta Banking stock with healthy dividends might warrant a larger position size if you look at it from a 10 year view point. 
+The spooz on a 20 year view point would warrant a very different mindset when compared to a tick chart. 
+
+**I have found it more helpful when thinking about timeframe as not “predicting” when I think something would happen, but use it as a matter of determining sizing**.*Am I really comfortable TSLA as 50% of my portfolio for 20 years? Hmm*
+
+**Health**
+Something I feel understated and forgotten about is the fact that sitting down for 10 hours a day with your eyes following green and red isn’t healthy. 
+A healthy body will produce far better results if your headspace is clear and your emotions are in check. 
+I would put more than a fair share of my mistakes as being due to emotionally driven trades (lose x find 2x) or trading when my physical mind is no longer sharp. 
+Trading and Investing is a full time endeavour. Unless you are extremely fortunate or lucky in how you express your trades and investments, it will take a lot of time and involvement to find an edge that is more than just market. *I mean, isn’t that why we are here? *
+
+[Edit]
+How do you guys ensure you’re balancing work or study and investment? I find myself mostly 100% work ever since graduating uni. 
+
+This turned out far longer than I expected. 
+I would love to hear all feedback. Put me in my place! This is especially because I am about to commit more time to this as I bring it into a truly serious endeavour. 
+
+[Edit] Removed personal info"
+2,2018-02-21,redditatworkguy,18,AI Companies - Long Term Bets,"With AI and robotics becoming more and more a part of our every day lives, I am curious to see what companies people have their eyes on for long term holding. I am currently looking at HON (I believe they will be instrumental in robotic household appliances), BA (robotic defense design and production), and NVDA (https://www.nvidia.com/en-us/deep-learning-ai/industries/) as they have skin in the game, and have shown commitment to continued production of up and coming technology. Interested to see who you guys are interested in, or if there are any small players out there with high growth potential. If AI is going to take my job, I want to at least make money off the company producing the bot ;) "
+3,2018-02-11,SaltyDanny,9,How deep do you go?,"I recently started investing and I’ve done a small amount of research on how to not blindly buy a certain stock just because someone said it was the next Apple or Microsoft. 
+
+My question is how deep do you guys usually go in determining if a stock has future value or if it’s a dud. I read a company’s 10-k annual reports but I’m still learning how to actually read it and understand it at the same time. Is there more to it? Is reading the form most of the research and if not what else is there? It might be a newbie question but I’m just trying to find good companies with long and profitable futures."
+4,2018-03-07,silverlakes123,4,Landstar stock (LDSR),"Is anyone on here invested in LDSR? Looks and sounds like a great company...Backed by Silicon Valley bank (same bank that back Pinterest, true car and Fitbit), partners with Microsoft/splunk and N8 Identity. N8 identity clients list is huge. 
+
+Here’s their website: 
+https://www.data443.com/data-security-compliance-governance-partner/
+
+Here’s N8 client list who will be using LDSR:
+http://n8id.com/our-clients/overview-2/
+
+
+Here’s some other DD I’ve done, a lot to read but well worth it:
+
+
+
+
+
+
+
+
+
+
+
+https://www.data443.com
+
+
+1. The world’s biggest privacy regulation GDPR goes into affect May 25 2018. 
+
+If there is one thing that people know about the GDPR (General Data Protection Regulation) it’s that GDPR fines (administrative fines) can go up to 20 million Euros or 4 percent of annual global (note global!) turnover, whichever of both is highest. 
+https://www.i-scoop.eu/gdpr/gdpr-fines-guidelines-application-penalties/ 
+
+Figure this one out: Just shy of 100 percent of U.S.-based privacy professionals believe the importance and complexity of managing privacy in their organizations is increasing. 
+
+Similar numbers (97 percent!) acknowledge they will increase their investment in managing privacy. Yet fully 61 percent of these same professionals acknowledge they have done little to prepare for the coming of the world’s biggest privacy regulation, the EU’s General Data Protection Regulation, or GDPR. What’s more, 99 percent admit to needing additional help in preparing for the GDPR. 
+https://venturebeat.com/2017/06/24/us-slowly-submitting-to-2018-eu-privacy-law/ 
+
+
+2. DATA443 (OTCPK: LDSR) ClassiDocs Wins Numerous Industry Awards – GDPR 100 days awayPress Release | 02/13/2018 
+
+RALEIGH, N.C., Feb. 13, 2018 (GLOBE NEWSWIRE) -- DATA443 Risk Mitigation, Inc. is pleased to announce that its recent acquisition – ClassiDocs - has won prestigious industry awards for GDPR Compliance, Data Classification and Governance in the 2018 Cybersecurity Excellence Awards. 
+
+Gold Winner 
+
+“This is validation for the whole team. The volume of support we received from the community surprised us but does match the feedback we get from clients and partners – that the ClassiDocs product set is an on-point technology that facilitates many requirements of the upcoming GDPR legislation and provides for a unique and feature-rich Data Classification and Governance solution,” stated Mr. Remillard, CEO of DATA443 Risk Mitigation, Inc. today. 
+
+“Congratulations to DATA443’s product team for being recognized as the gold winner in three categories: Data Classification and Data Governance. The GDPR category – a new one this year – had the ClassiDocs GDPREngine product place first also as a gold winner,” said Holger Schulze, CEO of Cybersecurity Insiders and founder of the 400,000-member Information Security Community on LinkedIn that organizes the awards program. ""With over 400 entries in more than 70 categories, the 2018 awards are highly competitive and all winners truly reflect the very best in today's cybersecurity industry."" 
+
+“We have worked very hard on our GDPR functions – adding capabilities that are grounded in true use cases and deliver immediate value to the client. Our forthcoming GDPREngine technology delivered in a SaaS model delivers GDPR compliance capabilities faster and with much less total cost of ownership for clients,” added Mr. Remillard. “We will be making this officially available for beta clients in the coming month – the GDPR Deadline is fast approaching – 100 days exactly today. We are seeing increased demand worldwide for capabilities – matching our initial analysis that GDPR applies more broadly than just the European Union.” 
+
+About Cybersecurity Insiders 
+The Cybersecurity Excellence Awards are organized and managed by the team at Cybersecurity Insiders – the same group that manages the 400,000+ member information security technology professional LinkedIn group. The organization also produces numerous webinars and deep industry research for all facets of information security. It is headquartered in Maryland, US. 
+
+About DATA443 Risk Mitigation, Inc. 
+DATA443 Risk Mitigation, Inc. (OTCPK:LDSR) (https://www.data443.com) is a technology company that is actively developing and acquiring cyber-security products &amp; service offerings that are central to blockchain, cyber data security, GDPR, compliance and governance capabilities. The Company develops its own technologies and has an active acquisitions program in place. 
+
+
+
+3. A majority of companies plan to use external firms to accelerate their GDPR preparation 
+Because GDPR’s requirements are deep and complex, preparing for the new regulation requires buy-in and support from across an organization, including in areas are not used to dealing with privacy issues. In response, many companies plan to use external firms to help with their preparation. 
+
+Among executives polled in this survey, 69% said they plan to use a technology firm to help with their preparations, 62% plan to hire a consulting firm, and 46% plan to hire a law firm. Roughly two-thirds of larger companies – those with greater than $500 million in revenues – say they will hire a consulting firm. 
+https://www.pwc.com/us/en/increasing-it-effectiveness/publications/general-data-protection-regulation-gdpr-budgets.html
+
+
+
+
+
+
+4. US companies lead their UK and Japanese counterparts in making steady progress in GDPR readiness 
+With GDPR set to go into effect in May 2018, 11% of executives surveyed said their companies have now finished operationalized preparations. This tally is almost double the 6% that were finished last year. On the opposite side of the spectrum, the number of companies that have yet to even begin preparations has shrunk dramatically, from 23% last fall to just 7% in the most recent survey. 
+
+Significant gaps remain, however. Of the companies surveyed, 36% said they have just started the assessment process, meaning their journey toward GDPR readiness has just begun. As a result, these organizations risk not being fully compliant by the May 2018 deadline, facing regulator fines, litigation costs, and lost contract opportunities in Europe. 
+
+Compared to the UK and Japan, companies in the US have made the most progress toward compliance. Almost a quarter, or 22%, of US companies surveyed say they have finished GDPR preparations, compared to just 8% of UK companies and 2% of Japanese companies. 
+https://www.pwc.com/us/en/increasing-it-effectiveness/publications/general-data-protection-regulation-gdpr-budgets.html 
+
+
+
+
+
+Japanese companies plan to spend more to catch up to their US and UK peers 
+US companies are further along in cross-functional areas than their counterparts in UK and Japan. Japanese companies, in particular, lag behind in several key areas, including data-lifecycle management, for which roughly one-in-five Japanese companies surveyed reported they have finalized implementation of preparations. Japanese companies are similarly behind in areas such as training, cross-border data strategy, and privacy incident management. 
+
+Although Japanese executives report they are behind in several key GDPR preparation areas, they expect to spend significant amounts of money to catch up. The survey found 77% of Japanese companies plan to spend at least $1 million on GDPR projects, compared to 62% of US companies, and just 43% of UK companies. 
+https://www.pwc.com/us/en/increasing-it-effectiveness/publications/general-data-protection-regulation-gdpr-budgets.html 
+
+
+
+
+5. Tech Giants Brace for Europe’s New Data Privacy Rules 
+
+With the deadline for the new rules now just a few months away, Silicon Valley’s tech behemoths have been scrambling to get ready. Facebook and Google have deployed hundreds of people to make sense of the regulations. Many of the companies have overhauled how they give users access to their own privacy settings. Some have redesigned certain products that suck up too much user data. And in some cases, companies have removed products entirely from the European market because they would violate the new privacy rules. 
+
+“Every person who works for us has, in some way, been involved in preparing the company for G.D.P.R.,” said Doug Kramer, general counsel of CloudFlare, an internet performance and security company based in San Francisco that has tightened its data storage and processing practices. “G.D.P.R. is going to introduce very fundamental changes to the way the internet works for everyone.” 
+https://www.nytimes.com/2018/01/28/technology/europe-data-privacy-rules.html
+
+
+EU GDPR – new rules, wider reach – the biggest change to data protection laws in 20 years 
+
+End of implementation period 
+
+After four years of negotiation, GDPR was finally adopted on 27 April 2016. It comes into effect after a two-year implementation period. One law firm has described it as the “most ground-breaking piece of EU legislation in the digital era” – and with good reason. It will make businesses more accountable for data privacy compliance and offers individuals extra rights and more control over their personal data. 
+
+The GDPR does not need to be transposed into local law in each EU member state. This is a directly-effective regulation which will be immediately effective across the 28 countries, aiming to remove inconsistencies in how the data protection law is applied in Europe. 
+https://www.citco.com/our-thinking/latest-news/eu-gdpr-biggest-change-in-data-protection-laws/
+
+
+
+
+
+Data443 &amp; N8 Identity? - Huge relationship brewing IMO 
+
+Data443 tweeted they were in Canada, at the nations capital, which is Ottawa, Ontario. 
+
+N8 Identity is an identity and access management (IAM) provider headquartered in Ontario, Canada. 
+
+Here is a connection of where Jason and the CEO of N8 Identity were/are working together: 
+
+https://triangleinfosecon2017.busyconf.com/activities/59df81fcb877d4da29000128?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BU34eqw%2BqScS5rME3K6mEsQ%3D%3D 
+
+Great Post here: 
+https://investorshub.advfn.com/boards/read_msg.aspx?message_id=138630000&amp;txt2find=IBM 
+
+Look at N8 Identity's Clients: 
+http://n8id.com/our-clients/overview-2/ 
+
+Look at N8's Partners: 
+http://n8id.com/our-partners/partners/ 
+
+
+http://www.data443.com/wp-content/uploads/2018/02/GDPR-–-What-Does-It-Mean-for-Infosec_ISSA0218.pdf
+
+
+
+7 months ago when ClassiDocs was new Jason was looking for companies to pilot it for free. 
+
+It seems that Jay Odonnel is a supporter of ClassiDocs and a partner to Jason from his IBM days because N8 Identity is a partner of IBM 
+
+Quote from Jay ODonnel on LinkedIn 
+
+Quote:
+
+Join this webinar to learn how to implement a combined Data Classification and Governance approach that integrates your Identity Access Management and Governance programs. Cyber security experts; Nick Nikols, Principal Consultant TechVision Research, Jason Remillard, President, IP Risk Control and Founder of ClassiDocs, and Jay O’Donnell, President, N8 Identity and Founder of TheAccessHub will discuss: 
+
+- Industry problems and approaches 
+- Cloud and on-prem scenario reviews 
+- Data Classification and Governance coupled with Identity Compliance, Governance and Certification 
+- The role of AI and Machine Learning 
+- How you can start a project in 30-minutes
+
+
+
+Who is Jay ODonnel? He is the CEO of N8 Identity inc. 
+
+What is N8 Identity inc? 
+
+http://n8id.com 
+
+Quote:
+
+N8 Identity is Canada’s largest dedicated Identity and Access Management (IAM) solution provider. 
+Our executive team has provided thought leadership to the IAM industry for more than 15 years, significantly contributing to its evolution.
+
+
+
+and 
+
+Quote:
+
+We’re proud of our customers’ success stories. N8 Identity has deployed IAM solutions for Fortune 1000 companies comprising several million users worldwide.
+
+
+
+Checkout their partners page. 
+
+N8 identity inc is partners with ORACLE and IBM who in turn deploy their partner's solutions (ClassiDocs) to thousands of businesses including Allstate, Metlife, TD Ameritrade, this is just a few. 
+
+checkout their clients page on their website! 
+
+So basically, N8 Identity inc chooses the best of the best solutions, and the best of the best companies go to them for their solutions, and here is proof that the CEO of N8 identity supports Jason and ClassiDocs. I am not by any means saying Metlife, Allstate and TD Ameritrade will be ClassiDocs customers, however I am saying that when they look for GDPR, they will go to N8 Identity for help. ClassiDocs may not get chosen but it will have potential access to thousands of businesses. 
+
+and last of all, here is a link to an invite FROM JAY ODONNEL AND JASON REMILLARD TOGETHER inviting people to demo ClassiDocs.. Further proof of a good relationship and support for ClassiDocs from one of the world's largest solution providers with the a very large list of clients. 
+
+https://triangleinfosecon2017.busyconf.com/activities/59df81fcb877d4da29000128?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_content%3BU34eqw%2BqScS5rME3K6mEsQ%3D%3D 
+
+
+
+Interesting that N8 is showing this on their homepage: 
+
+Quote:
+
+DOES YOUR IDENTITY PLATFORM ADDRESS GDPR? 
+WE CAN HELP - JUST IN TIME.
+
+
+Compliance and analytics 
+Proactive performance and compliance reporting to measure effectiveness and adherence to corporate policy. 
+
+Global process and event auditing 
+Policy violation reports 
+Report scheduler 
+View user assets and access reports 
+Proactive policy enforcement 
+Separation of duties enforcement and reporting 
+Real-time visibility of fulfillment status 
+KPI on all fulfillment channels, automated or manual 
+Global rule search 
+
+From Data443 site: 
+https://www.data443.com/classidocs-home/ 
+
+Our product + their clients = BIG $$$$$ IMO 
+
+
+
+Check out this possible tie to Data443.... 
+
+These 3 guys worked close together for years... 
+
+Quote:
+
+Join me, Nick Nikols and Jason Remillard - for our upcoming webinar on Identity &amp; Data Governance - some exciting stuff to see! 
+
+
+https://www.linkedin.com/pulse/identity-data-governance-webinar-jay-odonnell/ 
+
+Jay O'Donnell is with N8 Identity, check my ties here: 
+https://investorshub.advfn.com/boards/read_msg.aspx?message_id=138808821 
+
+Look at the other gentleman involved with Jay and Jason: 
+https://techvisionresearch.com/nick-nikols/ 
+
+Huge if he has ties here as well. Imo we are sitting on a boomer!
+
+
+
+
+Killer bullets from ClassicDocs Presentation last year... 
+
+
+Most Advanced Data Classification Platform 
+
+FOCUSED ON EASE OF DEPLOYMENT 
+- Simplest architecture and implementation plan vs. competitors 
+- End User experience highly designed, tested and validated 
+- Grid-Computing style Classification Performance and scale 
+
+LEADING EDGE TECHNOLOGY 
+- Simplest architecture and implementation plan vs. competitors 
+- End User experience highly designed, tested and validated 
+- Grid-Computing style Classification Performance and scale 
+- SIEM Vendors – Splunk, AlienVault, Arcsight, Qradar 
+- Identity Vendors – QuestOne Software, Oracle, IBM, ForgeRock 
+- Governance Vendors – Sailpoint, Aveksa (RSA/EMC) 
+- Data Security Vendors – Microsoft, Varonis, STEALTHBits 
+
+DEEP INTEGRATION &amp; PARTNERSHIPS 
+- Native integration to Microsoft Azure Cloud &amp; Data Protection 
+- Machine Learning, Guided Learning and User Coaching 
+- Ransomware &amp; Encryption Detection &amp; Management 
+
+Margins on Data Classification Software: 95% HUGE COMPANY in the making!!
+
+
+
+
+https://insiderfinancial.com/data443-risk-mitigation-inc-otcmktsldsr-is-growing-into-a-market-leader/175673/?opanda_confirm=1&amp;opanda_email=Taylor18r%40gmail.com&amp;opanda_code=3fe80be3c9b63594be5eba8d636fe11c
+
+
+
+Silicon Valley banking 
+
+https://globenewswire.com/news-release/2018/02/06/1333688/0/en/DATA443-OTCPK-LDSR-Announces-Banking-Relationship-with-Silicon-Valley-Bank.html
+
+
+LDSR DATA443 DD. 
+
+- DATA443 (OTCPK: LDSR) Partners with Leading Cloud Identity Governance Provider N8 Identity 
+- 3 Gold awards at Cybersecurity Excellence Awards for ClassiDocs. (GDPR Compliance, Data Classification and Governance) 
+- The Strategic Advisory Board for DATA443 Risk Mitigation, Inc. was initiated in January 2018 will continue to add new members as the organization grows and changes as part of its normal business plan. DATA443 will be assigning a diverse group of individuals from various disciplines, geographies, industries and relationships throughout the year. The Strategic Advisory Board is intended to be a sounding board for upcoming strategic reviews, product and acquisition reviews and a collaboration venue bringing industry experts, customers and executives of DATA443 together. 
+- Todd Spain on advisory board. 
+- Global leader in database technologies, former VP of IT for Fidelity Investments and Global IT Delivery Executive for Cisco Systems. 
+- Co-founding member of the Blockchain Executive Group. 
+- “I am excited to contribute to the success of DATA443 and the possibilities presented by the leadership team. I expect to contribute my skill sets to the organization as part of the Strategic Advisory Board beginning immediately,” comments Mr. Spain.“ 
+- Jason Remillard. CEO and Founder. 
+- 25 years of experience pioneering technology solutions for startups and Fortune 500 companies. 
+- Served as VP of Security Architecture at Deutsche Bank, where he was responsible for Big Data, Security Architecture, Engineering and Analytics. 
+- Led the development of the Enterprise Identity and Access Management portfolio at Dell Software (formerly Quest Software) Under his leadership at Dell Software, the portfolio grew at a compound annual growth rate of 20 – 90 percent over time. 
+- Stints at IBM, Novell, Merrill Lynch, Royal Bank of Canada, TD Bank, Tucows and Ellacoya Networks. 
+- A founding member of the Blockchain Executive Group. 
+- MBA from the Richard Ivey School of Business (University of Western Ontario, Canada) 
+- ClassiDocs. User rich, full enterprise data classification &amp; governance platform. 
+- ""Only Data System that queries, reports results and monitors ongoing across everything in the Enterprise Data realm – On Premise, Cloud, Database, Laptops, Desktops. Our reach and capabilities grow every day…"" Jason Remillard. 
+- First Data Classification &amp; Governance platform to integrate with SIEM platforms. (Provides a much richer and detailed User Behavior Analytics capability.) 
+- Only Classification platform to include GDPR/eDiscovery capabilities in the same product. (No integrations, no fuss.) 
+- Only Classification platform to include Endpoints (Laptops/PCs) AND Structured Data stores in scope to the classification and eDiscovery functions. 
+- Only Data Governance platform that merges Active Directory Identity data with Data Classification (Know who is doing what, with what kind of documents, and where. Instantly.) 
+- First Data Governance &amp; Classification platform that natively exports all transactions, activities and actions (machine and user) to your SIEM infrastructure. Imagine correlating all of your distributed infrastructure with ACTUAL data types 
+- Exclusive PowerShell exit technology - you are able to run whatever script, job you want when a condition hits... Want to encrypt that file if something 'confidential' shows up on FileShare XYZ? No problem. Want to turn off a PC that should NEVER have 'Internal' documents on it? Set the condition, with an orchestration, done. 
+- The GDPREngine within ClassiDocs is a brand new capability which delivers specifically what you need for the majority of your GDPR DSAR compliance requirements, specifically: Find PII-related data records, Report on findings, Monitor post DSAR. 
+- One screen panel to query across ALL Data Silos (Endpoint/Workstation, Servers, Data in Flight, Data at Rest, Structured and Unstructured Data Sets) 
+- Simple and complete API integration for ticketing/resolution on DSAR events. 
+- Rapid delivery capability - Be classifying, identifying and resolving DSAR-based requests in minutes! 
+- One Panel enables you to query across all repositories to retrieve data set results, snapshot and monitor ongoing as you resolve the DSAR. 
+
+- Invite to the RSA Early Startup Exhibitor arena. (ClassiDocs. Booth number 1!) 
+- ""I am seeing that the GDPR will be affecting nearly every application system, data repository, and third-party vendor relationship you have."" Jason Remillard. 
+- New banking relationship with Silicon Valley Bank. (2/06/18) 
+- “Silicon Valley Bank has a long and storied history in the technology sector and has innovative financial offerings that Data443 will utilize throughout its growth phases upcoming” Jason Remillard. 
+- “We’re excited to provide banking services to Data443 and look forward to working with the team,” said Chris Stoecker, Managing Director of Silicon Valley Bank. 
+“SVB has not only the credentials, active investment and technology capabilities but also a worldwide footprint with financial instruments that will be instrumental in our growth and acquisition plans in 2018 and onwards. This is a major milestone for Data443!” added Mr. Remillard. 
+
+
+
+
+
+
+
+
+"
+5,2018-03-05,Noqt,314,"Long $NVDA, involvement in AI will bring success for them long term","$NVDA is a gaming company. It has been since its inception. Most recently, Nvidia has been big into Artificial intelligence. Most headlines reference something to do with AI. I think this transition from gaming to AI is important for Nvidia's growth in the next decade. My price target for them is a 40% upside, $329. Is that even possible given how much it's grown this past year? I think so. 
+
+
+[Here is the google drive with the model, paper, and open position proof, updated whenever I update them](https://drive.google.com/drive/folders/1h2cTeiNRP07K8-2Wn4lYyQtbB_go2HGB?usp=sharing)
+
+
+I'm just going to go over some catalysts and some risks:
+
+
+Catalysts
+
+
+* New GeForce series using the new Volta architecture, Series 20. Announcement will be big, should be in March 2018. The already released GPUs with Volta have been successful, I expect that trend to continue.
+
+
+* Cryptocurrency becoming more popular. Crypto isn't going away, so I'd assume it to be a catalyst. I don't like to pay attention to it. 
+
+
+* Two years until we are seeing some of Nvidia's big autonmous vehicles come to life. Both the driving platform they are developing in china with ZF and Baidu, and the Volkswagen VW AI-infused Bus are expected to be actualized in 2020. If we see some success in the execution of these projects, I'd consider it a catalyst. I'm confident their execution will be successful given the success they've already demonstrated in AI with their datacenter revenue.
+
+
+* Gaming industry big news (PC). Every year there is more gamers, every year gamers get better jobs, every year there are more games. GPUs are an integral part to gaming, so these revenues will grow with the gaming market.
+
+
+Risks:
+
+
+* Semiconductor industry decline. The semiconductor industry is interesting because a decline in one can cause they others to underperform. This is an entire topic on its own.
+
+
+* AMD/new GPU designer taking market share from Nvidia. Unlikely, but Nvidia's dominance in the GPU market is why I am so bullish. I want to invest in the leader of AI deep learning training hardware and graphics processing, not the second best.
+
+
+* Jensen Huang, the CEO, losing his ability to lead the company. Nvidia has has successfully positioned themselves to be a part of the future of AI, which I think is accredited to Huang's execution. This is a positive, he's invested in the company. The downside to this is that he is very important and anything that hurts his ability to lead would hurt Nvidia.
+
+
+* New GeForce 20 series being not much of an upgrade from series 10, possibility but I think unlikely. Unlikely because their Titan V uses 12nm technology.
+
+
+Price Target:
+
+
+* I used a DCF model to arrive at the price target of $329, using a 7% discount rate and 1% perpetual growth rate. In the model I assume 39% revenue growth in Nvidia's 2019 fiscal year, 32% in 2020, and 28% in 2021. I based this off their plans in autonomous driving, and their new GeForce series to be released with Volta architecture. 
+
+
+What I think:
+
+
+I think Nvidia successfully integrating its hardware into so many big company's is a huge success for their long term goals. Nvidia hardware is being utilized in Tesla's electic car's autopilot 2.0, and used by Google and Amazon Web Services datacenters. Nvidia is so dominant that no one can take these positions unless the company wants to build their own chips, which would be billions of dollars in R&amp;D. Nvidia is supplying hardware for these big companies and there is no one to compete.
+
+
+TLDR: NVIDIA is investing into AI. Nvidia's Drive PX 2 operates Tesla's autopilot 2.0 system, Nvidia's new Tesla GPUs have grown datacenter revenue by 133% this last year, and their focus on the narrow AI to bring autonomous vehicles on the road is proving to be worth it. $329, long equity. 
+
+
+Why am I doing this?
+
+
+Well I don't think I am perfect and I think I missed A LOT, so I want some critisism to get as close to perfection as I can. Read the paper and look at the model.
+
+"
+6,2018-05-30,coinmonks,1,Building an Algorithmic Trading Strategy with Enigma Catalyst,"**Introduction to Enigma** 
+
+Blockchains, in their current form, don’t handle privacy well. The data that is stored on a blockchain is available for everyone to inspect — a side\-effect of radical transparency. Although this is still better than the current data model \(whose problems I summed up below\), some data is just not suitable to put on display.
+
+Problems with the current model:
+
+No Privacy \~ theft \(hacks\), selling to other parties etc. 
+
+Lost Natural Income \~ your data is a natural resource Sensitive 
+
+Product Problem \~ some data is extremely personal 
+
+Aggregated Power \~ large companies own basically all of our data
+
+ Machine Learning, and especially Deep Learning, has given us insights on our data that are invaluable. With our rapid increase in computational power, together with the enormous growth of data, there is no better time to train these models. Deep Learning is on its way to reshape almost every industry out there:
+
+Check out the full article [here](https://medium.com/coinmonks/building-an-algorithmic-trading-strategy-with-enigma-catalyst-1a407e9c02f8)"
+7,2018-05-26,LuxGang,2,Young investor needing help with investment strategy!,"Hi everyone,
+
+I started investing about 5 years ago at 21 years old with my Dad, I had no strategy and no idea what I was doing. My first stock was Riocan (REI.UN), which I still hold today.
+
+In the last 2 years, I started becoming much more active with investing, and learning about stocks, and now it's consuming most of my free time - I love it.
+
+After tons of reading and researching, I figured I wanted to go with a ""Dividend Growth Investing"" type of strategy, given my long time horizon and the general stability (in all market conditions) of dividend paying companies. I started investing more of my money, and now my portfolio sits at $50,000 with the following stocks:
+
+
+-Riocan (REI.UN) - 500 Shares
+
+-Emera (EMA) - 100 Shares
+
+-Brookfield Infrastructure (BIP.UN) - 100 shares
+
+-Bell Canada (BCE) - 100 shares
+
+-Enbridge (ENB) - 200 shares
+
+-TD Bank (TD) - 50 Shares
+
+-Canopy Growth Corporation (WEED) - 200 shares
+
+-Sandstorm Gold (SSL) - 500 shares
+
+
+My TFSA is currently maxed out and I'm nearly fully invested. I'm DRIPPING Enbridge and Emera, and I plan on selling WEED and SSL sometimes this year as I'm in the green in both, and I need to get more cash to put it to work in something else.
+
+Here's the problem, in the last year, I've started to realize how little I know about Due Dilligence (reading balance sheets, income statements, cash flow sheets, and how these all paint a picture of a company). I've also started to truly grasp how risky individual stock investing can be, albeit with higher potential returns than ETF investing. WEED is risky but It's made me some pretty insane returns. ENB is ""safe"" but I'm deep in the red. In either case, I did no DD.
+
+Now I need to figure out a new strategy, as my lack of ability to due DD is just too risky. ETF's seem like the best approach to diversify and minimize my risk, while still growing my portfolio into retirement. 
+
+One main thing to consider is that I like dividend paying stocks, the extra income and compounding returns from growing dividends is something I love to see. So here's where I'm stumped: Do I use any extra cash to invest in ETF's, and continue holding my individual stocks, or do I sell my stocks and put it all in ETF's. The only other option is to get good at Due Dilligence, and use any extra money to average down on my current positions.
+
+Here are the ETF's I'm considering, assuming a $50,000 portfolio:
+
+	
+S&amp;P 500 Index ETF - (VFV) - 20%
+U.S Total Market - (VUN) - 20%
+Canada All Cap Index ETF - (VCN) - 20%
+Canadian High Dividend Yield Index - (VDY) - 20%
+Emerging Markets All Cap Index- (VEE) - 10%
+Canadian Long-Term Bond Index ETF - (VLB) - 10%
+
+How does the above allocation look? Should I consider any other ETF's? (don't say VGRO, everyone says VGRO). What should I do with the current stock positions I have?
+
+Any guidance on how I should proceed will be greatly appreciated!"
+8,2018-07-30,Lordmacbuff,5,AI manged ETFs,What do you guys think about deep learning AIs running ETFs and which are the best ones.
+9,2018-08-23,wirsteve,390,What's reddit's opinion of the next big thing in tech?,"Pretty obvious what it is now, ""Cloud Computing"". Companies have to ""move to the cloud"". Some companies don't even have directors of IT on staff, they just hire a consulting firm to move them to the ""cloud"" but they don't know what it is.
+
+Let's say 5 years ago
+
+* Everything was hosted locally or with an IT provider. Citrix for example was popular
+* The number of apps in iOS app store and Play store have tripled - mobile is king
+* Businesses slowly started to look at technology as a need and not as a luxury
+
+Now 
+
+* SaaS is king, hosting data in Azure, AWS or Google's data centers is popular
+* Citrix is still used but in a different capacity
+* You need a mobile app to pair with your website / company to be looked at seriously
+* eCommerce has been changed dramatically with Square &amp; competitors
+
+So what's next?
+
+* Edge networking?
+* A boom in security spending?
+* Machine learning?
+* Blockchain?
+* VR &amp; AR?
+* Internet of Things?
+* Smart kitchens?
+* 3D Printing?
+
+We all know deep down, whatever the infrastructure is now, and whatever is popular now won't be in 2023. I'd love to hear what you guys think. Obviously my list isn't what you have to pick from. It's just some things that I think could potentially take off."
+10,2018-09-24,maheshexp,5,Why does an earning miss drags down stock to deep hole?,"I am learning the market and one factor that seem to baffle me is, ""Earnings Miss"". When it is exceeded, the stock soars but not to a double digit percentage for most. But on the opposite, when earnings gets missed, even by a cent, the stock drops crazy. Why would that be?
+
+&amp;#x200B;
+
+Example: IGP Photonics, missed estimate by 1ç and stock fell \~20%.
+
+Source: [https://www.zacks.com/stock/news/314542/ipg-photonics-ipgp-q2-earnings-amp-revenues-lag-estimates?cid=CS-GURUFOCUS-HL-314542](https://www.zacks.com/stock/news/314542/ipg-photonics-ipgp-q2-earnings-amp-revenues-lag-estimates?cid=CS-GURUFOCUS-HL-314542)"

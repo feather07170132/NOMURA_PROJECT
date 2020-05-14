@@ -1,0 +1,10 @@
+,created_utc,author,score,title,selftext
+0,2015-08-30,cb_hanson,50,Is DIY algorithmic trading a real trend??,"This article from the WSJ a few weeks ago says that more and more home gamers are getting into algo trading. Do people see this as a growing trend? Would be especially interested to hear from anyone seriously trying to do this from home as a hobby.
+
+http://on.wsj.com/1MV1B2U
+
+From what I see, the barriers to entry certainly seem to be falling. In an old interview (maybe 15 years ago) David Shaw says that it would be difficult for people to compete with the likes of Desco given all the infrastructure and technology involved. Obviously the amateur is not going to be at the bleeding edge of technology, but it now seems that he can close the gap considerably.
+
+Computing power and data are cheap. All sorts of programming resources, including tutorials and highly sophisticated statistical and machine learning libraries, are increasingly available. I've even seen vendors starting to offer off-the-shelf FPGA platforms that allow you to program your algorithms in firmware and make trades in microseconds..
+
+Edit: The FPGA is more of an example of technology becoming available off-the-shelf rather than something most could actually utilize at home."

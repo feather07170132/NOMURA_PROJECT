@@ -1,0 +1,221 @@
+,created_utc,author,score,title,selftext
+0,2016-02-02,[deleted],2,I'm creating a new app for crowdsourced stock tips to be used by deep learning ai. Would anyone use this?,[deleted]
+1,2016-03-31,moonorange,5,Looking to switch to a more active investment strategy,"I've got $500k cash that I earned the hard way (not a hand-me-down,) a solid technical background (technical university STEM degree including 400 level math courses) and all the free time in the world (no job.)
+
+Previously, I've been so busy that I've kept my portfolio very simple and passive.   I now have the time to spend days, weeks or months learning new skills and I also have time every day to be actively trading.  
+
+A few thoughts are crossing my mind.   One is to buy the CFA materials and self-study (without going through the actual examination process) and then dive deep into a sector or country.  Another is to learn about technical analysis and try my hand at day-trading.
+
+If I find that I am successful and that I enjoy the activity, I am considering changing careers (since I am jobless anyway,) and becoming a professional in this field.
+
+I would be interested in any input from folks who have been in this position.
+
+"
+2,2016-03-15,_Aether__,1,Small (tiny) Trust-Building Partnership,"(I'm copying this intro from another post I made almost a year ago): 
+
+&amp;nbsp;
+
+
+I'm 18, and I've been reading and learning about investing for around 3 years. For some context as to what I'm talking about, I've read and taken pretty extensive notes on the following books:
+
+&amp;nbsp;
+
+
+-The Intelligent Investor
+
+-Common Stocks and Uncommon Profits
+
+-Paths To Wealth Through Common Stocks
+
+-The Essays of Warren Buffett
+
+-Security Analysis (almost done)
+
+-One Up Wall Street (not there yet)
+
+-You Can Be a Stock Market Genius
+
+-various research papers and studies
+
+-lots and lots of online reading and researching
+
+&amp;nbsp;
+
+
+Now that I've established some sort of credibility, I'll cut to the chase: a culmination of both my recent reading, and really almost everything I've learned, has lead me to believe that the simplest, most surefire way to achieve excess returns is through a mechanical strategy utilizing some valuation metric like earnings yield or fcf yield, COMBINED with a momentum component. I'll talk about what lead me to come to this conclusion in an edit if you want. 
+
+&amp;nbsp;
+
+
+But so basically, I want to be allocating capital for a living when I graduate college (not right after, but within 5 years maybe? Time frames aren't too important right now). Obviously, I can't start then. I've got to work up a client base, I've got to get a lot of people to trust me, and I've got a lot of time to do that so I think it's best to start small. 
+
+&amp;nbsp;
+
+
+So here's the plan: I ask friends and relatives for any SURPLUS money (over $500? 1000?) they have that they definitely wont need for 3 years (I will also make clear to them that there is a chance they may lose their investment). I'd explain my strategy, show them the data, etc. I'm 100% sure I'd get over $10,000, which, sure, is nothing in the long run. Remember, this is a 3 year trust building exercise! I wouldn't be taking any profits, and all capital would be returned to the clients. But the question is: 
+
+&amp;nbsp;
+
+
+Is there an easy way to do this legally? Is it possible at all? Is it even my best move? If you are questioning the strategy, I'd be happy to explain in an edit.
+
+
+&amp;nbsp;
+
+
+I'd appreciate thoughts, concerns, etc. 
+
+
+Thanks, Jake
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+**EDIT**: I actually might as well explain the strategy now, it'll help me get my thoughts out anyways. You've probably all heard of Joel Greenblatt and John Bogle (didn't really even need to mention him lol). You may or may not have heard of Tobias Carslile. Those are the three guys I'll be talking about mostly, and they all say pretty similar things. 
+
+&amp;nbsp;
+
+
+Let's start with Bogle. All I have to say about his influence is that almost all mutual funds under perform. Let's move on. 
+
+&amp;nbsp;
+
+
+Greenblatt: Guy's a legend. One of the best performances of all time. How? He stayed (relatively) tiny, and totally niche. He grew out of that zone, and is now running the Gotham funds, which are a collection of pretty cool (and a little crazy) mechanical investing funds. He came up with the [Magic Formula](https://www.magicformulainvesting.com/), which said that Earnings Yield and ROIC combined give investors the best of both worlds: value and growth. The Magic Formula is a mechanical investment strategy, and it has [been proven to work](http://www.oldschoolvalue.com/blog/investing-strategy/the-magic-formula-investing/). But it could be better. This is where Carslile comes in.
+
+&amp;nbsp;
+
+
+Besides writing two books ([Deep Value](http://www.amazon.com/Deep-Value-Investors-Contrarians-Corporations/dp/1118747968), and [Quantitative Value](http://www.amazon.com/Quantitative-Value-Web-Site-Practitioners/dp/1118328078), both of which I've heard are great, although I think I've gotten a pretty good feel for them after listening to all of the interviews and talks by this guy), he hasn't done much in the real market from what I can see. What he HAS done is a lot of research and a lot of analysis. He found that Earnings yield alone does better then Earnings Yield + ROIC from the Magic Formula. And he found that the reason for this was due to reversion to the mean. 
+
+&amp;nbsp;
+
+
+[Earnings yield](http://greenbackd.com/tag/ebitdatev/) has been proven in [study](http://blog.alphaarchitect.com/2014/10/20/value-investing-backtests-our-analysis-of-13-aaii-value-strategies/#gs.k83POJg) after [study](https://www.youtube.com/watch?v=1r1vJZ80Z7I) to be a metric that produces out-sized returns. So where does momentum come in? Simple. [Even Damordan's research](http://greenbackd.com/2012/04/25/value-investing-works-so-why-do-value-investors-underperform-the-contrarian-value-investors/) has shown that price momentum works well in the short run (periods &lt;1 year). There are a ridiculous amount of [studies](http://blog.alphaarchitect.com/2014/07/16/momentum-investing-ride-winners-and-cut-losers-period/#gs.nm8aXO4) that show simple metrics such as best 6 months return can generate outstanding performance. 
+
+&amp;nbsp;
+
+
+Well what happens when you combine value and momentum? The results blow up. [One study in particular](https://www.valuesignals.com/Content/Documents/Quantitative_Value_Investing_In_Europe.pdf) (which was the inspiration for this strategy) showed the returns during a 10 year flat market to be in excess of 1000%. 
+
+&amp;nbsp;
+
+
+SO how would I act on all of this information? Simple. I do (roughly) what Greenblatt and Carslile recommend, supplemented by the study: Sort first by best 6 month performance, then sort by Earnings Yield. Take the top 20, hold for a year, sell, repeat. Simple. Only 2 metrics, and the evidence for them to work is overwhelming. 
+
+&amp;nbsp;
+
+
+I'm not trying to value companies. I'm not trying to play the market. I have a strategy that I am sure will work, and I am confident that I will be able to stomach any drops and follow it in full for all 3 years. "
+3,2016-04-08,scatteR634,0,Is it More Realistic to Make a Living Trading in the FOREX Market or the Traditional U.S. Stock Market?,"I'm curious as to where I should start investing my time. I'm 22, I love to read, learn, study trends, make use of data, current events, you name it. I've started to make a living for myself with a company I helped start that manages Pay Per Click Advertising. I've networked myself into a great position, while still having very low living expenses, and I don’t even graduate from business school until this May.
+
+The point is, I'm making a good living now and know I will be coming into quite a bit of extra income when I graduate, enough to establish some risk capital for me to start investing safety. 
+
+I have been learning and reading immensely about the Foriegn Exchange (FOREX) market and obviously the US Stock exchange. I’ve been reading the Wall Street Journal the past 6 months and just basically want a deep, deeeeep understanding of what I am doing before I start making major decisions (None of those Oanda demo accounts) with my money. I was approached from an old friend who was trying to get me into that ImarketsLive ""Global Visionariez"" ""Forex makes You Rich"" bullshit which I have researched deeply and found to be bullshit. This turned me off from Forex trading, although I know it’s an incredible economy of scale. 
+
+I am trying to figure out, from some experienced folk, where I should continue putting my learning efforts? I want to continue learning and researching how to trade and find leverage for at least another 3-6 months before I make any moves. Which is a more realistic route to take? Which market has the best opportunity? I’m open for all interpretation so please share! Thank you. 
+
+-Jon
+
+"
+4,2016-08-18,dubai_newb,0,"What is on your current ""potential X-bagger"" list? And why?","I'm currently looking at OLED as the mobile display industry attempts to transition to lower power consumption.
+
+SODA is an interesting space. Likely a target for acquisition rather than organic growth.
+
+I see NVDA as a ~100Bn value in three to five years as mobile data processing in cars becomes more mainstream. [1]
+
+TSLA already an 8-bagger for me. I see it as the first trillion dollar corp in 20 years.
+
+
+[1]   ""Earlier this year, Volvo announced it had partnered with chipmaker NVIDIA to use its deep-learning computers to power Intellisafe Autopilot during the DriveMe pilot. 
+NVIDIA’s platform for self-driving cars, which is called Drive PX 2, basically gives the car deep-learning capabilities. Deep-learning is a type of machine-learning where computers are able to teach themselves by sifting through tons of data."""
+5,2016-09-19,erichisalurker,103,NVDA DD feel free to critique,"Nvidia’s foundational revenue stream is in its gaming-oriented PC GPU products.  Despite diversification into other market segments, this product division remains the largest revenue-generator for Nvidia. Over the last six quarters, gaming-related products have accounted for more than 50% of sales revenue for the company. However, this relative share of revenue has declined as Nvidia has expanded into other product areas. Since their Q1 2016 report (4-26-2015), revenue streams from Datacenter and Automotive products have increased by 71.6% and 54.55% respectively. Nvidia also generates a significant portion of its revenues from Professional Visualization and OEM &amp; IP products as well. Combined, these segments represent roughly 25% of Nvidia’s revenue. It is worth noting that over the last six quarters the revenue generated from OEM &amp; IP products has declined 25.22% while the revenue from Professional Visualization products has increased by 18.2%
+
+
+Regionally, Nvidia still derives most of its revenue from the Asia Pacific markets. In Q2 2017 (7-31-2016), revenue in the Asia Pacific region accounted for 66.67% of overall revenue. This is compared to 14.42% from the US, 11.69% from Europe, and 7.21% from Other Americas. There has been stable revenue growth from every region over the last six quarters, keeping in line with the growth in overall revenue. The largest regional growth can be seen in the Asia Pacific and United States regions, indicating improving consumer demand in both of these areas.
+
+
+Having recognized the declines in relative revenue generation from video game segments, Nvidia has shifted their focus moving forward to larger-scale, more innovative market segments. At Nvidia’s GTC China 2017 presentation, CEO Jen-Hsun Huang highlighted the massive impact that deep learning and Artificial Intelligence (AI) will have on the world in the coming years. Nvidia seeks to push the boundaries of AI and deep learning technologies, and their first step is with their new GPU architecture, Pascal. Nvidia’s latest line of GPUs for both consumer and commercial use have been hailed as the best performing processors on the market. Furthermore, during the Q2 2017 earnings call, Huang reiterated his belief that deep learning is going to be the company’s most significant growth driver moving forward. Nvidia has very recently procured a contract with Chinese web company Baidu to develop AI platforms for their self-driving cars, adding their name to a client list which already includes industry leaders such as Tesla and BMW. A recent Bank of America forecast suggested that the deep learning and AI market could reach $153 billion by 2020, and Nvidia already has a strong position in the industry. 
+	
+
+Nvidia has very strong fundamentals currently. Over the last seven years, Nvidia has reported positive revenue and net income. Both of these metrics have seen substantial growth as costs have been reduced and profit margins have improved. Since 2010 both the total assets and total capital available have nearly doubled to $7370 million and $4580 million respectively. Nvidia has also seen substantial improvements in its ROA, ROC, and ROE. As of FY2016 reporting, ROA is 10.59%, ROC is 17.04%, and ROE is 17.46%. It is estimated that in FY2017, Nvidia will see revenue of $6098 million (12.12% increase from FY2016), net income of $1381.4 million (41.8% increase), and an EPS of $2.30 (67.9% increase). 
+	
+
+Nvidia’s TTM P/E ratio is currently sitting at 38.28 compared to an industry average of 15.2 and has a P/BV ratio of 7.51 compared to an industry average of 2.7. Normally these may indicate that the stock is overvalued, however Nvidia is seemingly at the forefront of a huge growth phase in an emerging industry and it appears that the market has priced this future growth in. In the coming months we should see a reduction in the P/E ratio due to higher EPS levels. As of their latest reporting, Nvidia has a current ratio of 2.56. This shows a lot fundamental strength for Nvidia to meet and short-term liabilities. Nvidia’s FY2016 profit margin was 15.58%, and impressive number alongside an equally impressive ROE of 17.46%. 
+	
+
+Given current fundamentals, Nvidia will be able to see a growth rate of 11.1%. This number is based on an equally-weighted average between the company’s Long-Run Growth Rate (10.90%) as shown on the company’s Bloomberg Terminal page and the Sustainable Growth Rate (11.28%) derived from the following formula: (ROE*b)/[1-(ROE*b)] where ROE is the company’s return on equity for the previous fiscal year and b is the retention ratio for the company. Nvidia’s current WACC is 12.5%, which is used as a benchmark for required return. Based on these two values and Nvidia’s returns over the last six years, Nvidia has an implied value of $46,827.67 million when using an earnings power valuation model. With 535 million shares outstanding, this implies a stock price of $87.52 per share. At the closing price of $62.84 on Sept. 16, there is a margin of safety of 28%. 
+	
+
+In spite of the huge returns Nvidia has already seen this year, I believe that it still has huge upside potential and would be a fantastic long-term buy. Nvidia’s upcoming product lines and revenue streams have positioned them positioned the company to be at the forefront of a growing deep learning and AI industry. Automation and self-learning software are becoming a larger part of our lives every day and Nvidia is creating the tools necessary to meet these new computational demands."
+6,2016-10-14,smertherst,7,NVDA/AMD for long?,"I think that both stocks might look good in the long term (1-5 yrs). Still, I'd like to here some opinions? Does buying either make sense right now? It seems like both have some good tech on the rise and I especially like that NVDA is involved in other things like deep learning/AI/driverless"
+7,2016-11-30,Earlstoddard,0,"Investor(s); Thoughts to Ponder when working with the next FB, MS, APPLE, SpaceX (BIG IDEA).","Investors looking for that Hole In One Idea... This is a little long, but I guarantee a great read for you.
+
+Many of these posts are about, where do I put my money? How do I conduct my due diligence? Are there any APPLES, Microsoft's, Facebooks, or has everything been invented. 
+
+The answer to this is, we are really on the cusp of some technological leaps that are going to put these last advances to shame. 
+
+Most technology that has been invented has been quite DUMB...Great at collecting, saving, retrieving, collaborating, etc... Still, though, creating silos of information that just sits on little islands waiting to be handled. 
+
+Here we are now at the edge of something new called ""Machine Learning."" The ability to exponentially grab millions of lines of data, mathematically process it (algorithms), the provide a result that will guide person, machine, application... anything at the ""Speed of Live."" 
+
+There are areas today that are earning investors significant returns into the future. Let's name a few... Uber, Travel Web Sites, Autonomous Cars, SpaceX, Tesla, Stock Market Analysis Engines ( Maybe on the edge of ethically illegal), you get me drift here. Things that process millions of lines of information in milliseconds giving a result that would have taken hours, weeks or months before. Let alone systems out of Darpa and MIT for Defense programs. Scary! 
+
+But yes, all of which require investors. Smart, savvy investors that understand that to bake a loaf of bread needs time for the yeast to raise, and great bread, must be knocked back down several times over before it then must spend time in the oven before it goes to market. 
+
+These investors are not those that are going to watch gains and losses daily but be about exploration of the unknown. Believe in a principle and participate to the point to where they do not hinder or stop the progress of innovation. 
+
+Innovation and Investment go hand in hand. Many investors I meet that get involved in innovation say, well let the customer pay up front? Sell it first! These I believe will be the wrong investor. These investors need to be investments making widgets, which then drop the returns down to less than the stock market. 
+
+Let's look at Elon Musk who must have sounded crazy when he went into launching spacecraft. He was quoted as saying, he was unsure if he could even get a rocket into space safely. He knew by his education, innovative, creative drive and his passion he could take a few investors on a ride of their life. Today, his company, not without risk, is creating huge competition against the Boeing, Lockheed, and others. Creating Competition that is driving our space programs in the US towards goals much faster than NASA alone could. This is called capitalism at its best. Some of these early investors are going to make incredible amounts of money with Elon Musk. 
+
+Here are other tips...I have found in my experience with dealing with these investment deals myself. 
+
+The typical, let's look at your portfolio, customers, etc... are not always appropriate in what I call ""Exponential Opportunities,"" these are opportunities yielding 30:1 ratios across 3 to 5 years. Allow the company you are investing in, the small investment to express themselves in a small scale version of their end product. 
+
+You are saying WHAT? Yes, rather than saying SHOW ME NOW, YES OR NO...cultivate and peel back the onion on the artist, the technologist, the futurist that sits in front of you. 
+
+This is where it get's crazy...which innovation is not a science, it has so many unknowns on how it is derived and gifted to those that have it. Spend a little money. Not on Due-Diligence, or testing of financials, but the testing of the idea. Give the innovator the tools to animate the concept in a media that can be understood by all. Then you will then, only then, start to see the potential of the technology behind it. 
+
+I am sure that Elon Musk did not build a rocket first in the desert and keep firing it off. He proved it in principle, through modeling and animation. He showed the possibility, and at the same time he was showing his development team through that investment what had been parked in the back of his mind for so long. 
+
+What is humorous about this, is every investor wants an Elon Musk in their portfolio. But they do not know how to work with the wild world of technological innovation on a big scale. 
+
+What is funny, is that it is almost proven that innovators are dot connectors. They see the end picture; the see the raw physics behind their invention. This does not translate well in columns and rows. 
+
+The key in all of this, to put this into columns and rows, is what is the need for this technology. Can the technology not just be an island in itself but drive the old technologies. 
+
+For instance. Let's go back to Elon. He has figured out a more efficient way to build rockets, launch them, retrieve them to fuel programs already on the books. 
+
+Machine Learning, Deep Learning, Administrative Assistants, Teaching Assistants, Manufacturing Assistants (Robotics), etc... are all about vision, possibilities, innovation that can't be captured in your accountant's ledger. Not until you see the scaled model work, and a small team understands where it fits into the puzzle of the markets. 
+
+If you are an investor, do you want 5% returns (Zero Risk), 8% - 12% returns (Stocks), or are you ready to allow your money cultivate innovation with the right gifted mind or company with the next big thing! 
+
+I have theories on how to work with innovators, and that if companies are creating new Exponential Growth products, you need not salesmen, but investment managers and department to manage the lifecycle, inflows, and outflows of technological portfolios. 
+
+I have a passion for companies that have holistic growth from an idea to a market-wide product. These are not anomalies; these are processes that when controlled and worked with can be very predictable and controlled. 
+
+I am hoping this grows into a conversation that can inspire and give foresight into the scary world of investments on edge. They do not have to be on the brink if you spend a little before you invest a lot. And once you understand innovation and technology, you can see where these innovators are not crazy mad people, but dreamers... their world is not about the money, it is about getting their idea working in reality. Give them the space, time, resources... Hire an illustrator/animation team to extract their idea, so everyone can then touch it, see it, smell it..., etc...
+
+Share your thoughts as an investor, how do you deal not with the stock portfolio or widget factory, but the guy turning nothing into something. You put that in your portfolio, you have a story and the wealth to show it. 
+
+My bottom line is: I believe all this talk about market testing, columns and rows and 100's of pages of due-diligence is wrong. You put the right investor(s) and the latest Elon Musk together; you have an engine of wealth. 
+
+Now that you made it to here... Vote me up, Link, spread the word? Feel free to send a reply! Love it!
+
+Earl... 
+"
+8,2016-12-04,sgasgdsgbdsg,8,AMD's next-gen cpu and gpu chips equal the best from intel and nvidia for the first time 10 years. Do you think AMD could shoot up to $90+ like Nvidia did?,"Nvidia chips are so powerful that they're no longer a video card company but one of the few providers of hardware powerful enough for energy-efficient deep machine learning. 
+
+If AMD can start making chips that are equally as powerful(see here about their upcoming [gpu](http://www.hngn.com/articles/219370/20161130/amd-vega-10-beat-nvidia-pascal-gtx-1070-1080-launch.htm) and [cpu](http://www.amd.com/en-us/press-releases/Pages/zen-processor-core-2016aug18.aspx)) could we see them go from $8 to ~$80 in the next 18 months? 
+
+Everyone's been talking about Nvidia, but I wonder if perhaps a large new market in deep learning/AI has opened up for videocards as a device in general.
+
+So far in 2016, AMD has already risen from $2 to $8.
+
+
+"

@@ -1,0 +1,414 @@
+,created_utc,author,score,title,selftext
+0,2016-04-13,catgoquack,9,Interpreting order book terminology,"As part of research with my school, I have access to all daily NYSE Trade and Quote files. For those unfamiliar, basically it's a huge quantity of data that lists trades and quotes for all issues traded on CTA participating markets. Each line in the file is a record, with columns such as 'Time', 'Bid Price', 'Ask Price', 'Bid Volume', etc. The specifications can be downloaded [here](www.nyxdata.com/doc/224904).
+
+I don't have a background in finance, and need some help interpreting some columns for a side project I want to use this data for. Specifically I'm looking at the fields 'Quote Condition', 'National BBO Ind', 'NASDAQ BBO Ind', 'Quote Cancel/Correction', 'NBBO Quote Condition', and 'LULD Indicator'. What do those mean, and can difference in those values have some say over whether a stock is trending up or down?
+
+The reason I want to know is because I'm thinking about applying machine learning to a few months of data to train a model that can predict stock trends with some %-tage accuracy. For those unfamiliar with machine learning, I'm looking for hints in the data that could have some effect on whether the stock price is trending up or down (which I can't do if I don't know the meaning behind these fields). For example, a column such as 'Sequence Number' or 'Source of Quote' probably won't matter to me because they (probably) have no determination over the price of a stock, but on the other hand, things like 'Ask Price' or 'Bid Volume' may have a quantifiable effect on a stock's price. I'm looking to single out the columns that have a quantifiable effect on price to feed into my model, and see where things go from there. Any help would be appreciated."
+1,2016-05-25,Wonnk13,6,How can I leverage my programming skills to learn more about investing / finance?,"My day job is a data scientist / stats dork. I'm pretty comfortable with R and Python (Numpy / Pandas and friends). I'm also very green when it comes to investing. I found Quantopian, which looks like a fun combination of hacking and finance knowledge- similar to Kaggle with machine learning models. 
+
+I'm curious if anyone has any recommendations for how to level up my programming and finance knowledge at the same time. I've never worked with manual memory so maybe some simple projects in C++? I also wouldn't mind getting my feet wet with with OCaml as well if anyone here works for JaneStreet :p
+
+Sorry for the broad question, i'm really just interested if anyone here has embarked on similar projects? "
+2,2016-07-14,flythegreen,37,Why I'm LONG Apple: Apple Services,"Paper I wrote on Apple last semester (April 2016). Not too technical, and probably some typos....
+--------------------------------------------------------------------------------------------------------------------------------
+
+**Executive Summary**
+
+Apple Inc. was founded more than 40 years ago and has experienced tremendous growth. They began by developing and manufacturing personal computers and have grown into one of the most valuable tech companies in the world. With great success comes great expectations, and investors have a tendency to punish Apple (AAPL) if they don’t significantly beat expectations. They are currently trading 28% below its 52 week high.
+
+This paper will discuss their 2016 Q2 results, interpret their financials, explain their different revenue streams, discuss their future direction, and will recommend a buy, sell, or hold recommendation. There are many people that will tell you that Apple is a one-trick-pony, that if their iPhone sales slowdown, they will fall just like tech companies of the past have. The bears like to compare Apple to other historical models like Blackberry, IBM, or Microsoft. These historical models suggest that Apple cannot retain their large growth forever and will eventually slow as their innovation and sales stagnate. 
+
+Earlier this week, on April 16, 2016, Apple posted its first quarterly loss in more than 13 years. This can be attributed to economic factors in China, slowing iPhone sales, and a slightly weaker gross profit margin. The strong dollar is a major reason why Apple didn’t meet revenue expectations, as the majority of their weakness is in Hong Kong. iPhone sales were also down from a year ago in Q2 2015. While many analysts think Apple is a cyclical company that relies solely on their iPhone sales, I will explain throughout this paper why Apple is much more than simply the iPhone. With $50.6B in revenues, an EPS of $1.90, and a P/E of 10.08, Apple is a strong buy at $94.83 a share.      
+
+**Article Summary**
+
+In an article published on April 26, 2016, the New York Times reports Apple’s Q2 results and suggests reasons why Apple missed earnings expectations for the first time in over a decade. “The technology company’s dazzling 13-year run of quarterly revenue growth ended on Tuesday 
+— a casualty of Apple’s already immense size, weakness in key global markets like China and 
+the lack of another hot product to pry open the wallets of customers” (Goel, 2016). While the 
+article provides the raw data from the earnings results, the author also projects a bearish sentiment to it. “Nearly half of the smartphones sold in the United States are iPhones, and Apple may be reaching the saturation point among potential customers in other developed countries” (Goel, 2016). It should be noted that this is mere speculation. Although Apple owns over half of the smartphone market here in the US, Apple is still expanding into emerging markets. Apples dominance will continue to chip away at the Android market and bring new customers into their ecosystem. The article points out Apple’s revenue decline from one year ago, “declined 13 percent to $50.6 billion as sales of its flagship product, the iPhone, fell, with little else to take its place” (Goel, 2016). The article reports that Apple sold 16% less iPhones than the same quarter last year. The higher revenues a year ago can be easily explained if you consider the iPhone upgrade cycles. Every two years a new iPhone is launched, and the years between Apple releases small upgraded features to the same model. In September of 2014 they released the iPhone 6, their first device with a larger screen. “The company has just announced that it set a ""new record"" after selling 10 million units of the iPhone 6 and iPhone 6 units combined during their three-day launch weekend beginning Sept. 19” (Arce, 2016). It would make sense why iPhone 6 sales are spilling over into 2015 Q2 numbers. The 2016 Q2 period is coming off of the iPhone 6S upgrade cycle, where less customers are upgrading their phones compared to 2015 Q2. In September of 2016 Apple will release their newest iPhone, the iPhone 7. 
+
+The article also uses another negative opinion from an outside analyst, “There’s no question that Apple’s best days are behind it,” said Toni Sacconaghi, an analyst at the Bernstein brokerage firm. “The company grew at astronomical rates, and it’s now so big that its ability to grow at those rates doesn’t exist anymore.” (Goel, 2016). The analyst holds a popular industry-wide opinion: Apple cannot maintain its current growth. Despite the fact that Apple is being beaten down by Wall Street and suffering from global economic concerns, I will clearly explain why Apple is a clear and strong buy. 
+
+**Interpreting the Financials**
+
+The second quarter results were not in line with analyst expectations. “The Company posted quarterly revenue of $50.6 billion and quarterly net income of $10.5 billion, or $1.90 per diluted share. These results compare to revenue of $58 billion and net income of $13.6 billion, or $2.33 per diluted share, in the year-ago quarter. Gross margin was 39.4 percent compared to 40.8 percent in the year-ago quarter” (Hoover, 2016). That’s a Q2 drop 12.79% from the same quarter one year ago. But a 10.96% increase from the same quarter two years ago. Their EPS is down 
+18.45% from a year ago, but up 14.45% from the same quarter two years ago. Despite this Q2 miss, Apple’s gross profit margin decreased by 3.43%, but over the past year they have increased their NPM by 5.73%. During the earnings call, CEO Tim Cook announced more money being brought back to the shareholders. They announced an additional $50 billion to their program to return capital back to shareholders; they authorized $40 billion towards share buy backs, and a 10% increase in their quarterly dividend. Apple likes returning money to its shareholders, which can be seen with their high ROE ratio. ROE is up 49.76 from 2013, and 26.31% from 2014. 
+
+During the conference all Apple’s CEO said, “Our team executed extremely well in the face of strong macroeconomic headwinds” (Hoover, 2016). It was reported that international sales accounted for 67% of the quarter’s revenue, which could explain the missed revenue growth for the past few quarters. If more than half the revenues are hurt by the strong dollar, Apple looks rather strong considering they still pulled in $50 in revenue. 
+
+Their $230 billion in cash is located overseas and would have to pay the full 35% corporate tax to bring it back to the US. This cash isn’t just sitting there; it’s placed into long-term marketable securities earning interest. To avoid paying all the taxes to bring the money back to the US, Apple announced in February of 2016 that they would issue $10-12 billion of bonds to finance share buybacks and dividends. “Apple said that the proceeds from the deal would be used for “general corporate purposes” including “repurchases of our common stock and payment of dividends under our program to return capital to shareholders” (Jackson, 2016). It’s cheaper for them to issue debt than to use their own cash, plus they get a tax write off for the interest expense. 
+To show how strong Apple’s financials are, I will be comparing them with two of their largest competitors: Alphabet (GOOGL) and Microsoft (MFST). Although Apple has many competitors, I believe these two companies are the only ones that have a real shot at taking market share from them. Microsoft has been very successful with software and licensing, and has recently released their new Surface device. The Surface has been very popular and has given Microsoft some hope in competing with Apple’s iMacs. Their Windows phones however don’t pose any serious threat to the iPhone, and will most likely never catch on. I believe Alphabet is Apple’s #1 competitor. They’re both valued at around $500 billion and focus heavily on research and developing grandiose innovations. “Even though they compete across a huge range of subindustries, such as computing software, hardware, operating systems, mobile devices, advertising, applications and Web browsing, each firm takes a different approach from an organizational and philosophical perspective” (Ross, 2015). You can see that all three companies have high gross profit margins, but Apple achieves a slightly high net profit margin. 
+Apple has always had incredibly high gross profit margins and maintained high net profit margins throughout the years. Their 2016 Q2 reported NPM of 22.87%.  What’s more impressive, is their ability to maintain high net profit margins year after year. In the past 12 quarters Apple has seen steady improvements in their NPM. These steady margins are attributed to their excellent management. You can see how well Apple has been managing their assets and improving their net profit margins. Compared to their competitors, their ratios are significantly better. These ratios show how effective Apple’s management is with supply chain management and asset turnover. These high gross profits and stand-out ratios are reasons why Apple has looked so attractive to investors. Their ROA increased from 17.04% in 2014 to 18.38% in 2015, an increase of 7.86%. They charge higher prices compared to their competition, and they maintain high gross margins, year after year. 
+
+As mentioned before, investors hold Apple to a much higher standard than other companies. Apple has to not only beat earnings expectations, but they have to beat them by a 
+significant margin or else the market will punish the stock price.  Benjamin Graham said, “In the short run, the market is a voting machine, but in the long run, it is a weighing machine.” This is a 
+company that isn’t meant to be traded; it should be a long term investment. The peaks and troughs should be ignored and in the long run, Apple’s true valuation will be priced in. Their second quarter numbers weren’t in line with expectations, but I strongly believe their stock has seen an irrational and unjustified sell off in the past year. On February 23, 2015 Apple shares hit its all-time high of $133/share, which gave them a market cap of $736 billion. They were expected to be the first trillion dollar company. Quarter after quarter they met all expectations, yet the stock continued to fall to where it is today. As of April 28, 2016, Apple is trading at $94.83/share, roughly down 28% February 2015.  The price to earnings ratio is a way of valuing a company based off its share price divided by its earnings per share. If a company has very little earnings compared to its share price, the ratio can be extremely high. Netflix and Amazon for example have both high P/E ratios because they have very little earnings. Investors who buy these high P/E stocks are paying very high multiples. They’re valuing the companies as if they actually made money. Apple on the other hand, is trading at very low multiple and the market has already priced them in for lower future sales. Their current P/E ratio is 10.88, meaning you’re only paying 10 times earnings. You can see from the attached chart that it’s quite cheap compared to its competitors. Alphabet is trading 30.39 times earnings, and Microsoft is trading for 38.82 times earnings. You can say that you’re paying 179% more for Alphabet, and 256% more for Microsoft.
+
+**Revenue Streams**
+
+The main article discussed in this paper suggests that Apple’s innovation and high growth has peaked. Like tech companies of the past have proved, a company can’t stay hot forever. Investors believe that when iPhone sales start slowing, Apple’s valuation will collapse. I will breakdown Apple’s revenue streams and explain why they are more than just a smartphone company. In their second quarter earnings report they showed high revenue growth in their services sector accompanied by their highly valuable ecosystem.
+
+While Apple is known as a hardware company, they are making huge revenues through their services and expanding ecosystem. “Investors may have been focused on the decline in iPhone shipments when Apple reported its latest quarterly results on Tuesday, but there was one bright spot which could be a key driver of growth for the U.S. technology giant: Services” (Kharpal, 2016). Their services include products like iTunes, their App Store, Apple Pay, and Apple Music. On the Q2 earnings call, Tim Cook said, “We are very happy with the continued strong growth in revenue from Services, thanks to the incredible strength of the Apple ecosystem and our growing base of over one billion active devices” (Hoover, 2016). Apple’s ecosystem makes all these services much more accessible, which leads to much higher revenues. “Revenue from services came in at $5.99 billion in the fiscal second quarter - a 20 percent rise from the same period last year, highlighting the focus Apple has been putting on the segment” (Kharpal, 2016). While Apple sees higher revenues during iPhone upgrade cycles, their Services give them recurring and growing revenues. There’s a lot of room to grow in some of their newer services, “The current 13 million subscriber number for Apple Music, which chief executive Tim Cook announced yesterday, was small in comparison to the over 1 billion install base of Apple devices” (Kharpal, 2016). 
+
+Apple’s ecosystem is an integral part of the whole user experience when using Apple products.  It’s also a big reason why Apple users would never considering switching to Google’s Android devices. “As the years have rolled on however, it’s clear that Apple’s competitive advantage isn’t built on its hardware or its software. Apple’s greatest competitive advantage is its ecosystem” (Jackson, 2016). Apples ecosystem includes the following: iMac, iPad, iPod, iPhone, iTunes, iCloud, Apple TV, App Store, Apple Watch, Apple Pay, Car Play, and the Health Kit. All of these devices are continuously synced together. As an example, you can start an email on your iPad, and finish it on your iPhone. You can download music through iTunes and it will simultaneously be available to listen to across all your devices, including your CarPlay located in your automobile. When someone buys an iPhone, they will most likely purchase more Apple devices inside the ecosystem instead of buying an nonintegrated PC from Microsoft or device from Google. “Apple today trumpeted that gross revenue from its iOS App Store -- which now also includes software for the Apple Watch and Apple TV -- exceeded $20 billion for 2015, implying that sales were up between 40% and 47% year-over-year” (Keizer, 2016). It’s easy to see how valuable Apple’s ecosystem is for both the consumers and their total revenues. 
+
+**Apple’s Next Big Move**
+
+Apple is often criticized for having so much cash, but never making any big acquisitions. I’m bullish on Apple because I like cash rich companies that are patient and extremely careful with their capital budgeting and acquisitions. They have some of the smartest minds in the industry and I suspect they are working on several large projects.  Reports show that Apple has been hiring experts from the automotive industry to begin developing a car. “Apple has several hundred employees working secretly toward creating an Apple-branded electric vehicle, according to people familiar with the matter. They said the project, code-named “Titan,” has an initial design of a vehicle that resembles a minivan, one of these people said” (Ramsey, 2015). Why should they make their own car when they could just buy Tesla? Apple might be able to do it cheaper, have full autonomy, and build something that blows Tesla away. Just to put things into perspective, Apple has so much cash they could buy Tesla, Netflix, and Starbucks, all at a 20% premium. Yet, Apple hasn’t been making any big acquisitions. They have made one small acquisition in the past year: a virtual reality startup. “Apple buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans,” an Apple spokesperson wrote in an email to VentureBeat” (Novet, 2016). Facebook on the other hand, has been snatching up numerous companies. In 2014 alone, they acquired 56 companies, one of which cost them $19 billion. Apple on the other hand has not announced any big plans, besides the car, and we must assume they are planning something big. It’s possible that Apple knows they don’t need to acquire anything; they have the most valuable company in the world and boast a 40% profit margin. 
+
+I think within the next five years Apple’s market share will dominate all world economies at a far greater scale. I believe they will consume the entire smartphone market share, and their ecosystem will aid in higher revenues and increased customer retention. I think their valuation will shoot well past one trillion dollars after they make one of the largest acquisitions in world history. I can speculate, and see Apple buying a company like Visa, one of the world’s largest multination financial services company. 
+
+Apple has grown from a hardware and software company into a luxury brand with the highest of customer loyalty. They are cash rich, well disciplined, provide a high ROE, and are currently trading 28% below its 52 week highs. As Benjamin Graham said, “In the short run, the market is a voting machine, but in the long run, it is a weighing machine.” Apple has been beaten up in the past year due to macroeconomic factors, but has proven they can still churn out 200B in annual revenue in a bad year. Apple is only trading at 10x earnings, they are months away from the iPhone 7 upgrade cycle, and I rate Apple (AAPL) as a strong buy. 
+
+
+
+
+**References**
+
+Arce, N. (2016). 10 million: Record number of iPhone 6 and iPhone 6 Plus sold in launch.
+	Retrieved April 27, 2015 from 
+http://www.techtimes.com/articles/16231/20140923/10-million-record-number-of-iphone-6-and-iphone-6-plus-sold-in-launch-weekend.htm
+Brown, K.C. &amp; Reilly, F.K. (2012). Investment Analysis &amp; Portfolio Management. Mason, OH.
+	Cenage Learning. 
+Cherney, M. (2016). Apple to issue $10-$12 billion of bonds to finance buybacks, dividends.
+	Retrieved April 26, 2015 from 
+http://www.marketwatch.com/story/apple-to-issue-10-billion-to-12-billion-of-bonds-to-finance-share-buybacks-dividends-2016-02-16?dist=countdown
+Goel, V. (2016). iPhone sales drop, and Apple’s 13 year surge ebbs.
+	Retrieved April 27, 2015 from 
+	http://www.nytimes.com/2016/04/27/technology/apple-q2-earnings-iphone.html?_r=0
+Hoover, J. (2016). Apple reports second quarter results.
+	Retrieved April 27, 2015 from 
+http://www.apple.com/pr/library/2016/04/26Apple-Reports-Second-Quarter-Results.html
+Jackson, E. (2016). Apple isn’t a hardware or software company – it’s an ecosystem company
+	Retrieved April 28, 2015 from 
+	http://www.forbes.com/sites/ericjackson/2014/06/03/apple-isnt-a-hardware-or-software-
+company-its-an-ecosystem-company/#927a2a553231
+Keizer, G. (2016). Significant increase over its take the year before.
+	Retrieved April 29, 2015 from 
+	http://www.computerworld.com/article/3019716/apple-ios/apples-cut-of-2015-app-store-
+revenue-tops-6b.html
+Kharpal, A. (2016). Apple service revenue outstrips Macs, iPads; seen as key growth driver.
+	Retrieved April 28, 2015 from 
+	http://www.cnbc.com/2016/04/27/apple-service-revenue-outstrips-macs-ipads-seen-as-
+key-growth-driver.html
+Novet, J. (2016). Apple acquires spatial perception startup Flyby Media.
+	Retrieved April 29, 2015 from 
+	http://venturebeat.com/2016/01/29/apple-acquires-spatial-perception-startup-flyby-
+media-reportedly-has-a-secret-vr-team/
+Owens, J. (2016). Apple isn’t really sitting on $216 billion in cash.
+	Retrieved April 26, 2015 from 
+http://www.marketwatch.com/story/apple-to-issue-10-billion-to-12-billion-of-bonds-to-finance-share-buybacks-dividends-2016-02-16?dist=countdown
+Popper, B. (2016). Apple sees its revenue decline for the first time in 13 years.
+	Retrieved April 27, 2015 from 
+	http://www.theverge.com/2016/4/26/11510312/apple-q2-second-quarter-2016-earnings
+Ramsey, M. (2016). Apple gears up to challenge Tesla in Electric Cars.
+	Retrieved April 27, 2015 from 
+	http://www.wsj.com/articles/apples-titan-car-project-to-challenge-tesla-1423868072
+"
+3,2016-08-18,dubai_newb,0,"What is on your current ""potential X-bagger"" list? And why?","I'm currently looking at OLED as the mobile display industry attempts to transition to lower power consumption.
+
+SODA is an interesting space. Likely a target for acquisition rather than organic growth.
+
+I see NVDA as a ~100Bn value in three to five years as mobile data processing in cars becomes more mainstream. [1]
+
+TSLA already an 8-bagger for me. I see it as the first trillion dollar corp in 20 years.
+
+
+[1]   ""Earlier this year, Volvo announced it had partnered with chipmaker NVIDIA to use its deep-learning computers to power Intellisafe Autopilot during the DriveMe pilot. 
+NVIDIA’s platform for self-driving cars, which is called Drive PX 2, basically gives the car deep-learning capabilities. Deep-learning is a type of machine-learning where computers are able to teach themselves by sifting through tons of data."""
+4,2016-09-27,jazzydat,18,Machine Learning based trading algorithims,"As much as people invest based on valuation factors, I feel that a lot of investing is based on the theory that it should work as opposed to having proof that it does work.  This would be based on CAGR and sharpe ratios to ensure your idea actually has legs.
+
+Is there any site out there that allows you to identify a strategy and provide relevant factors that would help you pick out stocks.  Figure for a long term trading strategy you may use 6 or12 month momentum but for shorter time period trades, 10 or 50 day moving averages would be better.  
+
+I have a similar idea around the concepts of fundamentals and ratios but have not run into sites that let you screen and backtest using those fundamentals so would appreciate any guidance on that end!"
+5,2016-09-21,chaddjohnson,0,How much of an indicator can machine learning provide in detecting good versus bad market conditions?,"I generally buy and sell weekly as stock prices fluctuate with volatility. I am exploring the idea of using a machine learning algorithm to consider various economic conditions (inputs) and provide insight (output) into whether any given day is a safe day to buy, given market conditions, for a particular stock. Thus I'd like to determine the risk related to investing at any given time. I'm only trying create a model of current conditions; I'm not seeking to predict prices.
+
+For example, it seems more likely that a market correction may occur (and it is bad to buy) when the S&amp;P 500 is pretty high, VIX is low, and the dollar is high.
+
+Similarly, it seems less likely a market correction may occur (and it is good to buy) when indexes are not extremely high, the VIX is relatively higher, and the dollar is relatively lower.
+
+Here is a compiled list of possible factors an algorithm could use as input:
+
+* Fear/volatility index (VIX)
+* GDP or GDP growth
+* Current interest rate
+* Current unemployment rate
+* Current Federal funds interest rate
+* Employee pay
+* Housing market data
+* Gold prices
+* Dollar value
+* Time of year (e.g. September is historically a bad month to invest)
+* Oil price
+* Bond prices
+* Index growth
+* Time until next Fed meeting
+* Month price change %
+* Day price change %
+
+...and other factors (suggestions welcome).
+
+Any thoughts?"
+6,2016-10-13,shane_stockflare,18,stockAday: what's driving Mobileye? $MBLY,"# Key Stats for Mobileye NV
+
+Ever since Uber and Tesla appeared there's been a ""driverless / eco-friendly"" theme to transport. Mobileye is one of the few pure plays. So what's driving it?
+
+|Ticker|[MBLY](https://stockflare.com/stocks/mbly.k)
+|:---:|:---:|
+Sector | Application Software
+Latest price | $38.24
+Value | $8,383M
+Daily vol | $95M
+Date | 13 October 2016
+
+### Useful Links
+* Latest news from [Google Finance](https://www.google.com/finance/company_news?q=mbly) and [Yahoo Finance](http://finance.yahoo.com/quote/mbly)
+* Latest results from [SEC Edgar](http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=mbly&amp;type=20&amp;dateb=&amp;owner=include&amp;count=10)
+* Website: [http://www.mobileye.com](http://www.mobileye.com)
+
+# Description
+Mobileye N.V. is engaged in the development of computer vision and machine learning, data analysis, localization and mapping for advanced driver assistance systems (ADAS) and autonomous driving technologies. So it's one of the key tools for driverless cars!
+
+In numbers:
+
+* 25 global automakers
+* available in 221 car models from 19 OEMs
+* installed in approximately 9.7 million vehicles worldwide 
+
+The business model is to supply Tier 1 auto parts companies who then combine Mobileye with their offerings and deliver to the end manufacturers. OEM clients include: Autoliv, Delphi, Gentex, TRW, Valeo. End users inc. Fiat Chrysler, BMW, GM, Ford, Honda, Tesla, Volkswagen, etc. Surprisingly Toyota isn't on the list.
+
+## Recent financials 
+
+
+It's clear that the technology is in rocket ship mode. And that's now converting to profits.
+
+|Metric|2015A|2014A|2013A|2012A|2011A|
+|:---|:---:|:---:|:---:|:---:|:---:|
+|Revenue | $241m | $144m | $81m | $40m | $19m|
+|EPS | $0.29 | -$0.28 | -$6.03 | $0.00 | -$0.33|
+|No. of shares | 238m | 108m | 37m | 40m | 40m|
+
+But is the business going to hit hyper speed? Well, Wall St's projecting sales of $347m this year (up $100m, after adding $100m is sales last year) and projection of $497m in 2017, i.e up substantially more the following year.
+
+## Competition
+
+There's own description of the competitive situation isn't that useful in their annual report. So recommend this commentary at [Quora](https://www.quora.com/Who-is-competing-directly-against-Mobileye-in-the-market-for-Advanced-Driver-Assistance-Systems-ADAS)
+
+Seems there are multiple auto-parts and technology companies playing in the space, but Mobileye has the lead. Though Panasonic and Nvidia aren't far behind.
+
+|Companies|Latest Sales|Operating Profit|Return on Equity|
+|---------|:------------:|:----------------:|:----------------:|
+Mobileye NV | $301M | 35% | 18%
+ADAS competitors |   |   |  
+NVIDIA Corporation | $5,439M | 24% | 21%
+Panasonic Corporation (ADR) | $71,457M | 9% | 9%
+Mobileye NV | $301M | 35% | 18%
+other players |   |   |  
+Autoliv Inc. | $9,713M | 12% | 16%
+Delphi Automotive PLC | $15,767M | 17% | 46%
+Gentex Corporation | $1,625M | 35% | 19%
+Harman International Industries Inc | $6,912M | 12% | 15%
+Texas Instruments Incorporated | $12,899M | 43% | 30%
+
+## Cash / Debt?
+
+Mobileye NV has $290M of net cash. That is the equivalent of 3% of the market value of Mobileye NV. Given the business is cashflow positive, I can only assume this is going to grow!
+
+# Wall Street thinks?
+
+The professionals on Wall Street have a $58.67 for Mobileye NV and their recommendation to clients is _Buy_. That implies an upside of 53% to their target. In fact it the last 3 months even though the stock may be off 20%, Wall Street's upgraded their price target from $55 to $59.
+
+# Valuation
+
+So the rosy picture only hits the rocks when we see the price. At 54x earnings 2016, I get sticker shock. Look out a year to 2017 when earnings are forecast to be $1.07 (up 50%) and its 36x. Still a shock, but more in line with NVDA.
+
+[View Peers](https://stockflare.com/$/stocks/mbly.k/breakdown/peers)|Valuation|Forecast PE|Long-term Growth|Dividend Yield|FCF Yield|
+|:--------|:---------:|:-----------:|:----------------:|:--------------:|:---------:|
+MBLY.K | $8,383M | 54x | 48% | 0% | 1%
+ADAS competitors |   |   |   |   |  
+NVDA.O | $35,540M | 36x | 21% | 1% | 3%
+PCRFY.PK | $24,625M |16x | 12% | 2% | 22%
+other players |   |   |   |   |  
+ALV | $9,041M | 15x | 8% | 2% | 12%
+DLPH.K | $18,458M | 11x | 13% | 2% | 11%
+GNTX.O | $5,082M | 15x | 11% | 2% | 10%
+HAR | $5,687M | 12x | 15% | 2% | 12%
+TXN.O | $68,680M | 22x | 13% | 2% | 8%
+
+But frankly, the earnings figure is sort of irrelevant. This is a top line story. As long as they can show substantial growth at the topline and better still an acceleration in revenues, then, the current valuation looks fair. 
+
+On the other hand, if the engine splutters, the stock will hit the skids. (please excuse the puns).
+
+# Dividends
+
+And of course, they aren't forecast to pay a dividend this year. This is a growth stock!
+
+# Catalysts
+
+In the last 3 months the stock price has moved by -20% that compares with a change in the earnings forecasts of 3%. That's against a backdrop of sales up 60% in the 6 months to June and earnings up 90%.
+
+On the management team's latest call with Wall Street brokers, they discussed new partnerships, the need for industry standardization, and their relationship with Tesla which has got a lot of press. Nothing in the call indicated any danger to their near term forecasts. 
+
+Though they've not given an indication for 2017. As we approach the end of the year, and we start shifting our thinking forward, I suspect that will impact the forecasts and stock.
+
+For now, I'm undecided on their top line, so given the high valuation, I'm not joining the ride.
+
+***
+View the archive of Stock a Day posts at its subreddit r/stockaday.
+
+And please send us suggestions on what you'd like us to research next! 
+
+If you'd like to join the writing team please get in touch. Our writing template is [available here](http://pages.stockflare.com/research/) if you'd like to use it to pen your own stockAday type posts :).
+***
+**Disclosure**: I have no positions in any stocks mentioned. Note: I may initiate a position within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article. Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk.
+***
+Author notes: u/shane_stockflare works at a financial website, [Stockflare](https://stockflare.com), and is a Chartered Financial Analyst. Previously he worked at Credit Suisse, where he was an equity research analyst covering tech stocks and at Citigroup where he was an investment banker. "
+7,2016-11-30,Earlstoddard,0,"Investor(s); Thoughts to Ponder when working with the next FB, MS, APPLE, SpaceX (BIG IDEA).","Investors looking for that Hole In One Idea... This is a little long, but I guarantee a great read for you.
+
+Many of these posts are about, where do I put my money? How do I conduct my due diligence? Are there any APPLES, Microsoft's, Facebooks, or has everything been invented. 
+
+The answer to this is, we are really on the cusp of some technological leaps that are going to put these last advances to shame. 
+
+Most technology that has been invented has been quite DUMB...Great at collecting, saving, retrieving, collaborating, etc... Still, though, creating silos of information that just sits on little islands waiting to be handled. 
+
+Here we are now at the edge of something new called ""Machine Learning."" The ability to exponentially grab millions of lines of data, mathematically process it (algorithms), the provide a result that will guide person, machine, application... anything at the ""Speed of Live."" 
+
+There are areas today that are earning investors significant returns into the future. Let's name a few... Uber, Travel Web Sites, Autonomous Cars, SpaceX, Tesla, Stock Market Analysis Engines ( Maybe on the edge of ethically illegal), you get me drift here. Things that process millions of lines of information in milliseconds giving a result that would have taken hours, weeks or months before. Let alone systems out of Darpa and MIT for Defense programs. Scary! 
+
+But yes, all of which require investors. Smart, savvy investors that understand that to bake a loaf of bread needs time for the yeast to raise, and great bread, must be knocked back down several times over before it then must spend time in the oven before it goes to market. 
+
+These investors are not those that are going to watch gains and losses daily but be about exploration of the unknown. Believe in a principle and participate to the point to where they do not hinder or stop the progress of innovation. 
+
+Innovation and Investment go hand in hand. Many investors I meet that get involved in innovation say, well let the customer pay up front? Sell it first! These I believe will be the wrong investor. These investors need to be investments making widgets, which then drop the returns down to less than the stock market. 
+
+Let's look at Elon Musk who must have sounded crazy when he went into launching spacecraft. He was quoted as saying, he was unsure if he could even get a rocket into space safely. He knew by his education, innovative, creative drive and his passion he could take a few investors on a ride of their life. Today, his company, not without risk, is creating huge competition against the Boeing, Lockheed, and others. Creating Competition that is driving our space programs in the US towards goals much faster than NASA alone could. This is called capitalism at its best. Some of these early investors are going to make incredible amounts of money with Elon Musk. 
+
+Here are other tips...I have found in my experience with dealing with these investment deals myself. 
+
+The typical, let's look at your portfolio, customers, etc... are not always appropriate in what I call ""Exponential Opportunities,"" these are opportunities yielding 30:1 ratios across 3 to 5 years. Allow the company you are investing in, the small investment to express themselves in a small scale version of their end product. 
+
+You are saying WHAT? Yes, rather than saying SHOW ME NOW, YES OR NO...cultivate and peel back the onion on the artist, the technologist, the futurist that sits in front of you. 
+
+This is where it get's crazy...which innovation is not a science, it has so many unknowns on how it is derived and gifted to those that have it. Spend a little money. Not on Due-Diligence, or testing of financials, but the testing of the idea. Give the innovator the tools to animate the concept in a media that can be understood by all. Then you will then, only then, start to see the potential of the technology behind it. 
+
+I am sure that Elon Musk did not build a rocket first in the desert and keep firing it off. He proved it in principle, through modeling and animation. He showed the possibility, and at the same time he was showing his development team through that investment what had been parked in the back of his mind for so long. 
+
+What is humorous about this, is every investor wants an Elon Musk in their portfolio. But they do not know how to work with the wild world of technological innovation on a big scale. 
+
+What is funny, is that it is almost proven that innovators are dot connectors. They see the end picture; the see the raw physics behind their invention. This does not translate well in columns and rows. 
+
+The key in all of this, to put this into columns and rows, is what is the need for this technology. Can the technology not just be an island in itself but drive the old technologies. 
+
+For instance. Let's go back to Elon. He has figured out a more efficient way to build rockets, launch them, retrieve them to fuel programs already on the books. 
+
+Machine Learning, Deep Learning, Administrative Assistants, Teaching Assistants, Manufacturing Assistants (Robotics), etc... are all about vision, possibilities, innovation that can't be captured in your accountant's ledger. Not until you see the scaled model work, and a small team understands where it fits into the puzzle of the markets. 
+
+If you are an investor, do you want 5% returns (Zero Risk), 8% - 12% returns (Stocks), or are you ready to allow your money cultivate innovation with the right gifted mind or company with the next big thing! 
+
+I have theories on how to work with innovators, and that if companies are creating new Exponential Growth products, you need not salesmen, but investment managers and department to manage the lifecycle, inflows, and outflows of technological portfolios. 
+
+I have a passion for companies that have holistic growth from an idea to a market-wide product. These are not anomalies; these are processes that when controlled and worked with can be very predictable and controlled. 
+
+I am hoping this grows into a conversation that can inspire and give foresight into the scary world of investments on edge. They do not have to be on the brink if you spend a little before you invest a lot. And once you understand innovation and technology, you can see where these innovators are not crazy mad people, but dreamers... their world is not about the money, it is about getting their idea working in reality. Give them the space, time, resources... Hire an illustrator/animation team to extract their idea, so everyone can then touch it, see it, smell it..., etc...
+
+Share your thoughts as an investor, how do you deal not with the stock portfolio or widget factory, but the guy turning nothing into something. You put that in your portfolio, you have a story and the wealth to show it. 
+
+My bottom line is: I believe all this talk about market testing, columns and rows and 100's of pages of due-diligence is wrong. You put the right investor(s) and the latest Elon Musk together; you have an engine of wealth. 
+
+Now that you made it to here... Vote me up, Link, spread the word? Feel free to send a reply! Love it!
+
+Earl... 
+"
+8,2016-11-28,cb_hanson_III,206,"To predict the stock market with some indicator X, we do not need a causal relation between X and stock returns.","I posted the original question in a [separate post](https://www.reddit.com/r/investing/comments/5f0eew/to_predict_the_stock_market_with_some_indicator_x/).
+
+A few people came to the right conclusion that X does not need to be causal in order for it to be potentially useful in predicting returns.
+
+A simple example shows why. Smoking causes cancer. It also causes people to huddle outside their buildings a few times during their work day. Does standing outside cause cancer? No.
+
+But does the fact that we see someone standing outside her office building on a regular basis, change our prediction of whether she will get cancer? Yes. (For clarity you can assume that you can see them standing, but not what they are doing.)
+
+This is no different from what all the machine learning people are doing in Silicon Valley. These engineers don't care (nor usually have a clue) about causation. They just want to make predictions. And for this purpose we don't need causation.
+
+When would knowing a causal relationship help? It's necessary if we are making some sort of change in the situation and want to predict the outcome. For example what will happen to the economy if we change fiscal or monetary policy in some way? This is why macroeconomists are so focused on establishing causal relationships.
+
+In our example, suppose we observed that standing outside is correlated with higher cancer. So we change our policy and allow people to smoke in designated smoking rooms inside the building. Would this decrease the incidence of lung cancer?
+
+**TL,DR:** Don't blurt out ""correlation does not imply causation"" without thinking whether it applies. The statement is true, but may not mean what you think it does in the context of prediction."
+9,2016-12-28,needhope1985,0,Thoughts on AMD...,"I'm new to investing but have been following the market an this sub. I have recently invested 25k GBP into 3 different funds, but i am interested in picking an individual stock after seeing the gains on NVIDIA. Will AMD see similiar gains?
+
+I did some research and it seems that the growth in the VR market, IoT and machine learning seems to be driving the growth, plus the new cards released earlier this year. 
+From what i've read is that AMD suffers with issues in terms of creating apps and software for machine learning, this however has changed with a company creating some software that easily converts NVIDIA machine learning software to be converted to be used on AMD machines...
+"
+10,2016-12-28,Empath_,1,"If you were going to create a Machine Learning/Automation index fund, what would be in it?","We already know that AMD and NVIDIA have had huge run ups, and that GPU companies are basically like investing in shovels during the gold rush (and the reason I bought into Nvidia at $32), but what other companies stand to benefit?
+
+I've been thinking about going all in on machine learning in my stock picking fund, and I've come up with a few categories:
+
+GPU/Hardware: nvidia, and amd.
+Questions: What about FPGA manufacturers?  Is there anybody working on machine learning optimized chipsets (rather than repurposed GPUS?
+
+Data: Facebook, Google.
+Questions: What other companies are building massive datasets that could be used to feed machine learning platforms?  Are there any failing or failed companies setting on massively valuable datasets that make them attractive purchase targets?  What about something like a 23 And Me?
+
+Cloud Infrastructure: Amazon, Google, MS.
+Questions: Are there any cloud providers with a more singular focus on building out machine learning platforms?
+
+Advertising, Software Applications: Google, Facebook (maybe Verizon with AOL/Yahoo/Mobile platform?)
+
+Robotics/Self-Driving Cars: Tesla, Google.
+
+Defense Contractors: Which defense contractors are focused on autonomous weapons platforms?
+
+What am I missing?  What shouldn't be here?
+
+If you were going to put together a fund that represents all of the potential and pitfalls of machine learning and automation, what stocks would you pick?  Should a basket of cryptocurrencies be in the mix as well?"
+11,2016-12-28,bortkik,4,Uber vs Waymo (Alphabet subsidiary) vs ______: Who's better and why?,"I've had a hard time finding a lot of real, technical info on the upcoming self-driving industry, so I was hoping some friendly folks could state their arguments and what they know (either hard facts or what current/former employees have said).
+
+To my knowledge, Alphabet's Waymo and Uber are the only major companies targeting level 5 automation out of the gate. It is my understanding that this is the best approach to developing level 5, which is where the big industry will be. Other companies, like Tesla, seem to be trying incremental upgrades from level 2, 3, etc, and that's seems like it just wouldn't fundamentally work.
+
+I could also target component manufacturers for autonomous vehicles. I already am invested in machine learning and networking, so that's out. I have Cognex shares, solely for their manufacturing usefulness, but I think they've at least dipped their toes in driving technologies. Mobileye is an option, but I don't know what their competition is. It very well could be that, like PCs, you want to be the person selling the chips (like Intel), not the one selling the whole device (like HP or Dell). Then there's the operating system. It seems people tend to view Uber or Waymo as the future analogy of ""Windows"" for cars, in that nearly every car with run on it. Maybe being Uber or Waymo in 5-10 years would actually be analogous to one of the countless, nearly identical cloud service offerings that we see today. In other words, there's much less of a network effect. After all, who would ~~invest~~ bet the farm on America's transportation system with a single network provider?
+
+
+
+Please discuss!"
+12,2016-12-21,fintwit,0,Looking for some feedback/beta users...,"Hi Everyone;
+
+I'm not sure if this is kosher to post this here (If it is not, i apologize).
+
+I got tired of trying to sort through all of the crap on Twitter to find the good Finance data. There is a TON of useful information, but it's under a mountain of crap. Additionally it takes a long time to find and developer a follow-list of good/reliable souces on there. 
+
+So, I enlisted some friends, and we've developed a *free* website that uses AI-type technologies like Machine Learning, Natural Language Processing, etc. It's basically a ""smart"" tweetdeck focused on investing/financial twitter.
+
+We've been using it and working on it for so long, that i wanted to get some 'fresh' minds using it, to see how we can improve it and make it more useful to the investing community.
+
+Would anyone here be interested in checking it out and giving us some feedback?
+
+Thanks!"
+13,2016-12-05,3lRey,2,Auto-Trading friendly API's,"Hey all,    
+     
+I'm a student studying Machine Learning and I just so happen to have a background in finance. I've been wanting to build something enjoyable, but I'm finding there's almost no investment tools that have programmer-friendly API's. I can't even get robin-hood's without a fictitious name.    
+    
+Does anyone have any experience with this or suggestions? "
+14,2016-12-05,isrly_eder,3,Amazon Go discussion thread,"As a shopper and prime user, [Amazon Go looks pretty incredible](http://www.wsj.com/articles/amazon-grocery-store-concept-to-open-in-seattle-in-early-2017-1480959119). Of course, this doesn't necessarily translate to returning shareholder value. 
+
+[First ad out today.](https://www.youtube.com/watch?v=NrmMk1Myrxc&amp;feature=youtu.be) is generating a fair amount of hype. 
+
+The key points:
+
+* Amazon go signals AMZN's desire to commit to brick-and-mortar stores
+* it joins Amazon Fresh in their grocery portfolio
+* uses machine learning algorithms to track shoppers and enable a checkout-free experience
+* first concept store coming to Seattle next year 
+* Analysts note high purchase frequency rates for groceries, high grocery purchase rates for millenials
+* AMZN up 2.4% today, although the market as a whole is up too
+* end of the dreaded self-checkout 
+* first mover advantage in bringing machine learning and 'computer vision' tech (elsewhere used for self-driving cars) to the grocery model? "
+15,2016-12-04,sgasgdsgbdsg,8,AMD's next-gen cpu and gpu chips equal the best from intel and nvidia for the first time 10 years. Do you think AMD could shoot up to $90+ like Nvidia did?,"Nvidia chips are so powerful that they're no longer a video card company but one of the few providers of hardware powerful enough for energy-efficient deep machine learning. 
+
+If AMD can start making chips that are equally as powerful(see here about their upcoming [gpu](http://www.hngn.com/articles/219370/20161130/amd-vega-10-beat-nvidia-pascal-gtx-1070-1080-launch.htm) and [cpu](http://www.amd.com/en-us/press-releases/Pages/zen-processor-core-2016aug18.aspx)) could we see them go from $8 to ~$80 in the next 18 months? 
+
+Everyone's been talking about Nvidia, but I wonder if perhaps a large new market in deep learning/AI has opened up for videocards as a device in general.
+
+So far in 2016, AMD has already risen from $2 to $8.
+
+
+"

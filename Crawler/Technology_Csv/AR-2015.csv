@@ -1,0 +1,539 @@
+,created_utc,author,score,title,selftext
+0,2015-01-15,shittyglassblower,2,Whats Your Thoughts on Being an Accounts Receivable Factor?,"A client of mine asked if I wanted to be an accounts receivable factor. The owner is offering me the same rates as what the bank offered him (51% at a day rate) and offered to guarantee it out of his personal retirement account. To my ignorant self, this seems like easy money.
+
+Has anyone dealt with being an AR Factor? Do you need a license? How does it get taxed?"
+1,2015-02-23,Vycid,46,Anatomy of a Pair Trade: Subverting the Risk Premium,"Hi folks,
+
+Today I am going to provide an example of how I believe it *is* possible to beat the market... on a risk-adjusted basis.
+
+This is about the short CCA.TO / long CGO.TO trade [I've been promising to make a post about ""soon""](http://www.reddit.com/r/investing/comments/2rzfls/crowdsourcing_active_investment_management/co25w3s?context=1) [for about a month](http://www.reddit.com/r/investing/comments/2t47q6/why_this_sub_will_remain_a_shitty_sub/cnvuyla). Sorry 'bout that. The borrow through IB has been pretty spotty so I've been worried about a buy-in on CCA.TO. At this point I'm pretty confident that the lender's AQS system is just messed up (I saw 30,000 shares available to short one day, 0 the next).
+
+
+
+There are two things I want to explain in this post:
+
+1) The fundamental and statistical methods by which I evaluated the Cogeco pair trade (and why I concluded it was a really spectacular opportunity)
+
+2) How I moved from that theory to establishing a market-neutral position
+
+Before I get into the details, I want to be clear about a few things: 
+
+* I'm not a quant or a finance professional
+* Since I'm not an expert, I don't know if any of the content of this post is *actually* correct
+* My motivations for sharing include A) validating that my logic *is* correct and B) the fact that I directly profit if anyone else opens this trade. So open this trade at your own risk.
+
+Just as a quick introduction to the assets: COGECO, Inc. (CGO.TO) is the Canadian parent of the Canadian cable company COGECO Cable, Inc. (CCA.TO). COGECO owns 32% of the equity in COGECO Cable, but maintains full control because the CCA.TO shares have subordinated voting rights.
+
+So the big question here is, why would you ever go long one asset and short another if those assets should be equivalent? As our esteemed friend observes, [isn't that like going long GOOG and short GOOGL](http://i.imgur.com/m90MXyi.png)? If the assets are really equivalent, doesn't the EMH imply that there should be no expectation return from doing so?
+
+The answer is that there's no expectation return *given an arbitrary starting time, and an arbitrary exit time*. Because the EMH is made up and there's actually a lot of meaningless noise in security prices, it is possible to identify trades with an expectation return quite a lot larger than zero.
+
+In fact, [there's been a lot](http://money.stackexchange.com/questions/30005/does-it-make-sense-to-trade-my-googl-shares-for-goog-and-pocket-the-difference) [of talk about](http://seekingalpha.com/article/2223103-goog-vs-googl-a-classic-pairs-trade) [the GOOG/GOOGL pair trade](http://dealbreaker.com/2013/06/lets-hack-googles-share-split/). However, the spread between the two has never grown to the point that the risk-adjusted expectation return of the pair trade would outstrip the index so greatly as to be worth the hassle. This isn't a surprise, because Google's share volume is immense, the borrow is super easy, and there are tons of banks eyeballing it all the time.
+
+The modest benefit the marginal buyer would get from purchasing the cheaper of GOOG or GOOGL has been sufficient to keep the two trading in a relatively tight band.
+
+This happens not to be the case for COGECO.
+
+---
+
+Understanding the corporate structure is the first step in a trade like this, because voting rights may have some value. [Fortunately, the Canadian version of the FCC has done the heavy lifting already.](http://www.crtc.gc.ca/ownership/eng/cht043.pdf)
+
+The conclusion is clear: Ms. Marie-Jeanne Audet controls the whole shebang, through her family office. Voting rights are pretty much irrelevant, since power isn't likely to transfer away from the Audets any time soon. So although there might hypothetically be more voting power (and therefore value) associated with a CGO share than a CCA share, it's probably negligible.
+
+Next is validating CGO's 32% equity interest in CCA, and determining if there is a net positive or negative value associated with their other businesses (on the flowchart you will notice CGO's 100% controlling interest in local radio).
+
+Here's [CGO's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cgo.pdf), and [CCA's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cca.pdf).
+
+[Here's the relevant excerpt from the CGO report.](http://i.imgur.com/FoxAz05.png) It's clear that there is a 32% equity interest, and the 82.5% voting rights lines up with the CRTC flowchart.
+
+But what are Cogeco Diffusion Acquisitions Inc. and Metromedia CMR Plus Inc? Does CGO itself have any operations? What is CGO's independent debt?
+
+Consolidated accounting can make it a pain in the ass to figure the operations stuff out, [but fortunately CGO enumerates their debt](http://i.imgur.com/hl2MKfs.png). The parent company has $96.547 million CAD in excess debt.
+
+In order to get a ballpark value for the independent CGO operations, I subtracted to get the yearly revenue from the non-CCA segment.
+
+[Consolidated](http://i.imgur.com/9stHE5s.png)
+
+[Cable segment (CCA)](http://i.imgur.com/GvVjNCW.png)
+
+In 2014 the revenue attributable to CGO's non-CCA operations was $148.447 M CAD; in 2013 the differential was $141.791 M CAD. The Adj EBITDA was $14.905 and $17.919.
+
+The EBITDA isn't headed in the right direction but the revenue is, and I'm fairly confident that those numbers fully justify the excess $100M or so of debt.
+
+Alternatively, using the Shareholder's Equity values instead ($513.965 M CAD for CGO, $1508.256 M CAD for CCA), the ratio is 34%.
+
+All in all it seems a very reasonable assumption that the fair market cap of CGO is *at least* 32% of CCA's market cap.
+
+At Friday's close, the ratio stood below 28.6%, implying over 10% upside if the fair value is 32%. *Intredasting.*
+
+___
+
+So now it's on to the good part. Armed with a physical explanation for *why* the market cap of CGO ought to average around 32% of the market cap of CCA, the next question is, *does it*?
+
+[Wolfram Alpha says ""yes"".](http://i.imgur.com/MY9CeMd.png)
+
+But that isn't good enough... it's statistics time.
+
+[A histogram of the daily adjusted close data from 1/3/2011 to 12/31/2014 looks like this.](http://i.imgur.com/13EmKOw.png) Shapiro-Wilk says it's not normally distributed, but Shapiro-Wilk breaks down for large n anyhow.
+
+So this is a classic case of statistical ""good enough"".
+
+(There hasn't been a lot of dilution in the past few years that would make it inappropriate to use price as a proxy for market cap).
+
+Major take-away: the 95% CI for the population mean CGO/CCA ratio is (0.945, 0.950). μ = 0.947.
+
+CCA closed at $76.49 CAD on Friday. CGO closed at $63.76 CAD, for a ratio of about 0.834. Again we see more than 10% upside.
+
+CCA has 48.79M shares outstanding, and CGO has 16.73M shares outstanding, so the market-cap ratio implied by μ is 0.947 * 16.73/48.79 = 32.5%, which also agrees well with the 32% assumption.
+
+The physically-implied value of μ (which I use instead, since it is a less aggressive assumption, and since the O-U estimate is better anyhow) is μ * 16.73/48.79 = 32%, or
+
+**μ = 0.93322**
+
+So clearly this is a profitable trade, and the risk is very small, since by going long CGO and short CCA you are completely market-netural. The important question becomes ""what is the expectation time for mean-reversion?""
+
+___
+
+An [Ornstein–Uhlenbeck process](http://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) is defined as follows (italics indicate subscript):
+
+dx*t* = λ(μ - x*t*) dt + σ dW*t*
+
+Where λ is the speed parameter, μ is the mean, and σ is the volatility.
+
+In other words, it's the continuous-time version of the AR(1) process. Simply, it is a time series which is expected to oscillate symmetrically about a mean.
+
+The useful characteristic of the O-U process is the λ parameter. A fairly trivial proof will demonstrate that the half-life of the process (i.e., the expectation time for the CGO/CCA ratio to revert halfway to the mean) is equal to ln(2)/λ. So the goal now is to estimate λ.
+
+A naive derivation of the discretized equation would look like this:
+
+x*t* - x*t-1* = λ(μ - x*t-1*) Δt + σ dW*t*
+
+x*t* = x*t-1* + λ(μ - x*t-1*) Δt + σ dW*t*
+
+Since this fits the form y = a + bx + ε, it could then be regressed with ordinary least squares to obtain an estimate of λ, since λ = b / Δt.
+
+However, [Gillespie points out](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.54.2084) that this naive derivation is not correct for sufficiently small Δt. The corrected equation is
+
+x*t* = (1 - e^(-λΔt))μ + e^(-λΔt) * x*t-1* +  σ √((1 - e^(-2λΔt)) / (2λ)) dW*t*
+
+Fortunately, this still fits the y = a + bx + ε form, with b = e^(-λΔt) and therefore λ = - ln(b) / Δt. However, in this case, y = x*t* and x = x*t-1*.
+
+[Performing the fit, b = 0.9548904, with a standard error of 0.0096.](http://i.imgur.com/tK7f5cU.png)
+
+And so the estimate of λ =  b / Δt = - ln(0.9548904) / day = 0.04616 / day.
+
+Then, the half life is ln(2) / λ = ln(2) / 0.04616 = **15.02 days.**
+
+However, λ is a notoriously difficult parameter to estimate. As a sanity check, I propagated the 95% CI for b through to λ (statistics folks: any input on this?)
+
+So the bounds are b ± standard error * 1.96 (Z-score at 95% confidence): 
+
+0.9548904 ± 0.018816 = (0.9172584, 0.9737064)
+
+So the 95% ""half-life interval"" would be (ln(2)/(-ln(0.9172584), ln(2)/(-ln(0.9737064)) or
+
+**(8.03 days, 26.01 days)**
+
+I prefer to use the high bound of 26 days to evaluate the opportunity.
+
+___
+
+So this brings us to the execution phase. By the most conservative estimates, it is expected that the ratio will collapse 0.0495 - half the distance from 0.834 to 0.933 - in no more than 26 days. In other words, if you were able to trade the CGO/CCA ratio directly, the expectation return would be 5.94% in 26 days, or an annualized return of **about 83%**. Moreover, there's essentially no risk involved, because these two companies are highly correlated - a large fraction of the change in the ratio is the mean-reversion ""signal"", and the Sharpe ratio would be astronomical.
+
+Plus, downside risk is miniscule, since this is already a major excursion (~2.5 sigma).
+
+Unfortunately, as I mentioned at the beginning of the post, getting a borrow is challenging. I (and anyone else who is a US resident) cannot trade Canadian options, [because the SEC is run by a bunch of dipshits](https://web.archive.org/web/20071029061139/http://www.futuresindustry.org/fi-magazine-home.asp?a=960). Anyone who *does* live in Canada can establish a synthetic short with CCA options and set up a pretty big position that way.
+
+(I just had to wait until shares showed up and then grabbed them.)
+
+In order to avoid exposure to CAD, I tried to set my net Canadian equity exposure to zero. In other words, the size of my long CGO position is equal to the size of my short CCA position.
+
+So at Friday's close ($76.49 and $63.76), for every round lot of CCA I was short, I'd get short 100 * 76.49/63.76 = 120 shares of CGO.
+
+If CCA decreasing was responsible for 1/2 mean reversion, the profit would be:
+
+63.76 / (76.49 - x) = 63.76 / 76.49 + 0.0495 
+
+x / (2 * 76.49) = 4.28759 / (2 * 76.49) = **2.80%**
+
+If CGO increasing was responsible, the profit would be:
+
+(63.76 + y) / 76.49 = 63.76 / 76.49 + 0.0495 
+
+y / (2 * 63.76) = 4.28759 / (2 * 63.76) = **2.97%**
+
+Most likely, it will somewhere in between due to the action of both.
+
+Because the risk here is so low, it probably makes sense to use some margin (I did, about 1:1.6, so my expectation return is roughly 1.6x higher than calculated above). 
+
+Assuming the 1.6x leverage, expectation return should be ~4.5% to ~5% in a month.
+
+It's worth mentioning that a major quirk of this whole deal is that profit/loss will be denominated in CAD.
+
+Thanks for reading and happy trading."
+2,2015-02-23,[deleted],1,Anatomy of a Pair Trade: Subverting the Risk Premium,"Hi folks,
+
+This is about the short CCA.TO / long CGO.TO trade [I've been promising to make a post about ""soon""](http://www.reddit.com/r/investing/comments/2rzfls/crowdsourcing_active_investment_management/co25w3s?context=1) [for about a month](http://www.reddit.com/r/investing/comments/2t47q6/why_this_sub_will_remain_a_shitty_sub/cnvuyla). Sorry 'bout that. The borrow through IB has been pretty spotty so I've been worried about a buy-in on CCA.TO. At this point I'm pretty confident that the lender's AQS system is just messed up (I saw 30,000 shares available to short one day, 0 the next).
+
+
+
+There are two things I want to explain in this post:
+
+1) The fundamental and statistical methods by which I evaluated the Cogeco pair trade (and why I concluded it was a really spectacular opportunity)
+
+2) How I moved from that theory to establishing a market-neutral position
+
+Before I get into the details, I want to be clear about a few things: 
+
+* I'm not a quant or a finance professional
+* Since I'm not an expert, I don't know if any of the content of this post is *actually* correct
+* My motivations for sharing include A) validating that my logic *is* correct and B) the fact that I directly profit if anyone else opens this trade. So open this trade at your own risk.
+
+Just as a quick introduction to the assets: COGECO, Inc. (CGO.TO) is the Canadian parent of the Canadian cable company COGECO Cable, Inc. (CCA.TO). COGECO owns 32% of the equity in COGECO Cable, but maintains full control because the CCA.TO shares have subordinated voting rights.
+
+So the big question here is, why would you ever go long one asset and short another if those assets should be equivalent? As our esteemed friend observes, [isn't that like going long GOOG and short GOOGL](http://i.imgur.com/m90MXyi.png)? If the assets are really equivalent, doesn't the EMH imply that there should be no expectation return from doing so?
+
+The answer is that there's no expectation return *given an arbitrary starting time, and an arbitrary exit time*. Because the EMH is made up and there's actually a lot of meaningless noise in security prices, it is possible to identify trades with an expectation return quite a lot larger than zero.
+
+In fact, [there's been a lot](http://money.stackexchange.com/questions/30005/does-it-make-sense-to-trade-my-googl-shares-for-goog-and-pocket-the-difference) [of talk about](http://seekingalpha.com/article/2223103-goog-vs-googl-a-classic-pairs-trade) [the GOOG/GOOGL pair trade](http://dealbreaker.com/2013/06/lets-hack-googles-share-split/). However, the spread between the two has never grown to the point that the risk-adjusted expectation return of the pair trade would outstrip the index so greatly as to be worth the hassle. This isn't a surprise, because Google's share volume is immense, the borrow is super easy, and there are tons of banks eyeballing it all the time.
+
+The modest benefit the marginal buyer would get from purchasing the cheaper of GOOG or GOOGL has been sufficient to keep the two trading in a relatively tight band.
+
+This happens not to be the case for COGECO.
+
+---
+
+Understanding the corporate structure is the first step in a trade like this, because voting rights may have some value. [Fortunately, the Canadian version of the FCC has done the heavy lifting already.](http://www.crtc.gc.ca/ownership/eng/cht043.pdf)
+
+The conclusion is clear: Ms. Marie-Jeanne Audet controls the whole shebang, through her family office. Voting rights are pretty much irrelevant, since power isn't likely to transfer away from the Audets any time soon. So although there might hypothetically be more voting power (and therefore value) associated with a CGO share than a CCA share, it's probably negligible.
+
+Next is validating CGO's 32% equity interest in CCA, and determining if there is a net positive or negative value associated with their other businesses (on the flowchart you will notice CGO's 100% controlling interest in local radio).
+
+Here's [CGO's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cgo.pdf), and [CCA's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cca.pdf).
+
+[Here's the relevant excerpt from the CGO report.](http://i.imgur.com/FoxAz05.png) It's clear that there is a 32% equity interest, and the 82.5% voting rights lines up with the CRTC flowchart.
+
+But what are Cogeco Diffusion Acquisitions Inc. and Metromedia CMR Plus Inc? Does CGO itself have any operations? What is CGO's independent debt?
+
+Consolidated accounting can make it a pain in the ass to figure the operations stuff out, [but fortunately CGO enumerates their debt](http://i.imgur.com/hl2MKfs.png). The parent company has $96.547 million CAD in excess debt.
+
+In order to get a ballpark value for the independent CGO operations, I subtracted to get the yearly revenue from the non-CCA segment.
+
+[Consolidated](http://i.imgur.com/9stHE5s.png)
+
+[Cable segment (CCA)](http://i.imgur.com/GvVjNCW.png)
+
+In 2014 the revenue attributable to CGO's non-CCA operations was $148.447 M CAD; in 2013 the differential was $141.791 M CAD. The Adj EBITDA was $14.905 and $17.919.
+
+The EBITDA isn't headed in the right direction but the revenue is, and I'm fairly confident that those numbers fully justify the excess $100M or so of debt.
+
+Alternatively, using the Shareholder's Equity values instead ($513.965 M CAD for CGO, $1508.256 M CAD for CCA), the ratio is 34%.
+
+All in all it seems a very reasonable assumption that the fair market cap of CGO is *at least* 32% of CCA's market cap.
+
+At Friday's close, the ratio stood below 28.6%, implying over 10% upside if the fair value is 32%. *Intredasting.*
+
+___
+
+So now it's on to the good part. Armed with a physical explanation for *why* the market cap of CGO ought to average around 32% of the market cap of CCA, the next question is, *does it*?
+
+[Wolfram Alpha says ""yes"".](http://i.imgur.com/MY9CeMd.png)
+
+But that isn't good enough... it's statistics time.
+
+[A histogram of the daily adjusted close data from 1/3/2011 to 12/31/2014 looks like this.](http://i.imgur.com/13EmKOw.png) Shapiro-Wilk says it's not normally distributed, but Shapiro-Wilk breaks down for large n anyhow.
+
+So this is a classic case of statistical ""good enough"".
+
+(There hasn't been a lot of dilution in the past few years that would make it inappropriate to use price as a proxy for market cap).
+
+Major take-away: the 95% CI for the population mean CGO/CCA ratio is (0.945, 0.950). μ = 0.947.
+
+CCA closed at $76.49 CAD on Friday. CGO closed at $63.76 CAD, for a ratio of about 0.834. Again we see more than 10% upside.
+
+CCA has 48.79M shares outstanding, and CGO has 16.73M shares outstanding, so the market-cap ratio implied by μ is 0.947 * 16.73/48.79 = 32.5%, which also agrees well with the 32% assumption.
+
+The physically-implied value of μ (which I use instead, since it is a less aggressive assumption, and since the O-U estimate is better anyhow) is μ * 16.73/48.79 = 32%, or
+
+**μ = 0.93322**
+
+So clearly this is a profitable trade, and the risk is very small, since by going long CGO and short CCA you are completely market-netural. The important question becomes ""what is the expectation time for mean-reversion?""
+
+___
+
+An [Ornstein–Uhlenbeck process](http://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) is defined as follows (italics indicate subscript):
+
+dx*t* = λ(μ - x*t*) dt + σ dW*t*
+
+Where λ is the speed parameter, μ is the mean, and σ is the volatility.
+
+In other words, it's the continuous-time version of the AR(1) process. Simply, it is a time series which is expected to oscillate symmetrically about a mean.
+
+The useful characteristic of the O-U process is the λ parameter. A fairly trivial proof will demonstrate that the half-life of the process (i.e., the expectation time for the CGO/CCA ratio to revert halfway to the mean) is equal to ln(2)/λ. So the goal now is to estimate λ.
+
+A naive derivation of the discretized equation would look like this:
+
+x*t* - x*t-1* = λ(μ - x*t-1*) Δt + σ dW*t*
+
+x*t* = x*t-1* + λ(μ - x*t-1*) Δt + σ dW*t*
+
+Since this fits the form y = a + bx + ε, it could then be regressed with ordinary least squares to obtain an estimate of λ, since λ = b / Δt.
+
+However, [Gillespie points out](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.54.2084) that this naive derivation is not correct for sufficiently small Δt. The corrected equation is
+
+x*t* = (1 - e^(-λΔt))μ + e^(-λΔt) * x*t-1* +  σ √((1 - e^(-2λΔt)) / (2λ)) dW*t*
+
+Fortunately, this still fits the y = a + bx + ε form, with b = e^(-λΔt) and therefore λ = - ln(b) / Δt. However, in this case, y = x*t* and x = x*t-1*.
+
+[Performing the fit, b = 0.9548904, with a standard error of 0.0096.](http://i.imgur.com/tK7f5cU.png)
+
+And so the estimate of λ =  b / Δt = - ln(0.9548904) / day = 0.04616 / day.
+
+Then, the half life is ln(2) / λ = ln(2) / 0.04616 = **15.02 days.**
+
+However, λ is a notoriously difficult parameter to estimate. As a sanity check, I propagated the 95% CI for b through to λ (statistics folks: any input on this?)
+
+So the bounds are b ± standard error * 1.96 (Z-score at 95% confidence): 
+
+0.9548904 ± 0.018816 = (0.9172584, 0.9737064)
+
+So the 95% ""half-life interval"" would be (ln(2)/(-ln(0.9172584), ln(2)/(-ln(0.9737064)) or
+
+**(8.03 days, 26.01 days)**
+
+I prefer to use the high bound of 26 days to evaluate the opportunity.
+
+___
+
+So this brings us to the execution phase. By the most conservative estimates, it is expected that the ratio will collapse 0.0495 - half the distance from 0.834 to 0.933 - in no more than 26 days. In other words, if you were able to trade the CGO/CCA ratio directly, the expectation return would be 5.94% in 26 days, or an annualized return of **about 83%**. Moreover, there's essentially no risk involved, because these two companies are highly correlated - a large fraction of the change in the ratio is the mean-reversion ""signal"", and the Sharpe ratio would be astronomical.
+
+Plus, downside risk is miniscule, since this is already a major excursion (~2.5 sigma).
+
+Unfortunately, as I mentioned at the beginning of the post, getting a borrow is challenging. I (and anyone else who is a US resident) cannot trade Canadian options, [because the SEC is run by a bunch of dipshits](https://web.archive.org/web/20071029061139/http://www.futuresindustry.org/fi-magazine-home.asp?a=960). Anyone who *does* live in Canada can establish a synthetic short with CCA options and set up a pretty big position that way.
+
+(I just had to wait until shares showed up and then grabbed them.)
+
+In order to avoid exposure to CAD, I tried to set my net Canadian equity exposure to zero. In other words, the size of my long CGO position is equal to the size of my short CCA position.
+
+So at Friday's close ($76.49 and $63.76), for every round lot of CCA I was short, I'd get short 100 * 76.49/63.76 = 120 shares of CGO.
+
+If CCA decreasing was responsible for 1/2 mean reversion, the profit would be:
+
+63.76 / (76.49 - x) = 63.76 / 76.49 + 0.0495 
+
+x / (2 * 76.49) = 4.28759 / (2 * 76.49) = **2.80%**
+
+If CGO increasing was responsible, the profit would be:
+
+(63.76 + y) / 76.49 = 63.76 / 76.49 + 0.0495 
+
+y / (2 * 63.76) = 4.28759 / (2 * 63.76) = **2.97%**
+
+Most likely, it will somewhere in between due to the action of both.
+
+Because the risk here is so low, it probably makes sense to use some margin (I did, about 1:1.6, so my expectation return is roughly 1.6x higher than calculated above). 
+
+Assuming the 1.6x leverage, expectation return should be ~4.5% to ~5% in a month.
+
+It's worth mentioning that a major quirk of this whole deal is that profit/loss will be denominated in CAD.
+
+Thanks for reading and happy trading."
+3,2015-02-23,[deleted],1,Anatomy of a Pair Trade: Subverting the Risk Premium,"Hi folks,
+
+This is about the short CCA.TO / long CGO.TO trade [I've been promising to make a post about ""soon""](http://www.reddit.com/r/investing/comments/2rzfls/crowdsourcing_active_investment_management/co25w3s?context=1) [for about a month](http://www.reddit.com/r/investing/comments/2t47q6/why_this_sub_will_remain_a_shitty_sub/cnvuyla). Sorry 'bout that. The borrow has been pretty spotty so I've been worried about a buy-in on CCA.TO. At this point I'm pretty confident that the lender's system is just messed up (I saw 30,000 shares available to short one day, 0 the next).
+
+
+
+There are two things I want to explain in this post:
+
+1) The fundamental and statistical methods by which I evaluated the Cogeco pair trade (and why I concluded it was a really spectacular opportunity)
+
+2) How I moved from that theory to establishing a market-neutral position
+
+Before I get into the details, I want to be clear about a few things: 
+
+* I'm not a quant or a finance professional
+* Since I'm not an expert, I don't know if any of the content of this post is *actually* correct
+* My motivations for sharing include A) validating that my logic *is* correct and B) anybody who does execute this trade will help close the spread and therefore directly contribute to my trade profit. So open this trade at your own risk.
+
+Just as a quick introduction to the assets: COGECO, Inc. (CGO.TO) is the Canadian parent of the Canadian cable company COGECO Cable, Inc. (CCA.TO). COGECO owns 32% of the equity in COGECO Cable, but maintains full control because the CCA.TO shares have subordinated voting rights.
+
+So the big question here is, why would you ever go long one asset and short another if those assets should be equivalent? As our esteemed friend observes, [isn't that like going long GOOG and short GOOGL](http://i.imgur.com/m90MXyi.png)? If the assets are really equivalent, doesn't the EMH imply that there should be no expectation return from doing so?
+
+The answer is that there's no expectation return *given an arbitrary starting time, and an arbitrary exit time*. Because the EMH is made up and there's actually a lot of meaningless noise in security prices, it is possible to identify trades with an expectation return quite a lot larger than zero.
+
+In fact, [there's been a lot](http://money.stackexchange.com/questions/30005/does-it-make-sense-to-trade-my-googl-shares-for-goog-and-pocket-the-difference) [of talk about](http://seekingalpha.com/article/2223103-goog-vs-googl-a-classic-pairs-trade) [the GOOG/GOOGL pair trade](http://dealbreaker.com/2013/06/lets-hack-googles-share-split/). However, the spread between the two has never grown to the point that the risk-adjusted expectation return of the pair trade would outstrip the index so greatly as to be worth the hassle. This isn't a surprise, because Google's share volume is immense, the borrow is super easy, and there are tons of banks eyeballing it all the time.
+
+The modest benefit the marginal buyer would get from purchasing the cheaper of GOOG or GOOGL has been sufficient to keep the two trading in a relatively tight band.
+
+This happens not to be the case for COGECO.
+
+---
+
+Understanding the corporate structure is the first step in a trade like this, because voting rights may have some value. [Fortunately, the Canadian version of the FCC has done the heavy lifting already.](http://www.crtc.gc.ca/ownership/eng/cht043.pdf)
+
+The conclusion is clear: Ms. Marie-Jeanne Audet controls the whole shebang, through her family office. Voting rights are pretty much irrelevant, since power isn't likely to transfer away from the Audets any time soon. So although there might hypothetically be more voting power (and therefore value) associated with a CGO share than a CCA share, it's probably negligible.
+
+Next is validating CGO's 32% equity interest in CCA, and determining if there is a net positive or negative value associated with their other businesses (on the flowchart you will notice CGO's 100% controlling interest in local radio).
+
+Here's [CGO's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cgo.pdf), and [CCA's annual report](http://www.cogeco.ca/export/sites/cogeco/corporate/files/financial_annual_report_en/2014/ra2014e_cca.pdf).
+
+[Here's the relevant excerpt from the CGO report.](http://i.imgur.com/FoxAz05.png) It's clear that there is a 32% equity interest, and the 82.5% voting rights lines up with the CRTC flowchart.
+
+But what are Cogeco Diffusion Acquisitions Inc. and Metromedia CMR Plus Inc? Does CGO itself have any operations? What is CGO's independent debt?
+
+Consolidated accounting can make it a pain in the ass to figure the operations stuff out, [but fortunately CGO enumerates their debt](http://i.imgur.com/hl2MKfs.png). The parent company has $96.547 million CAD in excess debt.
+
+In order to get a ballpark value for the independent CGO operations, I subtracted to get the yearly revenue from the non-CCA segment.
+
+[Consolidated](http://i.imgur.com/9stHE5s.png)
+
+[Cable segment (CCA)](http://i.imgur.com/GvVjNCW.png)
+
+In 2014 the revenue attributable to CGO's non-CCA operations was $148.447 M CAD; in 2013 the differential was $141.791 M CAD. The Adj EBITDA was $14.905 and $17.919.
+
+The EBITDA isn't headed in the right direction but the revenue is, and I'm fairly confident that those numbers fully justify the excess $100M or so of debt.
+
+Alternatively, using the Shareholder's Equity values instead ($513.965 M CAD for CGO, $1508.256 M CAD for CCA), the ratio is 34%.
+
+All in all it seems a very reasonable assumption that the fair market cap of CGO is *at least* 32% of CCA's market cap.
+
+At Friday's close, the ratio stood below 28.6%, implying over 10% upside if the fair value is 32%. *Intredasting.*
+
+___
+
+So now it's on to the good part. Armed with a physical explanation for *why* the market cap of CGO ought to average around 32% of the market cap of CCA, the next question is, *does it*?
+
+[Wolfram Alpha says ""yes"".](http://i.imgur.com/MY9CeMd.png)
+
+But that isn't good enough... it's statistics time.
+
+[A histogram of the daily adjusted close data from 1/3/2011 to 12/31/2014 looks like this.](http://i.imgur.com/13EmKOw.png) Shapiro-Wilk says it's not normally distributed, but Shapiro-Wilk breaks down for large n anyhow.
+
+So this is a classic case of statistical ""good enough"".
+
+(There hasn't been a lot of dilution in the past few years that would make it inappropriate to use price as a proxy for market cap).
+
+Major take-away: the 95% CI for the population mean CGO/CCA ratio is (0.945, 0.950). μ = 0.947.
+
+CCA closed at $76.49 CAD on Friday. CGO closed at $63.76 CAD, for a ratio of about 0.834. Again we see more than 10% upside.
+
+CCA has 48.79M shares outstanding, and CGO has 16.73M shares outstanding, so the market-cap ratio implied by μ is 0.947 * 16.73/48.79 = 32.5%, which also agrees well with the 32% assumption.
+
+The physically-implied value of μ (which I use instead, since it is a less aggressive assumption, and since the O-U estimate is better anyhow) is μ * 16.73/48.79 = 32%, or
+
+**μ = 0.93322**
+
+So clearly this is a profitable trade, and the risk is very small, since by going long CGO and short CCA you are completely market-netural. The important question becomes ""what is the expectation time for mean-reversion?""
+
+___
+
+An [Ornstein–Uhlenbeck process](http://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process) is defined as follows (italics indicate subscript):
+
+dx*t* = λ(μ - x*t*) dt + σ dW*t*
+
+Where λ is the speed parameter, μ is the mean, and σ is the volatility.
+
+In other words, it's the continuous-time version of the AR(1) process. Simply, it is a time series which is expected to oscillate symmetrically about a mean.
+
+The useful characteristic of the O-U process is the λ parameter. A fairly trivial proof will demonstrate that the half-life of the process (i.e., the expectation time for the CGO/CCA ratio to revert halfway to the mean) is equal to ln(2)/λ. So the goal now is to estimate λ.
+
+A naive derivation of the discretized equation would look like this:
+
+x*t* - x*t-1* = λ(μ - x*t-1*) Δt + σ dW*t*
+
+x*t* = x*t-1* + λ(μ - x*t-1*) Δt + σ dW*t*
+
+Since this fits the form y = a + bx + ε, it could then be regressed with ordinary least squares to obtain an estimate of λ, since λ = b / Δt.
+
+However, [Gillespie points out](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.54.2084) that this naive derivation is not correct for sufficiently small Δt. The corrected equation is
+
+x*t* = (1 - e^(-λΔt))μ + e^(-λΔt) * x*t-1* +  σ √((1 - e^(-2λΔt)) / (2λ)) dW*t*
+
+Fortunately, this still fits the y = a + bx + ε form, with b = e^(-λΔt) and therefore λ = - ln(b) / Δt. However, in this case, y = x*t* and x = x*t-1*.
+
+[Performing the fit, b = 0.9548904, with a standard error of 0.0096.](http://i.imgur.com/tK7f5cU.png)
+
+And so the estimate of λ =  b / Δt = - ln(0.9548904) / day = 0.04616 / day.
+
+Then, the half life is ln(2) / λ = ln(2) / 0.04616 = **15.02 days.**
+
+However, λ is a notoriously difficult parameter to estimate. As a sanity check, I propagated the 95% CI for b through to λ (statistics folks: any input on this?)
+
+So the bounds are b ± standard error * 1.96 (Z-score at 95% confidence): 
+
+0.9548904 ± 0.018816 = (0.9172584, 0.9737064)
+
+So the 95% ""half-life interval"" would be (ln(2)/(-ln(0.9172584), ln(2)/(-ln(0.9737064)) or
+
+**(8.03 days, 26.01 days)**
+
+I prefer to use the high bound of 26 days to evaluate the opportunity.
+
+___
+
+So this brings us to the execution phase. By the most conservative estimates, it is expected that the ratio will collapse 0.0495 - half the distance from 0.834 to 0.933 - in no more than 26 days. In other words, if you were able to trade the CGO/CCA ratio directly, the expectation return would be 5.94% in 26 days, or an annualized return of **about 83%**. Moreover, there's essentially no risk involved, because these two companies are highly correlated - a large fraction of the change in the ratio is the mean-reversion ""signal"", and the Sharpe ratio would be astronomical.
+
+Plus, downside risk is miniscule, since this is already a major excursion (~2.5 sigma).
+
+Unfortunately, as I mentioned at the beginning of the post, getting a borrow is challenging. I (and anyone else who is a US resident) cannot trade Canadian options, [because the SEC is run by a bunch of dipshits](https://web.archive.org/web/20071029061139/http://www.futuresindustry.org/fi-magazine-home.asp?a=960). Anyone who *does* live in Canada can establish a synthetic short with CCA options and set up a pretty big position that way.
+
+(I just had to wait until shares showed up and then grabbed them.)
+
+In order to avoid exposure to CAD, I tried to set my net Canadian equity exposure to zero. In other words, the size of my long CGO position is equal to the size of my short CCA position.
+
+So at Friday's close ($76.49 and $63.76), for every round lot of CCA I was short, I'd get short 100 * 76.49/63.76 = 120 shares of CGO.
+
+The only weird quirk of this is that profit/loss will be denominated in CAD.
+
+Thanks for reading and happy trading."
+4,2015-05-25,Jordan1invest,159,"Why hiring a broker may not be a good idea, especially the ""successful"" ones.","Former Broker/FA/Institutional Consultant here:
+
+I've worked on Wall Street or probably a better word, ""Main Street"" my entire professional career (38, from age 22, not in NYC).  
+
+I've worked at discount brokerages, insurance companies, full service, regional and independent as well as owned and operated my own advisory practice as RIA under a clearing arrangement.  I've worked in options trading, derivatives trading, operations, time and sales, clearing, institutional bond trading, executive roles in sales and sales management and operations management and at a director role before going into sales running a practice at full service, then regional, then independent.  
+
+A lot of people will try to discredit what I am about to say, say I was unhappy and unsuccessful (Managed 130 million) but that's simply not the case.  Just feeling like I need to let a few people know about what goes on behind the scenes in one particular area in describing the advice you get on the Full Service/Regional side isn't probably the best advice and it's not the FAs fault, lack of training, incompetence or products.  It's a unknown conflict of interest that exists that most of the clients have no clue is going on and is rarely talked about or never talked about outside of industry publications.  This problem is why clients are paying 2-3% and more annually on their assets.  Here goes...
+
+When one becomes an FA they typically go through all kinds of testing, interviews, etc., to become a financial advisor selling investment or other financial products.  The testing and interviewing that goes on isn't about intelligence, comprehension or knowledge or capacity to retain such financial knowledge.  It's simply-can you work a calculator and can you sell.  That's it.  It's all about the ability to sell.  
+
+Then once hired you go through all the training, etc. To become a financial advisor.  Mainly just compliance stuff, series 7, 65 and state 66 or 63 whatever is required in the state in which is the classic brokers licensing.  You have to have a moderately clean record so fingerprinting and background checks are in order (typically before being hired obviously). 
+
+Then the training dies off, the real fun starts and you go to work, although most do the following while getting licensed and sometimes before even being hired to see if your going to have a natural market to sell to.  Because it's all about the mighty dollar.  Always.  
+
+You build out tons of lists of potential clients and build 2-4 market niches that your going to go after.  Then you start dialing for dollars, setting appts., and meeting with folks trying to get them to work with you.  Eventually at the end of your career or hight of your success you'll only have 1 or 2 niche groups you work with, which is normal.  I worked with all types and in the end worked with organizations and pension plans (Union).
+
+You then gather statements, put the info into software and voila your software gives you a plan of which you work with sales mgmt in meshing with their current situation.  This is where the wheat is separated from the shaft so to speak (outside of actually getting in front of people) and you try to show the client how your solutions meet their needs and then talk them into doing it.  Pretty simple.  The best advisors are excellent at this stage.  Ok, so let's fast forward.  
+
+Let's say you got through all that and now your doing good, you've been in the biz for a couple years.  Let's say your top of your class, you've gathered 50mm and your kicking ass.  Your salary is gone that they paid for a short while and your starting to earn commissions and you've made it (about 5% of all who walk in the door).  Your a baller working on the street, in your late 20s or early 30s and you go out and buy a nice car, get married, buy a McMansion, membership at a club, drinks, golf, dinners, etc., etc.  
+
+Then it all catches up to you.  What happened?  You were killing it but, now you need to make more money. You need to get more.  It's not because your greedy it's because your around money all day, TV, computer, clients, execs, guys at CC and your jaded.  You don't realize it but all your external stimuli is saying millions, millions, millions.  You've got to get them.  If not, your a failure.  Plain and simple.  
+
+At about this time the brokerage industry has all this figured out.  Assets are the name if the game and when you have 50-200mm in assets at your basic control everyone wants you to work for them.  But, not just your competition your own broker wants you too.  
+
+So, what happens?  This is where the conflict steps in.  
+
+Your being recruited and after receiving offers and others hearing about them guys talk, assistants talk and your existing firm comes to you and says, hey buddy we love you so much that we will pay you $500k - $2mm to stay here for the next 7 yrs (obviously depends on production) and you start to literally froth at the mouth.  Your about to win the lotto and all your hard work is going to pay off.  Then the competition starts calling an by now your doing 500k in gross sales production (commissions generated for your firm) and the competitor says they'll pay you 200% of your gross.  Or $1,000,000 to come to their firm.  What do you do?  You either decide the headache isn't worth it or you go, regardless your a moron because the numbers are impossible to meet unless you continue to grow at the same clip, adding more clients, more commissions and more, more, more.  It's an extremely hard game to play.  You have to be a robot on steroids.  Some guys can, most can't.  
+
+I've done the math a hundred times and it's next to impossible.  So this signing bonus is rarely what it sounds like, in fact less than 5% of deals are actual cash money deals with no strings attached.
+
+It's really a loan.  Nothing more, nothing less. 
+
+And what happens next is devastating to clients returns, assets and trust.  
+
+So you have impossible bogeys to overcome with your new deal but you figure with all the cash you can buy the clients if you have to, but you don't.  You get a new car, house, etc and redo the past 5-10 years only bigger, better and drop the wife and pickup a hotter much more beautiful 20 something with less miles (actually probably more), but you don't care.  At this point you've turned into a sociopath.  
+
+Then you start twisting, switching and pounding your clients for every nickle, dime and penny to meet those goals.  And when you can't your firm is quick to offer a restructure of your deal (sometimes with more cash), or you get out of your existing crack pot situation when a new deal comes along from a new firm wiping the slate clean.  Or you create a Ponzi and steal, whatever.  
+
+Here is where I start wanting to puke.  
+
+The other day I was reading earnings numbers from a well known firm on the street.  They had great revenue, sales, AR, etc.  Wait... what is AR I asked?  I bet I know.   Accounts Receivable.  Yep.  All those brokerage loans from guys switching firms during the collapse.  The number was in the billions.  For a firm with less that 100k reps.  Holy shit.  That's crazy.  I seriously doubt there is a conflict of interest here.  Lol.  
+
+Crazy huh.  The biggest revenue driver for this firm in the past year had been this AR number even after the run up in markets and fee based revenue.  
+
+Not sales, not interest on cash.  Account receivables from loans to financial advisors at their firm.  
+
+Now.  I ask you this.  The next time you reach out to your broker and listen to their sales pitch are you going to ask how much they have on loan at their firm, how many years are left on the contract and what's in it for them if you sign or are you going to be mesmerized by their bad ass closing skills they've perfected along the way through survival in the brokerage biz realizing if you don't buy, sign or give it a go they'll be robbing peter to pay Paul at the end of the month with their credit cards to keep paying the country club dues?  "
+5,2015-08-31,Fearspect,3,Slowing Canadian economy may surpass China as threat to U.S. growth,"[An interesting point](http://www.msn.com/en-ca/money/markets/slowing-canadian-economy-may-surpass-china-as-threat-to-us-growth/ar-BBmcL8T), with everyone focusing on China, are we losing sight of a much more impactful trade partner?"
+6,2015-10-17,[deleted],1,Where can I find the up and coming ideas in VR and AR before they have already gotten their first round?,[deleted]
+7,2015-11-20,vincefutr23,1,Thoughts on VUZI?,"Rallying recently. Its positioned in a trendy area (AR/VR), but its products, revenue seems awful. Thoughts on the current valuation? Is it the closest thing you can get to a pure VR play in the public equity markets? "

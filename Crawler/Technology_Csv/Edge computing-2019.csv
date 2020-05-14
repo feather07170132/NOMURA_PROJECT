@@ -1,0 +1,68 @@
+,created_utc,author,score,title,selftext
+0,2019-02-22,Robo_dogo,0,Has Buffet lost his edge?,"[https://www.bloomberg.com/news/articles/2019-02-22/buffett-s-consumer-bets-bite-as-kraft-coca-cola-face-pressure?srnd=premium](https://www.bloomberg.com/news/articles/2019-02-22/buffett-s-consumer-bets-bite-as-kraft-coca-cola-face-pressure?srnd=premium)
+
+Kraft is at an all-time low and Coke is struggling and hasn't beaten the market is a long time.  Then there's IBM, which keeps on posting declining revenue..  And also AAPL which is 22% off it's record high while the S&amp;P500 is only 2% off it's all-time high.
+
+I heard he doesn't use a cell-phone, so he doesn't understand social media.  And I heard he doesn't use a computer, so he doesn't understand cloud computing.  Maybe this is a lesson in keeping up with the times?  Does anyone drink soda anymore with all that sugar?
+
+What are your thoughts?"
+1,2019-03-05,coolcomfort123,3,Amazon took over the $176 billion market for cloud computing. Now it's using the same playbook in logistics.,"https://www.businessinsider.com/amazon-logistics-network-edge-out-ups-fedex-2019-3
+
+A number of industry experts say Amazon is prepping to take on FedEx and UPS.
+
+Amazon says its network is used only to move goods in-house to manage its quickly rising shipping costs.
+
+But its network of ocean freight containers, trailers, fulfillment centers, cargo planes, and more is so large that not even Amazon could fill it, analysts say.
+
+Amazon's moves in logistics lines up with how it launched Amazon Web Services, the company's cloud-computing solution, now the leader in a $176 billion market."
+2,2019-07-13,bolyus21,1,Mapping Out Some Collateral Developments to Blockchain Technology,"Guest Blogger: *Andrew Rossow, Esq.*
+
+Every once and while, a new technology comes around that positively impacts innovation in several fields, even some outside of its initially intended sector. Blockchains, more specifically Bitcoin, is increasingly showing the signs of doing the very same.
+
+From the expansion and further development of [zero-knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof) (ZKPs) to [sharding](https://github.com/ethereum/wiki/wiki/Sharding-FAQ#can-snarks-and-starks-help), a seemingly golden age of cryptography, improved privacy, and permissionless financial products have branched out from Bitcoin’s meteoric rise.
+
+ZKPs and a New Era of Privacy
+
+Obviously central to the name “cryptocurrencies,” is the cryptography component that underpins Bitcoin’s transaction scheme and that of the many altcoins. Bitcoin is pseudonymous, which is becoming increasingly clear with the likes of blockchain forensics companies emerging left and right — attracting government support in the process.
+
+However, that realization has led to some fascinating downstream effects in the development of better cryptography.
+
+For example, research into a full-scale implementation of Schnorr Signatures, widely considered to be the best cryptographic signature primitive, [recently materialized](https://www.coindesk.com/blockstream-releases-test-code-for-bitcoin-tech-upgrade-schnorr) into a formal proposal for inclusion into Bitcoin. Dubbed, “MuSig,” Schnorr Signatures would confer better scalability and privacy to the legacy cryptocurrency.
+
+But the innovation does not stop there.
+
+Out of the demand for anonymity came altcoins like Monero and ZCash, predicated on novel cryptographic techniques for completely masking the identities of users and the amounts transferred.
+
+For example, Monero, a “CryptoNote Coin,” leverages the power of ring signatures — a technique for obfuscating the originator of a signed digital message that has been around for years but never applied on the scale as it is with Monero.
+
+Researchers even released a new implementation of formalized ring signatures for enhanced privacy, called [OmniRing](https://www.reddit.com/r/Monero/comments/buumwj/omniring_scaling_up_private_payments_without/), designed to scale up privacy transactions without the feared “trusted setup.” Similarly, the production of “[Bulletproofs](https://crypto.stanford.edu/bulletproofs/)” out of the famed Stanford Applied Cryptography Group enhanced the efficiency of privacy-preserving transactions, which have historically been data-heavy.
+
+The concept builds on the notion of ZKPs, which have attracted the nickname of “crypto magic” for being unfathomably complex from a mathematical perspective while furnishing near-complete anonymity.
+
+All of these developments, while built on technologies preceding Bitcoin, have accelerated over the last few years. Even banks, like JP Morgan, are joining in on the fun, building their own implementations of ZKPs for private transactions.
+
+The snowballing innovation in the field of cryptography comes at an opportune time. Once hailed by cypherpunks as the [last vestige of hope](https://www.wired.com/1993/02/crypto-rebels/) against a surveillance state, cryptography is a powerful shield against the repeated data malpractice of tech firms and government snooping.
+
+What began as an era of openly sharing on social media platforms, has spun into a complicated mix of wanting social media but without corporations and governments having access to the data — privacy is now at a premium.
+
+Distributed Computing — Scaling Decentralized Networks
+
+Similar to the rise in cryptography over the last several years, there has been an explosion in distributed computing, particularly scaling decentralized networks. Emerging out of the need for public, permissionless blockchain networks (i.e., Ethereum) to scale better, a confluence of efficiency improvements and innovative technologies are seeking to power public blockchains with the same performance level as their centralized counterparts.
+
+For example, the concept of *sharding* — horizontally partitioning a database — has gained prominence among several platforms, including Ethereum, as a way to enable groups (i.e., shards) of nodes process transactions in parallel. Ethereum’s foray into sharding is known as its Serenity upgrade, which is pending rollout following more extensive research and testing of the underlying concept.
+
+Other projects, like [Elrond](https://elrond.com/), are pushing the envelope even farther. Elrond is working on a bleeding-edge form of state sharding known as “Adaptive State Sharding” in conjunction with their secure Proof-of-Stake (PoS) consensus mechanism. Compared to the other forms of sharding, transaction and network, state sharding is the most technically complex and widely considered to have enormous potential in boosting the performance of public blockchains. Elrond implements all three in an ambitious take on scaling decentralized networks.
+
+Take the case of Elrond, whose [Testnet](https://testnet.elrond.com/#/) is already live, and has reached a peak performance capacity of nearly 12,000 transactions per second (TPS). For context, Ethereum’s current iteration process roughly 15 – 20 TPS.
+
+Sharding, similar to the aforementioned privacy technologies, is not a new concept either. Sharding is prevalent for improving database efficiency and has been around for many years. It is only recently that it began garnering attention in crypto circles as a method to improve the scalability of decentralized networks.
+
+The sheer scale of development of sharding applied to distributed networks is nothing short of impressive so far.
+
+The convergence of technologies like sharding with new consensus designs, like PoS, is sure to usher in a new generation of blockchains, supplemented by better privacy and scalability. It is not surprising that such developments have flown under the radar, as they are highly esoteric, but their downstream advantages for mainstream consumers and app users are promising.
+
+Bitcoin may have birthed a spectacular invention of money, but its collateral effects in the form of distributed computing and cryptography may come to have a more dynamic impact on society than a P2P digital currency.
+
+Andrew L. Rossow is a millennial attorney, law professor, entrepreneur, writer, and speaker on privacy, cybersecurity, A.I., AR/VR, blockchain, and digital monies. He has written for many outlets, most notably Forbes and HuffPost
+
+[Connect with Andrew on LinkedIn](https://www.linkedin.com/in/andrewlrossow)"

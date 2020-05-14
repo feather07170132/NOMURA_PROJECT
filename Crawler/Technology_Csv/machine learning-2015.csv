@@ -1,0 +1,351 @@
+,created_utc,author,score,title,selftext
+0,2015-01-24,stratosmacker,9,Would anyone be interested in a consumer sentiment data service?,"About a month ago, a friend and I had the idea to scrape various social media, news sources, reddit, etc, and using various machine learning algorithms, create a database of consumer sentiment for different companies and market segments over time.
+
+If (big if), we created a useful and comprehensive API and website, would anyone be interested in using it? Right now we are trying to gague interest in such a product, and that's more or less the purpose of this post.
+
+If you have any questions or somewhat unrelated comments, feel free to ask and be critical."
+1,2015-05-28,cb_hanson,19,Are quantitative investors making value investing more difficult?,"Value investing depends on market price deviating from intrinsic value, which Benjamin Graham describes as coming from Mr. Market being moody and emotional.
+
+How has the increasing use of sophisticated, unemotional computerized approaches to value investing impacted the opportunities? In the old days, hedge funds would run basic screens based on accounting information as a starting point. Now machine learning and other techniques are being used to draw increasingly subtle inferences about a company's financials and even interpret the text of the management's letters to shareholders. I'm not saying that computers are as good as the best human analysts yet, but my impression is that they are getting better and better.
+
+Any tangible examples or evidence would be especially welcome in addition to people's general impressions about this."
+2,2015-05-19,halivingston,1,Data feed for stock movement?,"Is there a data feed where you can know the volume of shares a particular stock is trading at?
+
+furthermore, is it possible to get which stocks billionaires are investing and holding onto stocks? And their portfolios?
+
+I then want to start building a database where I can ask questions like why a particular stock is moving, or being traded X times week over week?
+
+Basically I'm into Machine Learning and want to model financial movements using toolset I have from the ML world. I get that the finance folks have models too, I want to try it a bit differently.
+
+Thanks for any leads.
+
+P.S. - I'm ok paying some amount for these feeds."
+3,2015-05-16,MMYourWay,1,"New side hustle: How I made $1,500 renting my house to travelers","As I announced recently over at Reach Financial Independence, we are now open as a little guest house!
+
+This is the website I have created, still a work in progress but you can see the rooms and the rates, if you are ever looking to rent accommodation near the ruins of Tikal in Northern Guatemala, that is what you’ll get:
+
+ 
+
+ Main double room
+Main double room
+ 
+
+ 
+
+How to rent your place
+First, you have to be ok with the whole concept. I am an avid Couchsurfer and have had dozens of strangers from the internet come stay at my place for the past 10 years, I have also stayed with more people than I can count, and for me a house is made to have people over. I enjoy my private time when people leave, but I also like to host.
+
+If you have many valuables one could break, if you are a cleaning freak, or if you don’t want a stranger around your kids, renting your room or house may not be an option for you.
+
+Even if there are solutions. You can lock your valuables, convert your place into a duplex with separate access for guests to your attic or basement, or do some home exchanges or holiday rentals while you are on holidays yourself.
+
+ 
+
+Back to putting your place up for rent. At the moment, we have had a dozen reservations, and over 12 people have stayed with us so far.
+
+ 
+
+ 
+
+ 
+
+ rent guest house tikal
+
+ 
+
+ 
+
+I rent mainly with Airbnb, and it has been quite easy to manage. I recommend it if you just want to rent a bedroom, or your house while you go on holiday. As we are trying to position as a guest house, I recently registered on Booking as well, and got my first reservation soon after, although Booking doesn’t charge guests so you have to charge them, and since we can’t charge a credit card, the person got scared and cancelled when I asked her to wire the money.
+
+On Airbnb, they charge the guest, keep the money until check-in, then pay you. Both parties are safe.
+
+Airbnb charges the guest 10% admin fee, and 3% to the host, while Booking charges the host 15%.
+
+ 
+
+Both sites will work better if you put tons of pictures and descriptions. Be concise, but talk about everything. Is there wifi, a washing machine, a shared kitchen, can people use the fridge, is the bathroom a shower or a tub? etc. And how to get there, if there is public transportation, as many won’t rent a car.
+
+Most people will ask those questions anyway, so putting them in an ad is one way to avoid repeating yourself in an email over and over again.
+
+ 
+
+Both sites will require you keep an updated calendar of availability and rates. Make sure you do it and put a note to update it regularly. It will not only help you rank better on their search engine, but also save you time canceling over bookings. Check out the dates of Spring Break, Christmas holidays and other long weekends if you want to raise your rates, or prevent bookings and have your friends over.
+
+ 
+
+ 
+
+Pros about renting your place
+ 
+
+Money! Next month, we are going to Miami, and someone booked our house for a full month for $800. That will cover our two flights plus the cost of our staff while we are away. How is that for awesome? Finding a tenant for a whole month in the middle of the Guatemalan jungle that would come exactly while we travel to the US was pretty much a miracle, but you live in a big city, you can rent your place easily when you go away.
+
+ 
+
+Offer additional services. I offer to cook diner for them, and barely break even because I am alone tending to 2-4 people, but it is more a public service as there aren’t restaurants nearby. You can offer more expensive meals and make a profit. Big margins are on coffee and drinks. I also offer them to rent my car, hire a driver (which is also a public service, I don’t earn a cent on it, my mechanic does the job and it’s nice to see a nice person who otherwise wouldn’t connect with tourists get part of the tourism money), rent kayaks from my neighbors, take a cooking class in the village, go explore the jungle with my handyman…
+
+Now that I listed them all, I make money on none, but benefit other people so it is still a win for the village. You on the other hand could make extra money offering a cheap room and then charging for those extras. Renting a place for a week to a business person in a big city can get you some dry cleaning, cooking and maybe driving to the airport extras for example.
+
+ 
+
+You already have a place. This is easy to set up and requires almost no investment, just clean sheets and towels to start with. As you go, if you enjoy the idea you can buy nicer things and raise your rates. I have even seen people in big cities get bigger apartments and have rentals cover the difference, instead of a full time roommate. You are making money with something you already have, which is pretty awesome.
+
+ 
+
+Flexible home exchange. I like the idea of home swaps for the holidays, when you are in NY and want to go to Florida, and find a family who wants to do the opposite, then you swap properties. However, you need to have similar dates, comparable housing options (downtown Manhattan for Miami Beach, suburbs for suburbs, or a bigger house for a better located small one)… And it can get complicated. Renting your place and keeping the money so you can go on holiday is like having a flexible home swap. Once someone has booked your place, and you have the cash, it is much easier to find a holiday option for yourself rather than trying to locate the perfect swap.
+
+ 
+
+ 
+
+ 
+
+Cons about renting your place
+ 
+
+Lack of privacy. We do not share a bathroom with guests, but have had to when renting in NYC or SF on Airbnb. Still, guests can decide they want to lounge all day and do nothing, and you’ll have them around. No romantic diner, quiet sunset or private life while there are strangers in your air.
+
+ 
+
+They take a LOT of time. People are needy, they are in foreign territory, they want to talk, tell you about their day like they are Christopher Columbus, even though you’ve been to the Maya ruins 10 times and heard that very same story 100 times. You’ll be up before they want breakfast, and down after they go to bed, to clean up and wash their dishes.
+
+ 
+
+People think you are a travel agency. I am happy to give tips about the region, but when it gets into the minutiae of how they should plan their day, or when they want to exchange 12 emails about their plans in a city 300 miles away, the hourly rate suddenly gets close to minimum wage.
+
+ 
+
+Some will expect a full hotel. One couple wanted 4 pillows, towels changed every day… while booking on Airbnb a place described as rustic and in the middle of the jungle. For the luxury jungle lodge you can go pay $300 and up at nearby hotels. You have to set your conditions and be clear. I don’t mind extra towels and pillows, but a) not at 9pm when I want to go to bed and b) I don’t have a washing machine so that means extra hours for the cleaner, and less profit.
+
+ 
+
+Being friendly can lead to abuse. When you tell people they can use your drinking fountain, you don’t expect them to fill their half gallon bottle for their day trip (saving $0.5)? They will. They will even take the tank off to get the last drop. Give them coffee mugs and they will go through your personal shelf to grab your personal mug because they like it better. You have to put limits to everything. Where is your space, where is theirs, noise, what can they drink/eat, etc.
+
+ 
+
+Plans will change. That same couple (they were a real PITA) cancelled diner on me at 6pm, when all the food was cooked and ready. I tried my hardest to smile and say “no worries” but wanted to strangle them. The following morning, they had asked me to book them a driver and told me at 7am they didn’t want their 9am pick up. The previous day they had hired a driver until 2pm and had him drive 60 more miles than agreed, drop them three hours late at 5pm and just shrugged saying “yeah, you know, we just made a very small detour”, then complained when I asked them for an extra… hold your breath… $12. Those people will eat up your profits.
+
+After learning the hard way, the option is to raise your rates and be at peace with it. People can also cancel 5 days in advance for a full refund on Airbnb so you should consider it side income, don’t count on it to pay your mortgage or your holidays.
+
+ 
+
+Some guests are a pain. Like the ones above, we also had a family who forgot an iPad. We weren’t home so the maid found it. I told the guests I would put it in courier for $100. I was ready to go to the post office on my gas and time, but not to bring it with me to Miami so they could get a cheaper rate, as my luggage space is limited and I am not that kind anyway. So they went behind my back, called the maid, who is from Spain, and convinced her to take the iPad to Spain, ship it to a Spanish friend of theirs, so the friend could give it to them (they live in CALIFORNIA!) and they could save on shipping, while not enjoying their iPad for over 2 months.
+
+When people prefer bothering several persons to take care of their personal mess instead of being responsible adults, you can imagine how they will behave in your property. Yes, they did leave with toilet paper too.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ok, looks like I needed to vent about the past couple of guests. But… the money has been good and covered our housing expenses and staff for the past three months. Actually, it is my goal this year to make $500 a month with the guest house, for a $5,000 yearly profit ($1,000 would go on cleaning fees and utilities) and cover the cost of the house.
+
+It isn’t much, I just need to rent 7 nights a month to have a free place to myself the rest of the time.
+
+Since November and our first guests, I have made over $1,500 in profit. What I like best is the flexibility you can have to rent just one weekend per year if you’d like, and no more, without much trouble. That is still a grey area legally though, as you are not a hotel, so you need to check if you can operate that kind of business where you live, and how to report your earnings.
+
+ 
+
+Is renting your house or a room to tourists something you would consider? If you have, how did it go?"
+4,2015-07-16,Darwin-FX,2,Good source for in-depth data and data-driven analysis?,"Hey guys,
+
+I am looking for a good site that has more then just pure stock quotes.
+
+
+I would like to have:
+
+
+* Averaged returns of whole industries ( like biz.yahoo.com/p/ including all sub-industries ).
+
+* For each stock a list of its correltation with different industries, gold, interest rates, dollar etc
+
+* some kind of normalised ""business model description"" like in ( http://finance.yahoo.com/q/pr?s=ACW )
+
+* etc...
+
+
+* (!) analysis, written by people but heavily backed with data! (not like ""buy gold"" but like ""data over 10 years shows 
+that whenever xyz happened, which does now, gold raised. buy gold!""
+
+
+
+Does somebody know anything similar or do I really have to collect all this data myself? 
+
+As I am coming from a machine learning background, I am used to get the ""full view"" :) Perhaps thats just me?
+
+
+
+
+
+Thanks in advance."
+5,2015-08-30,cb_hanson,50,Is DIY algorithmic trading a real trend??,"This article from the WSJ a few weeks ago says that more and more home gamers are getting into algo trading. Do people see this as a growing trend? Would be especially interested to hear from anyone seriously trying to do this from home as a hobby.
+
+http://on.wsj.com/1MV1B2U
+
+From what I see, the barriers to entry certainly seem to be falling. In an old interview (maybe 15 years ago) David Shaw says that it would be difficult for people to compete with the likes of Desco given all the infrastructure and technology involved. Obviously the amateur is not going to be at the bleeding edge of technology, but it now seems that he can close the gap considerably.
+
+Computing power and data are cheap. All sorts of programming resources, including tutorials and highly sophisticated statistical and machine learning libraries, are increasingly available. I've even seen vendors starting to offer off-the-shelf FPGA platforms that allow you to program your algorithms in firmware and make trades in microseconds..
+
+Edit: The FPGA is more of an example of technology becoming available off-the-shelf rather than something most could actually utilize at home."
+6,2015-08-07,ml_aficionado,0,Will thousands of VCs lose their jobs to machine learning-based algorithms?,"http://blog.bigml.com/2015/08/07/announcing-the-worlds-first-automated-early-stage-investing-platform/ 
+"
+7,2015-08-06,MMYourWay,1,"New side hustle: How I made $1,500 renting my house to travelers","As I announced recently over at Reach Financial Independence, we are now open as a little guest house!
+
+This is the website I have created, still a work in progress but you can see the rooms and the rates, if you are ever looking to rent accommodation near the ruins of Tikal in Northern Guatemala, that is what you’ll get:
+
+ 
+
+ Main double room
+Main double room
+ 
+
+ 
+
+How to rent your place
+First, you have to be ok with the whole concept. I am an avid Couchsurfer and have had dozens of strangers from the internet come stay at my place for the past 10 years, I have also stayed with more people than I can count, and for me a house is made to have people over. I enjoy my private time when people leave, but I also like to host.
+
+If you have many valuables one could break, if you are a cleaning freak, or if you don’t want a stranger around your kids, renting your room or house may not be an option for you.
+
+Even if there are solutions. You can lock your valuables, convert your place into a duplex with separate access for guests to your attic or basement, or do some home exchanges or holiday rentals while you are on holidays yourself.
+
+ 
+
+Back to putting your place up for rent. At the moment, we have had a dozen reservations, and over 12 people have stayed with us so far.
+
+ 
+
+ 
+
+ 
+
+ rent guest house tikal
+
+ 
+
+ 
+
+I rent mainly with Airbnb, and it has been quite easy to manage. I recommend it if you just want to rent a bedroom, or your house while you go on holiday. As we are trying to position as a guest house, I recently registered on Booking as well, and got my first reservation soon after, although Booking doesn’t charge guests so you have to charge them, and since we can’t charge a credit card, the person got scared and cancelled when I asked her to wire the money.
+
+On Airbnb, they charge the guest, keep the money until check-in, then pay you. Both parties are safe.
+
+Airbnb charges the guest 10% admin fee, and 3% to the host, while Booking charges the host 15%.
+
+ 
+
+Both sites will work better if you put tons of pictures and descriptions. Be concise, but talk about everything. Is there wifi, a washing machine, a shared kitchen, can people use the fridge, is the bathroom a shower or a tub? etc. And how to get there, if there is public transportation, as many won’t rent a car.
+
+Most people will ask those questions anyway, so putting them in an ad is one way to avoid repeating yourself in an email over and over again.
+
+ 
+
+Both sites will require you keep an updated calendar of availability and rates. Make sure you do it and put a note to update it regularly. It will not only help you rank better on their search engine, but also save you time canceling over bookings. Check out the dates of Spring Break, Christmas holidays and other long weekends if you want to raise your rates, or prevent bookings and have your friends over.
+
+ 
+
+ 
+
+Pros about renting your place
+ 
+
+Money! Next month, we are going to Miami, and someone booked our house for a full month for $800. That will cover our two flights plus the cost of our staff while we are away. How is that for awesome? Finding a tenant for a whole month in the middle of the Guatemalan jungle that would come exactly while we travel to the US was pretty much a miracle, but you live in a big city, you can rent your place easily when you go away.
+
+ 
+
+Offer additional services. I offer to cook diner for them, and barely break even because I am alone tending to 2-4 people, but it is more a public service as there aren’t restaurants nearby. You can offer more expensive meals and make a profit. Big margins are on coffee and drinks. I also offer them to rent my car, hire a driver (which is also a public service, I don’t earn a cent on it, my mechanic does the job and it’s nice to see a nice person who otherwise wouldn’t connect with tourists get part of the tourism money), rent kayaks from my neighbors, take a cooking class in the village, go explore the jungle with my handyman…
+
+Now that I listed them all, I make money on none, but benefit other people so it is still a win for the village. You on the other hand could make extra money offering a cheap room and then charging for those extras. Renting a place for a week to a business person in a big city can get you some dry cleaning, cooking and maybe driving to the airport extras for example.
+
+ 
+
+You already have a place. This is easy to set up and requires almost no investment, just clean sheets and towels to start with. As you go, if you enjoy the idea you can buy nicer things and raise your rates. I have even seen people in big cities get bigger apartments and have rentals cover the difference, instead of a full time roommate. You are making money with something you already have, which is pretty awesome.
+
+ 
+
+Flexible home exchange. I like the idea of home swaps for the holidays, when you are in NY and want to go to Florida, and find a family who wants to do the opposite, then you swap properties. However, you need to have similar dates, comparable housing options (downtown Manhattan for Miami Beach, suburbs for suburbs, or a bigger house for a better located small one)… And it can get complicated. Renting your place and keeping the money so you can go on holiday is like having a flexible home swap. Once someone has booked your place, and you have the cash, it is much easier to find a holiday option for yourself rather than trying to locate the perfect swap.
+
+ 
+
+ 
+
+ 
+
+Cons about renting your place
+ 
+
+Lack of privacy. We do not share a bathroom with guests, but have had to when renting in NYC or SF on Airbnb. Still, guests can decide they want to lounge all day and do nothing, and you’ll have them around. No romantic diner, quiet sunset or private life while there are strangers in your air.
+
+ 
+
+They take a LOT of time. People are needy, they are in foreign territory, they want to talk, tell you about their day like they are Christopher Columbus, even though you’ve been to the Maya ruins 10 times and heard that very same story 100 times. You’ll be up before they want breakfast, and down after they go to bed, to clean up and wash their dishes.
+
+ 
+
+People think you are a travel agency. I am happy to give tips about the region, but when it gets into the minutiae of how they should plan their day, or when they want to exchange 12 emails about their plans in a city 300 miles away, the hourly rate suddenly gets close to minimum wage.
+
+ 
+
+Some will expect a full hotel. One couple wanted 4 pillows, towels changed every day… while booking on Airbnb a place described as rustic and in the middle of the jungle. For the luxury jungle lodge you can go pay $300 and up at nearby hotels. You have to set your conditions and be clear. I don’t mind extra towels and pillows, but a) not at 9pm when I want to go to bed and b) I don’t have a washing machine so that means extra hours for the cleaner, and less profit.
+
+ 
+
+Being friendly can lead to abuse. When you tell people they can use your drinking fountain, you don’t expect them to fill their half gallon bottle for their day trip (saving $0.5)? They will. They will even take the tank off to get the last drop. Give them coffee mugs and they will go through your personal shelf to grab your personal mug because they like it better. You have to put limits to everything. Where is your space, where is theirs, noise, what can they drink/eat, etc.
+
+ 
+
+Plans will change. That same couple (they were a real PITA) cancelled diner on me at 6pm, when all the food was cooked and ready. I tried my hardest to smile and say “no worries” but wanted to strangle them. The following morning, they had asked me to book them a driver and told me at 7am they didn’t want their 9am pick up. The previous day they had hired a driver until 2pm and had him drive 60 more miles than agreed, drop them three hours late at 5pm and just shrugged saying “yeah, you know, we just made a very small detour”, then complained when I asked them for an extra… hold your breath… $12. Those people will eat up your profits.
+
+After learning the hard way, the option is to raise your rates and be at peace with it. People can also cancel 5 days in advance for a full refund on Airbnb so you should consider it side income, don’t count on it to pay your mortgage or your holidays.
+
+ 
+
+Some guests are a pain. Like the ones above, we also had a family who forgot an iPad. We weren’t home so the maid found it. I told the guests I would put it in courier for $100. I was ready to go to the post office on my gas and time, but not to bring it with me to Miami so they could get a cheaper rate, as my luggage space is limited and I am not that kind anyway. So they went behind my back, called the maid, who is from Spain, and convinced her to take the iPad to Spain, ship it to a Spanish friend of theirs, so the friend could give it to them (they live in CALIFORNIA!) and they could save on shipping, while not enjoying their iPad for over 2 months.
+
+When people prefer bothering several persons to take care of their personal mess instead of being responsible adults, you can imagine how they will behave in your property. Yes, they did leave with toilet paper too.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ok, looks like I needed to vent about the past couple of guests. But… the money has been good and covered our housing expenses and staff for the past three months. Actually, it is my goal this year to make $500 a month with the guest house, for a $5,000 yearly profit ($1,000 would go on cleaning fees and utilities) and cover the cost of the house.
+
+It isn’t much, I just need to rent 7 nights a month to have a free place to myself the rest of the time.
+
+Since November and our first guests, I have made over $1,500 in profit. What I like best is the flexibility you can have to rent just one weekend per year if you’d like, and no more, without much trouble. That is still a grey area legally though, as you are not a hotel, so you need to check if you can operate that kind of business where you live, and how to report your earnings.
+
+ 
+
+Is renting your house or a room to tourists something you would consider? If you have, how did it go?"
+8,2015-11-02,MartEden,3,A Dozen Things I’ve Learned from Charlie Munger,"**1. STAY IN YOUR CIRCE OF COMPETENCE**: Know the edge of your own competency. It is not a competency if you don’t know the edge of it.
+
+**2. MAINTAIN A MARGIN OF SAFETY**: Buy assets at a bargain so your investing results can be financially attractive even if you make a mistake. Price is not always the same as value. Avoid big mistakes. Reputation and integrity are your most valuable assets. Reputation earned over a lifetime can be lost in seconds.
+
+**3. THINK INDEPENDENTLY AND WITH OPPORTUNITY COST IN MIND**: Markets and crowds are not always wise. Allocate your time and other resources to your most attractive opportunities. The highest and best use of a resource is always measured by the next best use.
+
+**4. BE INTELLECTUALLY HUMBLE**: Recognize that the world is genuinely complex and that what you know is a fraction of what you still don’t know. Wait for what you expect rather try to forecast timing. Think about second order and above impacts of anything.
+
+**5. BE SMART BY NOT BEING STUPID**: Tune out stupidity. The greatest and most important risk is permanent loss of capital, not just volatility in price. Only accept risk when you are properly compensated for assuming that risk. Activity for its own sake is not intelligent.
+
+**6. BE PATIENT, BUT AGGRESSIVE WHEN IT IS TIME**: Great opportunities do not appear that often, but when they do appear they won’t last long so you must be aggressive when the time is right. When the odds of success are very substantially in your favor, bet big.
+
+**7. BE PREPARED**: Great investments are hard to find but by consistently working hard you might find a few of them. You only need to find a few great investments in a lifetime.
+
+**8. KEEP IT SIMPLE**: Apply organized common sense when solving a problem or when doing an analysis of an opportunity. Think more and calculate less. Avoid false precision and unnecessary transaction costs. Try not to interrupt interest that is compounding. Focus on being a business analyst, not a macroeconomic forecaster. Pay attention to the business cycle, but don’t try to predict it.
+
+**9. ACCEPT CHANGE**: Avoid master plans since change is the only constant in life. Adapt. Look for evidence that would dis-confirm your own ideas. Understand arguments from all sides. Face your problems.
+
+**10. THINK BROADLY**: Use multiple models from many disciplines in doing an analysis. Borrow the great ideas of the best thinkers in every discipline. The antidote to man with a hammer syndrome is a full set of tools.
+
+**11. AVOID HUBRIS**: Try to avoid fooling yourself, which is hard since it is easy to do. Understand that more of success in life is luck than you imagine.
+
+**12. KEEP LEARNING**: Be a learning machine. Never stop reading. Be curious. Surround yourself with smart people. Set aside time to read and think."

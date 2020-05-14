@@ -1,0 +1,275 @@
+,created_utc,author,score,title,selftext
+0,2017-01-26,alta_alatis_patent,4,Microsoft's awesome earning release today. Is it too late for the hype train?,http://www.investors.com/news/technology/microsoft-beats-q2-targets-on-cloud-computing-strength/
+1,2017-01-18,yanks09champs,0,Would you invest in a cloudera ipo (they may go public I dont think its certain yet),"Cloudera Inc. is an American-based software company that provides Apache Hadoop-based software, support and services, and training to business customers. 
+
+They have backing from a lot of very powerful companies are on of the top 10 cloud computing companies according to forbes my question do you think that they have the ability to longterm compete with the likes of ibm why or why not ?
+
+They have been valued at over 4 billion but only have revenue in the lower 100's millions I think 2015 was 200 million?
+
+Thanks"
+2,2017-02-18,LiveSpin,0,"Arista Networks (ANET), up 18.86% in the last 5 days.","Yahoo! Finance page: https://finance.yahoo.com/quote/ANET?p=ANET
+
+There were a few posts months ago about Arista Networks, a cloud computing company that was stealing market share from Cisco. The founders hit a dinger in Google, founded Sun Microsystems (sold to Oracle) and Granite Systems (sold to Cisco). 
+
+Writeup on the company from Sep. 16: https://stockrow.com/blog/posts/b958-arista-networks-is-quickly-taking-market-share-from-cisco
+
+Where do you guys think the company and the stock are headed in the next 12 months? "
+3,2017-05-30,gambit270,731,"Amazon's Stock Finally Rockets to $1,000 a share - Next Up Is $1 Trillion Market Cap!","Amazon's stock, much like the digital giant itself, is an unstoppable beast.
+
+Shares of Amazon briefly eclipsed the $1,000 a share mark on Tuesday, giving the company a market cap of more than $477 billion. Amazon's stock has surged 33% year to date, torching the Nasdaq Composite's 15% gain. In large part, the bullishness on Amazon is being fueled by its disruption of industries from bricks-and-mortar retail to cloud computing. As it stands, that disruption could likely keep Amazon's stock red-hot for as far as the eyes could see.
+
+""Amazon is likely to be one of the first trillion-dollar market cap companies; it's just a question of when, not if, in our view,"" Barclays analyst Ross Sandler wrote recently. ""The retail business has a considerable moat, and the Prime flywheel and logistics and automation are just getting going,"" said Sandler, who also struck a bullish tone on the prospects for Amazon's cloud computing business. Sandler has a $1,120 price target on Amazon."
+4,2017-05-10,isrly_eder,530,Cryptocurrencies and the circle of competence,"*A quick note to investors that believe the intrinsic value of bitcoin is 0 because they can't do a DCF on it: this isn't the place to argue with me about it. I suggest you read a bit more about what it actually is (hint: not a currency). I've defended its value in plenty of other posts on this sub. It's a $40+ billion market, so at least a few people agree with me. I welcome you to short the crypto of your choice if you think it's worth nothing. This is a post for folks that believe that cryptocurrencies have at least some discernible value and are considering investing in them.*
+
+***
+
+&gt; If we have a strength, it is in recognizing when we are operating well within our circle of competence and when we are approaching the perimeter.  – Warren Buffett
+
+Given the tripling of the cryptocurrency market cap in the last few months and the 3- to 10-fold increases in virtually every major altcoin, cryptocurrencies like Ethereum and of course Bitcoin have been getting a stunning amount of attention in the press and on this subreddit recently. 
+
+If you follow the cryptocurrency world closely, you know that there have been a huge amount of dubious ICOs (initial coin offerings) on the market recently. It's an explosive time in crypto. 
+
+It's also a frustrating time for many long term bitcoiners and crypto fans, because we're faced with a barrage of questions from outsiders who see the returns and want to buy in to the ""next big thing"" and make a quick buck. This is a warning to those people. 
+
+Everyone is a genius is a rising market. It's hard to go wrong these days in crypto. Even coins of dubious merit like Ripple, Dogecoin, Stellar, NEM were pumped 5 times without any fundamental change. Speculators/investors have thrown money at crypto indiscriminately and efficient markets have 100% broken down. The altcoin pump right now is roughly comparable to the Dot Com crisis of the early 2000s. 
+
+1. New tech promises to change the world
+2. Investors jump in on hype and promises
+3. A surge of IPOs (ICOs) occurs to capitalize on this
+4. ""Greater fool"" traders pile in, thinking they can make money even if the underlying is unsound
+5. Analysts claim ""this time is different"" while seasoned old hands refuse to participate
+6. Tech is proven not to be as developed as everyone thinks, market tanks 
+7. Select few decent companies survive, all the trash is destroyed
+8. Tech eventually fulfills expectations, 10 years later, but none of the investors from the early days make money on it
+
+However, canny (and skeptical) investors can still make money on crypto, as cryptocurrencies are inevitable, and will continue to expand and proliferate, even when the altcoin crash comes. 
+
+Something to realize first of all is that the crypto market is heterogeneous. It has straightforward cryptocurrencies (bitcoin, litecoin, dash, monero), smart-contract cryptos (ethereum, ethereum classic) and a whole bunch of crypto tokens that follow dedicated platforms (golem, augur, steem). Not mentioned are ripple and stellar because they aren't really cryptocurrencies at all.
+
+The investing theses for all of these categories is radically different. The measure of success for a currency or store of value is adoption, merchant use, low volatility, a large network, and real world acceptance as something worth owning. Bitcoin has this right now, which is why it's more than 50% of the ecosystem, and none of its competitors are even close. Monero, Zcash, and [Dash](https://www.reddit.com/r/investing/comments/69ez1b/7500_faceless_coders_paid_in_bitcoin_built_a/dh7ajya/) are a special case in that they try and make transactions anonymous and privacy, allowing for use cases on the darknet markets, for instance. 
+
+The tech underlying bitcoin is essentially sound, although it is having a scalability crisis, which you should read about. It can't right now serve as a currency which will buy you a cup of coffee - the transaction fees are too high. However if you want to send $200,000 from Mexico to Indonesia or China to the Philippines, you can do it within 20 minutes, and with fees of a few dollars. And if you want to store your wealth in a vault that is totally secure, and cannot be debased by a central bank, bitcoin is a good bet. This is highly relevant to folks in India that just had cash abolished, to Venezuelans, to Argentines, to Cypriots, to Nigerians, anywhere local currencies are weak and volatile. The potential value of a competing cryptocurrency lies in whether it can improve materially on bitcoin, whether it means incorporating off-chain scaling (segwit with litecoin), making it more private and fungible (monero), automating governance (decred), and so on. 
+
+Then there are cryptoassets that incorporate smart contracts. These – ethereum and its derivatives – exploded when the SEC denied the Bitcoin ETF back in march and bitcoiners got worried and started diversifying. This is the market segment that is highly risky, even by crypto standards, in my opinion. Ethereum is a protocol that allows contracts to self-enforce. Programming power to run the contracts is paid for with ethereum. Two parties agree to a contract, and it then self-executes. It's secured by a decentralized computing network of ethereum miners, so the contracts cannot be shut down by a government or corporation. It's pretty clever. Last year, a $150+ million contract was drawn up with ethereum, which would act like a venture capital fund, picking good investments just based on the votes of the token holders. This was called a Decentralized Autonomous Organization, and it was hacked before it could do anything. Well, it was exploited based on the code and so the exploit was totally ""fair"" given that the contract was meant to be inevitable, once agreed to. However, the creators of Ethereum didn't like the idea of losing $50 million, so they decided to collectively agree to amend the rules of the protocol itself (violating ""Code is Law""), and jump onto a new one, which they would also call Ethereum, although it was really Ethereum 2.0. Some people got upset by this, because they thought that immutability and not arbitrarily rolling back the code was more important than some investors losing money because of poorly written code. They created Ethereum Classic, which is the original Ethereum chain. This wasn't what the Ethereum 2.0 folks thought would happen, but it did happen, so there are two competing Ethereum chains now. 
+
+Eventually, lots of decentralized apps were funded, via tokensales. A development team would say: ""we're going to use ethereum to create a decentralized cloud computing/AI/prediction/gambling/timestamping/social media network."" And then investors would buy the tokens, expecting that eventually the dev team would deliver, and the tokens would be in demand, since they would be required to use the network. It's a bit like buying in-game-currency when the game is announced, anticipating that the game would be wildly popular and you'd be able to sell it on later at a profit or acquire it cheaply to buy in-game items later on. However, many of us think that the promises are a bit extravagant, and that investors in these ICOs are probably going to lose money. The incentives aren't well aligned. Founders can just not deliver and run off with the money, and there's no regulatory body to enforce that. And for Ethereum more broadly, many people are worried that the turing-completeness of the language will mean it will face serious threats and unforeseeable hacks, like with the DAO. Finally, Ethereum has increased from around $20 to $90 in a matter of months, which raises the question of whether a) the market realized its true value or b) it was pumped on speculation. There's a huge set of unknowns with a smart contract currency, and virtually none of the promised dapps are up and running right now, and the ones that are haven't really attracted large userbases or delivered. This is because the tech is in its infancy, and the developers are still learning how to use it properly. So we won't know if these sorts of decentralized networks are even possible to create on the timelines that investors are expecting. Therefore, ethereum investors buying it on the promise of the realization of this tech in the near future are almost guaranteed to be disappointed. Additionally, ethereum is making the switch to the largely untested Proof of Stake algorithm, which will change incentives that secure the network. This brings me to my key point: 
+
+**Stay within your circle of competence. You can grow your circle – slowly. Cryptoassets are almost impossibly complex to grasp with just a cursory look. Investing in them requires weeks of reading and a very skeptical view.**
+
+***
+
+The above was an introduction to cryptocurrencies, the different ones on offer, and why investing in ethereum is not the slam dunk everyone thinks it is. This portion of the post will tell you about the kind of due diligence you need to do if you want to invest, rather than speculate, in crypto. 
+
+The first thing to mention is that passive investing in crypto has [historically been a terrible strategy](http://woobull.com/crypto-currency-index-funds-the-simulations-have-surprising-results/). Just buying bitcoin almost always outperformed. This was due to the poor set of altcoins, and the size of bitcoin's almost insurmountable network effect. This sort of changed in March and April when bitcoin's dominance went from 80% to ~50%, and it remains to be seen if this will persist or not. But the point is, buying the index is usually an awful strategy in crypto, particularly because there are so many truly awful projects out there. 
+
+So what does it take to invest responsibly in cryptocurrencies? It requires at least a basic understanding of three disciplines: public-private key cryptography; programming, and how open-source projects function; and economics, particularly game theory and the quantity theory of money. This is why is is so difficult to apprehend easily: because very few people actually boast a sincere understanding of these three topics. I certainly don't. 
+
+You need to be able to determine whether the tech is actually going anywhere, and whether the task the developers have set themselves is possible or realistic. You need to know how open source networks are governed, and which models strike the best balance between efficiency of decision-making and fair consensus. You need to be able to measure the inflation schedule of the cryptocurrency, and see whether your coins are going to inflated away. You need to be able to make plausible guesses about the potential market for the crypto and estimate future values. Note that the payoff structure is not equity-like. It's more like early stage venture capital, or buying loss-making biotech companies. Here's my checklist of questions to answer, ordered by importance: 
+
+* Does the project offer a significant improvement over its nearest competitor, or a reasonable chance of success in its stated aim? Is there a demand for this project? Does it have a concise and reasonable goal? (Narrower goal: higher likelihood of success). 
+
+* Is the development team competent? Are they committed to the coin? What's their track record? Is is an active dev team? Do they have a roadmap for the future? Are they transparent about goals? 
+
+* How is the development team funded? Is the currency corporate-backed? Is the funding transparent? Was the coin significantly premined? (Usually bad) Are developers paid via iterative community project crowdfunding? (Usually good). 
+
+* What is the governance structure of the currency? Who holds ultimate control over decisionmaking? How are decisions made? Are they transparent? Are mining/developer incentives aligned? 
+
+* Does the asset have acceptance and use today? Does it have a functioning use case? If it doesn't, does it have a decent chance of being accepted? 
+
+* Has the asset's ""market cap"" tripled or quintupled in the last few months? Was this based on any fundamental changes (new software releases, etc) or just speculation? 
+
+* What are the transaction volumes like? (Hint: divide market cap by monthly averaged daily on-chain tx volume to find a consistent ratio) What's the ratio of on-chain transaction versus exchange speculation? Has price gone up independent of transaction volumes? 
+
+* How long has the asset been around? Think of the Lindy effect. Older is usually better. 
+
+* What's the community like? Is there censorship? Does it have an active subreddit? Do the developers answer questions? Are they accessible? How big is the github community? (Hint: you can divide market cap by github commits to find a comparable ratio). 
+
+* Are you psychologically able to hold this coin in a 90% downturn? Is this a high conviction thesis or are you betting on being able to sell it to a greater fool? 
+
+How long did it take you to learn about investing in equities? Reading balance sheets, running DCF and DRI models, figuring out how to value a stock based on comparables? Years? How many mistakes did you make before you figured out how to be responsible? 
+
+Cryptos are an [asset class](http://research.ark-invest.com/bitcoin-asset-class) that is both radically different from anything that has existed before. They are also incredibly heterogeneous, as I argued above. It also leads to cultism – so bitcoiners generally take a dim view of ethereum, and vice versa. Monero fans generally don't like dash, and so on. You have to keep your mind open to understand new opportunities as they arise, and to stop yourself becoming too mentally invested in your project of choice. The vast majority of projects will fail within 5 years, so becoming overly certain of the success of one will probably devastate you. If you can stay balanced, stay honest about your crypto's chances of success and adoption, not get tunnel vision, and not take overly risky positions, you have a good chance of not losing everything. Remember the payoff structure. Heavily rightward skewed. A ton of cryptos earn no return and a select few earn an absurd (1,000-10,000x) return. 
+
+None of this is necessary if you just want to invest randomly in one of the top ten cryptos. That's the strategy of 95% of investors today. Pick a coin and go. If it's not bitcoin, I can pretty much guarantee you'll lose money. The newer, the worse. 
+
+I've not made an effort to convince you that cryptos have intrinsic value. If you've made it this far, you probably think they're worth something at least. However, they're probably not worth as much as the market is pricing them at right now. Especially not those in the ethereum family. I'm not going to tell you what to invest in, because that would defeat the purpose of this post. I'm telling you to do your due diligence before blindly buying a crypto. And that due diligence on ethereum is as complex and difficult as Tesla or Amazon DD. And that your skills in equity valuation are pretty much useless in this asset class. My circle of competence doesn't extend to options or lean pork futures, so I don't touch those. I suggest that until you really feel comfortable in crypto, you don't buy randomly. 
+
+***
+
+Summative thoughts: 
+
+1. Investing in crypto is hard 
+2. 90% of people that invest at market peaks will lose money 
+3. You have to extremely skeptical and invest in high-conviction positions 
+4. Cryptos are exhibiting bubbly behavior right now, it's a pretty bad time to pick one out
+5. Cryptos are nothing like equities but they do have real value
+6. Cryptos are the future, but almost none of these coins will survive 10 years
+7. The older the better
+8. Governance is key
+9. These are speculative positions, only invest what you can tolerate losing
+10. You can make money investing in cryptos 
+11. Passively investing in cryptos doesn't work
+12. It's a winner takes most market, there won't be 1 crypto that wins. There will be different cryptos for different use cases. 
+
+
+edit: deleted chart with probabilities of success because of subjectivity and oversimplification. 
+
+edit2: I've been overwhelmed with PMs so bear with me. also, please forgive any spelling errors on this post. I wrote it in one frenzied sitting.
+
+edit3: I knew I would get a fair amount of resistance from ethereum investors (even though I attempted to keep my post as balanced as possible) but I was unprepared from the breathtaking volume of spam and diversity of attacks. One particular user has made 30 comments in this thread. I don't have a stake in ETC, period. The post is 3000 words long and most of it is about how to properly do your due diligence in a crypto. if ethereum fares poorly by standard due diligence metrics, then perhaps your issue is deeper than one post on /r/investing. 
+
+**final edit: there have been some broken-hearted ethereum fans very busy organizing [brigades](https://www.reddit.com/r/ethtrader/comments/6as0ag/etc_trolls_in_rinvesting_trying_to_confuse_new/) against this post, and attacking me personally, and so on. It's all very incovenient. I can tell that I struck a nerve. This post isn't really about ethereum - it's about how to do research in crypto, and why you can't expect to profit handsomely without that due diligence. I mentioned ethereum because there are 3 or 4 breathless posts on here a day about its stunning gains and whether it's worth investing in. My answer: read about it first, from a diverse set of sources. A final note: I do not own any ethereum classic, I have never owned ethereum classic. I brought it up because it is part of the ethereum story, and an example of what happens when you have a contested hard fork. I do hope that ethereum succeeds, I am just cautioning against over exuberance.**"
+5,2017-06-28,vegaseller,186,"Wal-Mart warns motor carriers to stop hauling Amazon loads, consultant says","http://www.dcvelocity.com/articles/20170627-wal-mart-warns-motor-carriers-to-stop-hauling-amazon-loads-consultant-says/
+
+Wal-Mart Stores Inc. is telling its for-hire motor carriers that if they also haul goods for Amazon.com Inc., they will have to stop doing so in return for keeping Wal-Mart business, a leading transport and logistics consultant said today.
+
+Speaking at the SMC3 annual summer conference in Palm Beach, Fla., Satish Jindel said Wal-Mart's warning is the latest step in what he called an e-commerce ""cold war"" between the two retail titans, which built dominant positions in different segments of the trade. It was reported last week that Wal-Mart had told some technology companies that if they want its business, they can't run applications for the retailer on Amazon.com Inc.'s cloud-computing service, Amazon Web Services, and instead must use Redmond, Wash.-based Microsoft Corp.'s cloud service, known as Azure.
+
+Jindel, who made a presentation on Amazon's take-no-prisoners rise to online retail dominance, said he became aware of Wal-Mart's actions through some of his sources. A Wal-Mart spokesman would not disclose the extent of the company's outside carrier relationships. Wal-Mart is a large user of trucking services, utilizing its private fleet, dedicated contract relationships with motor carriers, and the for-hire truck network. In an e-mail, the spokesman said Wal-Mart drivers log about 700 million miles annually, but wasn't specific as to whether that included drivers working on a for-hire basis."
+6,2017-06-26,Snemeis_ustijuf,1,In which of these industries you think is worth it to invest and why?,"I made a list with a few industries which I think worths it to invest in. 
+
+* Artificial Intelligence
+
+* Cloud Data Storage ↔ Big Data
+
+* Virtual Reality
+
+* Augmented Reality
+
+* Bio-tech
+
+* Elon Musk – SpaceX, SolarCity, Tesla, Neuralink
+
+* Internet of Things
+
+* Robotics
+
+* Health Care
+
+* Biotechnology
+
+* Green Energy
+
+* Marijuana
+
+* Food Industry
+
+* Fast-Moving Consumer Goods
+
+* Textile Sector(Clothes)
+
+* Water
+
+##And for the long haul.
+
+* 3D BioPrinting
+
+* Brain-Computer Interface (Elon Musk‘s Neuralink)
+
+* Quantum Computing
+
+* Speech recognition
+
+* Translation and Interpretation Services (Speech-to-speech Translation)
+
+* Artificial Intelligence*
+
+* SpaceX(When and if it goes IPO)
+
+* Robotics*
+"
+7,2017-06-22,wanmoar,15,Wal-Mart to vendors: get off Amazon's cloud,"excerpts below, full article here:
+
+Wal-Mart uses some tech vendors' cloud apps that run on AWS, said Wal-Mart spokesman Dan Toporek. He declined to say which apps or how many, but acknowledged instances when Wal-Mart pushed for AWS alternatives.
+
+""It shouldn't be a big surprise that there are cases in which **we'd prefer our most sensitive data isn't sitting on a competitor's platform**, "" he said, adding that it's a ""small number.""
+
+An Amazon spokeswoman referred to Wal-Mart's moves as attempts to ""bully"" tech suppliers. ""Tactics like this are bad for business and customers,""
+
+Snowflake Computing Inc., a data-warehousing service, was approached by a Wal-Mart client about handling its business from the retailer, Chief Executive Bob Muglia said. **The catch: Snowflake had to run those services on Azure.**
+
+""They influence their vendors, which has influence on us,"" Mr. Muglia said of Wal-Mart.
+
+The San Mateo, Calif., company had been developing an Azure offering, and ""Wal-Mart has expedited our work,"" said Mr. Muglia, a former senior Microsoft executive. Snowflake won the business from Wal-Mart's client.
+
+**Other large retailers also have requested**, as Wal-Mart did, that service providers move away from AWS, according to technology vendors that work with retailers.
+
+While Wal-Mart's **efforts aren't likely to staunch AWS's growth, it could boost rivals.**
+
+""People jump through hoops to do business with Wal-Mart all the time,"" said Robert Hetu, an analyst with the research firm Gartner Inc. ""That should absolutely accelerate the competition from Azure.""
+
+It has, **Microsoft said. ""The nudge from Wal-Mart has been pretty consistent,**"" said Judson Althoff, executive vice president in charge of Microsoft's global sales to business customers.
+
+Lofty Labs, a software-development firm in Fayetteville, Ark., worked with a retail-analytics consulting company to build cloud-based forecasting tools for Wal-Mart. To win the business, Lofty Labs had to develop the application for Azure.
+
+""That was a deal breaker,"" Lofty Labs President Casey Kinsey said. The service is the only one Lofty Labs ever developed to work on Azure. ""Everybody knows that Wal-Mart will not play ball with you if you use AWS."""
+8,2017-08-30,Arade,4,Batch Investing,"So I've been investing for a 1 year on and off and have now began taking investing seriously. Studying on multiple strategies, reading multiple books, being active in several communities, day trading pennies, and swing trading. Robinhood is my main brokerage and I use a robo advisor (Betterment) for my ROTH IRA (liking it btw). Now, since I don't have a ton of equity to invest I was looking at Batch Investing for different sectors. 
+
+I'm curious, has anyone ever invested this way? I'm looking at investing in Cloud Computing and Gaming for now. 
+
+The only roboadvisor/brokerage that I've seen do this is Motif. 
+
+Any input would help! Thanks! 
+
+[I APOLOGIZE IF THIS TOPIC HAS BEEN PRESENTED SOMEWHERE ELSE]"
+9,2017-10-21,themarketline,2,Enterprising Cloud and Network Communication,"I'm particularly interested in the future of cloud computing and IT infrastructures. As we become more mobile and everything from phones to juicers have internet capabilities, my belief the cloud will become a core backbone for these products. This is an obvious trend as major players like Amazon, Cisco, and IBM have already begun providing such services. 
+
+Are there any smaller public companies that have a similar business model as Masergy (https://www.masergy.com)? Masergy is a communications company which provides hybrid networking, cloud communications, and cyber security. 
+
+In parallel, the IT infrastructure most likely will need to be upgraded which will probably result in a rise of data centers. Are there any public companies out there that have a interesting or bright future in providing data center services?
+
+ 
+
+
+
+"
+10,2017-11-02,gaboonzoom,74,"Alibaba beats by $0.26, beats on revenue, raises guidance","Some numbers:
+
+Revenue was RMB55,122 million (US$8,285 million), an increase of 61% year-over-year.
+
+Revenue from core commerce increased 63% year-over-year to RMB46,462 million (US$6,983 million).
+
+Revenue from cloud computing increased 99% year-over-year to RMB2,975 million (US$447 million).
+
+Mobile MAUs on our China retail marketplaces reached 549 million in September 2017, an increase of 20 million over June 2017.
+
+Net income was RMB17,408 million (US$2,616 million), income from operations was RMB16,584 million (US$2,493 million) and adjusted EBITDA was RMB25,031 million (US$3,762 million). Operating margin was 30%, adjusted EBITDA margin was 45% and adjusted EBITA margin for core commerce was 57%.
+
+Raises revenue guidance to 49-53% growth. 
+
+Shares currently up 2.5% premarket.
+
+https://www.bloomberg.com/news/articles/2017-11-02/alibaba-raises-forecast-after-quarterly-results-top-estimates
+"
+11,2017-12-14,liano,31,Oracle falls 4% after hours despite earnings beat,"Oracle saw its stock fall by more than 4 percent after reporting better-than-expected earnings for the second quarter of its 2018 fiscal year, which ended on Nov. 30. The company will hold a conference call with analysts at 5 p.m. Eastern time.
+
+EPS: Excluding certain items, 70 cents in earnings per share vs. 68 cents expected by analysts, according to Thomson Reuters.
+Revenue: $9.62 billion vs. $9.57 billion expected by analysts, according to Thomson Reuters.
+Revenue rose 6 percent year over year, the company said in a statement. On-premises software brings in more revenue than anything else at Oracle, and in this quarter it generated $6.3 billion, which was up 3 percent. But within that category, new software license revenue of $1.35 billion was flat.
+
+Oracle said its cloud revenue grew by 44 percent year over year; analysts had expected a cloud growth rate of 43.7 percent, according to KeyBanc analysts Monika Garg and Jason Celino. Oracle has become more focused on growing its cloud computing revenue amid falling software license revenue.
+
+[article!](https://www.cnbc.com/2017/12/14/oracle-earnings-q2-2018.html)"
+12,2017-12-06,gronkspike25,175,"Google pulls YouTube from Amazon devices, escalating spat","A rare public spat in the technology industry escalated on Tuesday when Google said it would block its video streaming application YouTube from two Amazon.com Inc devices and criticized the online retailer for not selling Google hardware.
+
+The feud is the latest in Silicon Valley to put customers in the crossfire of major competitors. Amazon and Google, which is owned by Alphabet Inc, square off in many areas, from cloud computing and online search, to selling voice-controlled gadgets like the Google Home and Amazon Echo Show.
+
+The stakes are high: many in the technology industry expect that interacting with computers by voice will become widespread, and it is unclear if Amazon, Google or another company will dominate the space. Amazon's suite of voice-controlled devices has outsold Google's so far, according to a study by research firm eMarketer from earlier this year.
+
+In a statement, Google said, ""Amazon doesn't carry Google products like Chromecast and Google Home, doesn't make (its) Prime Video available for Google Cast users, and last month stopped selling some of (our sister company) Nest's latest products.
+
+""Given this lack of reciprocity, we are no longer supporting YouTube on Echo Show and Fire TV,"" Google said. ""We hope we can reach an agreement to resolve these issues soon.""
+
+Amazon said in a statement, ""Google is setting a disappointing precedent by selectively blocking customer access to an open website.""
+
+It said it hoped to resolve the issue with Google as soon as possible but customers could access YouTube through the internet - not an app - on the devices in the meantime.
+
+The break has been a long time coming. Amazon kicked the Chromecast, Google's television player, off its retail website in 2015, along with Apple Inc's TV player. Amazon had explained the move by saying it wanted to avoid confusing customers who might expect its Prime Video service to be available on devices sold by Amazon.
+
+Amazon and Apple mended ties earlier this year when it was announced Prime Video would come to Apple TV. Not so with Google.
+
+In September, Google cut off YouTube from the Amazon Echo Show, which had displayed videos on its touchscreen without video recommendations, channel subscriptions and other features. Amazon later reintroduced YouTube to the device, but the voice commands it added violated the use terms and on Tuesday Google again removed the service.
+
+The Fire TV loses access to its YouTube app on Jan. 1, Google said. Amazon has sold that device for longer than the Echo Show, meaning more customers may now be affected.
+
+https://www.google.com/amp/mobile.reuters.com/article/amp/idUSKBN1DZ37O"

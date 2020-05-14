@@ -1,0 +1,177 @@
+,created_utc,author,score,title,selftext
+0,2020-01-05,ka-cirt-bu-bo-fo,95,“The Man Who Solved the Market”: And the solution was… HMMs and regression,"I just finished reading Gregory Zuckerman’s biography of Jim Simons. The best answers I was able to get from the book on what their solution to the market was:
+
+1. Markov chains, HMM models
+2. Linear factor models, followed by high dimensional kernel regression methods
+3. Big monolithic models and lots of data
+4. A well orchestrated engineering effort
+
+1 was the start of their bonds, commodities, and currencies team, and 2 was the start of their stocks team, and 3 &amp; 4 were guiding principles for both these teams.
+
+Quantitative Bonds, commodities, and currencies team:
+
+James Ax, a number theorist and strong believer in Markov Chains for financial markets was JS’s first quant, and headed the effort under the name Axcom in CA. By ’86 Axcom traded 21 different futures contracts. René Carmona then joined them to try to incorporate SDEs, his field of expertise. When that failed, Carmona suggested changing their existing linear regression approaches to be nonlinear, high dimensional kernel regression methods, and having the model directly suggest buy/sell orders. These improved results on trending models.
+Elwyn Berlekamp (who had worked with Kelly) took over Axcom in ’89 and brings in Henry Laufer in ‘92, they worked on mean reversion strategies and looking at correlations between time periods. They start using data in 5 minute bars, used pairs trading, and had an online learner, constantly looking for trading signals (one auspicious one they called “Henry’s signal”). By ’97 “more than half of the trading signals Simons’s team was discovering were nonintuitive” and they ignored them. But they figured out the right day and time to make their trades. Later Simons says “we’re the best at estimating the cost of a trade.” In ’98 they are the majority of the firm, with stock trading only 10% of the profits.
+
+Quantitative Stock team:
+
+This team starts to make progress in ’93 when Nick Patterson contacts Brown and Mercer at IBM’s speech group (which uses algorithms like Baum-Welch in their HMMs for speech-to-text). Brown and Mercer take over Robert Frey’s factor stock trading fund named Kepler (later Nova). Frey (previously statistical arbitrage at Morgan Stanley) was identifying various independent variables for factor trading models. Brown &amp; Mercer retain Frey’s model, and elaborate it to cover real-life technicalities he was ignoring. They make an adaptive single trading system for their whole portfolio, and self-correcting for when the trades it suggests are unexecutable. The system repeated on loop several times an hour. It was a well engineered product, and usually bet on mean reversion strategies. By ’03 their profits are 2x Laufer’s team, and they work on a model to replace the futures team’s. Alexey Kononenko rises through the ranks of this team. Two members Belopolsky &amp; Volfbeyn bolt to Israel Englander’s Millennium management, allegedly with (millions of lines of) code and ideas, and have great success there (“some of the most successful traders Englander had encountered”). By 2010 the system is huge, executing thousands of simultaneous trades throughout the day, with lots of factors and interrelations.
+
+Some thoughts:
+
+HMMs, factor models, non-linear kernel regression, correlations between various time periods, these are all separately well known pieces. But the book says many times that a single model was handing out trading instructions. My first guess for how to put these different elements together would be that everything else was generating features for the HMM.
+
+RenTech is having its best years right now! $63B of its $104B trading profits are since 2010, and with just 300 employees. Surely it has updated its techniques, and probably cashed in on the deep learning revolution raging since (at least) 2014!
+
+Additional details with links/figures is here:
+
+https://medium.com/@ilyakavalerov/the-man-who-solved-the-market-and-the-solution-was-hmms-and-regression-dd60cea5a6d7?sk=d544bcb2a76b46ea4311576bb2e40a4a"
+1,2020-01-02,MasterCookSwag,1,Goldman Sachs: Learning From A Century of US Recessions,"CNBC had some really sensationalized reporting around this that was removed but the paper itself is quite a good read.  Here's the highlights:
+
+&gt; —During the “Great Moderation” period before 2007, many economists were
+hopeful that various structural and policy changes had made the economy
+fundamentally less recession-prone. While this view took a serious hit in the
+crisis and the subsequent deep recession, we think many aspects of the Great
+Moderation are still intact, and some have even strengthened.
+
+ &gt; —A review of the last century of US recessions highlights five major causes:
+industrial shocks and inventory imbalances; oil shocks; inflationary overheating
+that leads to aggressive rate hikes; financial imbalances and asset price crashes;
+and fiscal tightening.
+n 
+
+&gt; —The first three causes of recession have become structurally less threatening, in
+our view. Better inventory management and the shrinking output share of the
+most cyclical sectors have reduced the impact of industrial fluctuations. The
+decline in the economy’s energy intensity and the rise of shale have reduced the
+impact of oil price shocks. And better monetary policy has led to a flatter and
+more anchored Phillips curve, reducing the risk of inflationary overheating.
+n 
+
+&gt; —The fourth cause, financial risk, has been the main source of recent recessions.
+Old risks could reemerge, and the growing financialization of the economy or
+shocks from abroad could create new risks. But for now, regulation and private
+sector restraint in the post-crisis environment have kept financial risk subdued.
+n 
+
+&gt; —The fifth cause, fiscal policy, has historically meant major postwar
+demobilizations on a scale not seen since the Korean War. But here too, new
+risks could emerge in an era of political polarization, uncertainty, and dysfunction.
+n 
+
+&gt; —Overall, the changes underlying the Great Moderation appear intact, and we see
+the economy as structurally less recession-prone today. While new risks could
+emerge, none of the main sources of recent recessions—oil shocks, inflationary
+overheating, and financial imbalances—seem too concerning for now. As a
+result, the prospects for a soft landing look better than widely thought.
+
+https://www.goldmansachs.com/insights/pages/learning-from-a-century-us-recessions/report.pdf
+
+In summary Goldman is saying that structural changes to the economy as well as relatively tighter fiscal and regulatory controls have lessened the risks of a hard crash.  The idea of a soft landing economic event could be quite likely - think 2000-2002 but without the multiple compression in equity markets."
+2,2020-02-22,winterishere314,1,Does anyone successfully use machine/deep learning?,"Question as the title. Does anyone successfully use machine learning just using local/cloud resources? If so, how many sources do you use?"
+3,2020-02-18,artofgio,1,Coronavirus Will Reward the Wolves and Punish the Sheep,"TLDR: Panic selling is what stupid people do and it can be one of the costliest decisions an investor will ever make. Your short term capital gains will never, ever make up for the lost potential gains you'll suffer. 
+
+I have a fairly forward-looking portfolio: The big boiz (T-MAGA), some other tech and AI, some midstream and renewables, some entertainment and streaming; and others, freckled with some biotech, dividend champion/aristocrat cushioning, and safe, old favorites (The Warren Buffett picks, mostly), and one thing I'm seeing is that stocks that are super strong are getting shaky (some of them are getting hammered) due to what I believe is panic-selling.
+
+Most successful investors (those that have not lost money) know that panic-selling is the Morgoth of money already, so if at least 80% of your portfolio is long term (as in hold or buy for at least 3 years) then you don't even need to read what I'm about to write because it's old news to you.
+
+Anyway, here's some fun, but very true facts:
+
+* Coronavirus (COVID-19)
+   * has killed \~2000 people (according to USA Today)
+   * is new and interesting (dangerous)
+   * will likely be under control before summer.
+* Orthomyxovirus (THE FUCKING ***FLU***)
+   * between 12,000 – 61,000 **deaths** annually since 2010 ([https://www.cdc.gov/flu/about/burden/index.html](https://www.cdc.gov/flu/about/burden/index.html))
+   * is constantly mutating its hemagglutinin (H) and neuraminidase (N) genes (remember H1N1? that's what those letters are. )
+* The US economy
+   * is stronger than it's EVER BEEN.
+      * you heard God-Emperor Trumpiboi. 
+      * is growing and isn't showing any signs of stopping.
+
+That said, I'm seeing companies like T-MAGA weathering the storm as expected, at least for now. Apple opened low so I increased my position and - wouldn't you know - it went back up 3 bucks. Google is teetering but it's fucking google so it's not going anywhere. You get the picture: winners don't just magically start losing. They can, however, appear like they have magically started losing when people who run for cover every time some blowhard reporter blows a situation out of proportion start panic-selling. 
+
+So what? Who cares, right? Buy low, sell high, am I right? Well, in case anyone has been under a rock for the last couple of months, short-sellers (you know who you are) have been getting their shit packed in more violently than ever before. Why might this be? Oh yeah, because the economy is stronger than it's ever been. It's somehow super easy for people to forget that when a virus that only knocks off the very young, very elderly, and the otherwise immunocompromised takes out a near-invisibly small fraction of the population. This causes them to fear for the worst, especially after seeing such unbelievable returns, and they start having visions of their portfolio drenched in red. So they figure ""fuck it I made my money, time to get out before the world ends."" 
+
+To be clear, I am absolutely saying that you should never, ever sell a stock. There are certainly times in the history of the economy where it's been wise to sell. A popular example nowadays is sears vs amazon. But selling positions in strong, promising companies just because ""OMG GUYS LOOK AT ALL THE RED OMGOMG CORONAVIRUS MUST BE KILLING MILLIONS"" is just dumb. These people are the sheep I'm talking about.
+
+Again, why do I care?
+
+I care because it took me a very (very) long time to shake that mentality and come to a point where I only sold a stock under at least one of two conditions:
+
+* It's huper high (or just overvalued) and none of my best resources have given me any reason to believe it's getting higher
+* There's another stock that's super undervalued and I have very good reasons to believe it will grow.
+
+But, before I grew up, I lost so much money in panic/short-selling that I'm embarrassed to say how much. To give you an idea, however, I will say that at one point I owned a large amount of microsoft at a cost basis of \~30 bucks a share that I sold at 32 because I didn't really like PC's and all the people who told me AI, cloud computing, and deep learning were the ""way of the future"" were, to me, the same dumbfucks I made fun of for buying Ferrari IPO. If I had listened to those whose experience far exceeded my own and just held my investments, I'd have 6-bagged it with msft, not including the dividend. I also owned Tesla at 147 and Apple at 115 but I wont say how much because it just hurts too badly. 
+
+So now, even though it is still very hard to see my gains seemingly dissolve before my eyes, I know that if I give in to the panic someone patient and smart enough to wait will buy up the shares at a discount. Nope. Fuck that. I won't let fear cost me another dime, and neither should anyone reading this. 
+
+Every investor i've ever talked to has admitted to panic selling in the past. What separates good investors from great investors is when they learn to stop. Even Buffett has made some bad calls. Bad investors, however, never stop giving in to their impulses. I wasn't quick to the lesson, to be sure. I have been investing for 14 years. I have a bachelor's degree in fine art, a bachelor's degree in biology with a minor in chemistry, a master's degree in biomedical science, and am currently halfway through a doctorate. That's 11 years of ""higher education"" SO FAR, and it still wasn't enough to get me smart enough to just take advice from rich people. After all, that's what I want to be: rich.
+
+So, when the market likely tanks this week, just remember there are some people that, had they taken this advice years ago, could be living debt and mortgage free with a multi-million dollar portfolio to retire them by age 40. Hint. Fucking. Hint.
+
+**Bottom line:** **Panic selling has cost me roughly 6x more money in lost potential gains than any other expense in my life, yes, even more than all the college. So just chew on that for a second. When your eyes widen and you go ""oh,** ***fuck*****..."" just imagine how stupid I feel.**"
+4,2020-03-19,Theaustralianzyzz,0,Investing in a 'business' for $400 a month. My friend said he was going to retire in his early 30's doing this business.,"I was planning to invest in a small business (food related) and so naturally I went out looking for people who have experienced with that. I eventually asked my friend, a **self-proclaimed** entrepreneur, to see if he could help ease my situation. It wasn't until he went deeper into what he was doing that I realised it was all a damn **scam.** Everything he was saying was completely un-related to what I actually wanted. He turned my question around and TRIED to recruit me by taking advantage of my situation. This is all at a subconscious level of course. He is not FULLY aware, he thinks he is doing something good. And that is why it is dangerous.
+
+So I've had a suspicion that my friend was dealing with a pyramid scheme. All that talking about '*character*' and '*leadership*', I really thought he was getting into something legitimate. I found out everything he was doing (from reading books to taking in new ideas) was **for** the pyramid scheme in the end. Books about *mentor*\-*ship*, *leadership*, *influencing* people, *personality* traits, *dreams* and *passion* and most dangerous of all, *the enslavement of the current system*, are reinforced constantly. He would tell me to read this and that. I thought it was great, personal development is respectable in itself, so I went along with it.  He would always tell me how amazing this business was. How respectful everyone is. How nice they are. But now I see through that mask. They are all a bunch of scammers.
+
+What is his business? He said, ""*Our business is amazing. ALL we need to do is recruit people. Once we get more than 12 people under our name, we can gain a profit. We don't even need to work at our 9 to 5 job! This is financial freedom. While everyone is out working like a slave, we will be making money passively. It's a dream com true! Everyone is so nice there. You should come to my business man. We have meetings every Friday""* I think to myself, ""What about the people I recruited? How do they get money?"". Isn't that a question worth considering? I didn't get to ask that question because he was so passionate in preaching his business.
+
+So then I asked him how much it costs he said, ""*We only need to pay $400 a month. So if you can save up that much it would be good. Also, a suit would be nice. In order to be rich, you gotta look rich. THINK rich. And then it will manifest in your life. You gotta be disciplined. No fapping, no junk food. Strict diet. Every morning, you need to have affirmations. It is important for success. But are you willing? Are you willing to be committed to personal growth?""* Well, when he says it like that, it is hard to say no. Those books are coming to work, I'll give him that. Subtle manipulation and attack on my character. Very persuasive, but disgusting and I see that mask. I then ask further questions about this 'business'. He then goes, ""*The focus is on learning how to build a cash-flow asset for financing, financial independence, and leadership skills. You can become financially independent if you can work HARD. It is all about work ethic. You have to begin somewhere and take action. One small step. That is when the rewards come. My life has drastically changed for the better and I wouldn't be here without my team.  I plan to retire in my early 30's. Being involved with this business can make that possible without a doubt.""*
+
+See what I mean by preaching? It is very persuasive and gets the attention of innocent. Obviously he is completely oblivious to the impending effects of a pyramid scheme. He is not that stupid, I think to myself. How is he falling for this? Desperateness? No... Maybe it is something deeper. I assume the schemes have upgraded in terms of ideology and belief system. They are preying on the weak and desperate; granting them the secret knowledge of success. My friend is now calling himself an entrepreneur. I never knew you can be an entrepreneur without owning a business. I could be wrong.
+
+*""We coach and mentor you on all the things you want to know and you can get a 3-5 year plan to allow you to do as you please. Our business is a win-win situation. Here's why. We gain profit if YOU succeed. That is the only way for us to benefit. If you can't succeed, then we can't succeed. Isn't that amazing? So our business is naturally people-oriented and our purpose is to help others succeed in ALL areas of life.""* (At a lovely price of $400 a month, sir)
+
+Yuck. So that's how low these schemes have come. You know, I would not be this frustrated if it weren't preying on the innocent minds. They are influencing their beliefs and ideology at a psychological level. Ingrained deep inside, almost brain-washing. To create the perfect slave for the business. They talk about the enslavement of 9 to 5, but they do not realise they are slaves themselves. Depriving the people on the bottom any profit, is what he is essentially doing. It is a disgusting business model, and he is very passionate about it. This scam will not last long, it's downfall is inevitable and calculable. It is only a matter of time."
+5,2020-03-03,curioustrader86,1,Deep Learning in Finance E-Book One Algorithm to Predict Them All,"I'm a strong believer in AI revolution, and expect many industries will be brought to the next level thanks to the new technologies, including Investing and Finance. Found this easy to read e-book named One Algorithm to Predict Them All, which explains about deep learning techniques for stock investing, selection and price prediction.
+
+It's an 18 page e-book, and you can download it [on this link](https://finbrain.tech/One-Algorithm-to-Predict-Them-All.pdf) if you are interested in modern and computer aided techniques to analyze and predict stock, commodity and ETF prices."
+6,2020-04-25,rawrtherapy,1,How Power BI (Microsoft’s Self-Service Data Visualization Platform) will be their new Halo Platform that will lead Data Science,"**TL;DR: Power BI can add pre-made Machine and deep learning models. Recent press conference this was specifically mentioned for scale. I think Microsoft is planning a Machine Learning Store for commercial purposes working like the App Store for pre-made models.**
+
+Also I work in the Data Science Field.
+
+——————————————————————
+
+As some of you may or may not know, Power BI has the ability to add pre-made machine learning and deep learning models internally
+
+Once I learned about this I knew where Microsoft was headed
+
+I’m thinking machine learning and AI will be a sort of addition to power bi users completely nulling the need for learning code, why?
+
+Microsoft’s job is to make it as easy as possible for everyone to use their systems and this is why I think Microsoft will have a similar variation of the “App Store” for machine learning models and algorithms
+
+Actual engineers will have the unique experience to be sort of like an app developer where they develop their code and publish it in the App Store and people using Power BI will be able to either download it for free or for a small fee
+
+In their recent press conference about Power BI they mentioned pre-made models being directly implemented into the power BI software and said that this was done specifically for scale
+
+In my opinion, I really think this is the direction Microsoft is headed with their Power BI software and their implementation of scale through Machine Learning for everybody
+
+Long MSFT for the next ten years bigly"
+7,2020-04-22,UnknownEssence,1,Which companies are leading in the AI/Machine Learning field?,"I don't mean narrow use cases such as Tesla with self driving, but rather general AI which can apply to a wide variety of use cases. 
+
+I believe machine learning algorithms will transform our world more than the internet has in the past 20 years, with the application of these algorithms stretching wide and far in almost every field of work from medical, legal, you name it. The rise of general artificial intelligence will transform every aspect of our lives. Aside from Google's Deep Mind, How can I best get a piece of the pie?"
+8,2020-04-11,Kindofathrowawayidk,1,The struggles of an 18y/o starting to invest in 2020,"Just a touch of backstory so you can see where I’m coming from, 
+
+Growing up I have always had a sour taste in my mouth for my families spending habits. Living paycheck to paycheck while also not investing, saving, etc for YEARS has given me a very negative outlook on how fiscally responsible my family is, and I have always had the urge to educate myself on learning to use money as tool and “own my future”.
+
+Way back I learned that a close family friend had gotten into Exxon back in the 80’s and had gone from having a terrible poverty stricken childhood to being a self made millionaire who is fair, honest, and responsible when it comes to money and business. I have always thought of him as a role model in that regard, and have been waiting until adulthood to put myself on the same path, because I don’t trust any family members enough to invest through them. 
+
+Unfortunately, my parents had scammed him out of thousands of dollars a few years ago. He was kind enough to provide them with the opportunity to be self employed during a financially difficult point of our lives. He would sell them collectible coins in huge bulk for a discounted price, and even allow them to go into a considerable amount of debt with him. Sadly they took advantage of the situation after a few years, by putting in a large order and relocating to another state and cutting off communication with him without paying for the order or their outstanding debt. This means I have no way of contacting him for advice, which is very unfortunate. I haven’t spoken to him in 3 or 4 years, and he refuses to respond to any of my family’s calls or texts. I tried contacting him myself but I believe he changed his phone number. 
+
+So here I am, in the middle of an oil crisis that nobody expected, the markets are at the lowest they have been in decades, I have bears in one ear screaming that this is the end of Exxon and the oil industry as we know it, and bulls in the other saying that this is the long term investment of a lifetime. I have very limited funds compared to what I would like to have given today’s market, as I am out of work due to the virus and am going to have to live with the deep sadness of likely being on government assistance at 18. So is this my one chance to own my future, or an early financial mistake that will put me on track to being broke like my family? 
+
+I feel like I need to make a decision come open on Monday, because I know that because of the meetings over the last two days Exxon will either skyrocket or plummet. My gut tells me to stick to what my family friend said about Exxon years ago. Is this the early start I have dreamt of for years or my first step in the wrong direction of financial freedom?"
+9,2020-05-05,KilliTTwice-INV,1,Aussie Tax Dodger,"Well im definitely not a tax dodger, more like a tax magnet however am absolutely a would-be-aspiring-law-abiding-tax-dodger.
+
+My investment style seems to always gravitate to the more liquid end of the spectrum and I've been eating and breathing any and all relevant knowledge or information i can bury my head into for a couple years now with a drastically increased intensity in the last 6 months and have even found myself in some increasingly deep real estate holes. 
+
+The flavour of the month for me at the moment is tax, and i have to say, i am enjoying the dive into it more than should be expected of someone with such a good tan. I've learnt quite alot, however i have depleted the ATO and a few other sources and am still hugely unsatisfied (ofcourse the ato wont be interested in education about tax efficiency for people).
+
+So here I am... Am wondering if anyone amongst this community, particularly someone of Australia, who is versed in Australian tax optimisation from a business or even stock trader or investor perspective would kindly nudge me in the direction of some learning materials that are, well, free. I've had a look through the podcast lists but nothing tax specific other than a podcast by the ATO themselves... Which, knowing Australia gov, listening to alone would likely incur some kind of exorbitant ear-using tax...
+
+Anywho, apologies for the long form post.
+
+Kindest regards for you're input in advance,
+
+Joel 💪💪💪"
