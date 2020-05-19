@@ -9,6 +9,7 @@
    
    
 - `NLTK for Reddit Data.ipynb`：NLTK斷詞
+
    [👉🏻HERE👈🏻](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/WordBreaker/NLTK%20for%20Reddit%20Data.ipynb)
    
     - HW3：[Co-occurrence.ipynb](https://github.com/vanikk06/NOMURA_PROJECT/blob/master/Analysis/WordBreaker/Co-occurrence.ipynb)
